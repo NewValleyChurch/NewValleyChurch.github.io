@@ -4,27 +4,31 @@ topnav:
 - title: Topnav
   items:
     - title: Home
-      external_url: {{ site.url }}/{{ page.url }}
+      url: /index.html
     - title: News
       url: /news
-    - title: Taco
-      url: /taco
+    - title: About
+      url: /mydoc_about.html
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Sound
+    - title: Audio/Visual
       folderitems:
-        - title: Jekyll Talk
+        - title: Sound
           external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
+        - title: Media
           external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
+        - title: Lights
           external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
-    - title: Media
+    - title: I.T. Infrastructure
+      folderitems:
+        - title: Active Network
+          url: /mydoc_active_network.html
+        - title: Passive Network
+          url: /mydoc_passive_network.html
+    - title: Administrative
       folderitems:
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
@@ -32,7 +36,3 @@ topnav_dropdowns:
           url: /p1_landing_page.html
         - title: Product 2
           url: /p2_landing_page.html
-    - title: Lights
-      folderitems:
-        - title:
-          url:

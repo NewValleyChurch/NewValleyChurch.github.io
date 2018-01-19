@@ -5,26 +5,18 @@ permalink: mydoc_introduction.html
 folder: mydoc
 ---
 
-## Overview
+## Purpose
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+To increase awareness of systems and procedures, and improve collaboration between mission critical teams, both staff, and volunteer.
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+This is currently a 100% volunteer based project that utilizes various online tools to track and assemble the information.
 
-## Survey of features
+## Participate
 
-Some of the more prominent features of this theme include the following:
+Everyone can be a part of creating and editing these documents.  Simply click the "Edit Me" button on any page to open the Review branch on GitHub and edit the file there.  Changes will be submitted and reviewed before they are published.
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
+### Reporting Problems
 
-## Getting started
-
-To get started, see [Getting Started][index].
+If you want to [submit an issue](https://github.com/NewValleyChurch/NewValleyChurch.github.io/issues) regarding something that you've discovered while serving on your team, [do that here](https://github.com/NewValleyChurch/NewValleyChurch.github.io/issues).
 
 {% include links.html %}

@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: 
+  product:
   version: 6.0
   folders:
 
@@ -23,13 +23,17 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Welcome
       url: /index.html
       output: web, pdf
       type: homepage
 
     - title: Introduction
       url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Collaboration Tools
+      url: /mydoc_about_the_tools.html
       output: web, pdf
 
     - title: Supported features
@@ -297,3 +301,27 @@ entries:
         - title: Troubleshooting pages
           url: /tag_troubleshooting.html
           output: web
+
+  - title: Change Logs
+    output: web
+    folderitems:
+
+    - title: Media
+      url: /mydoc_media_change_log.html
+      output: web
+
+    - title: Sound
+      url: /mydoc_sound_change_log.html
+      output: web
+
+    - title: Lighting
+      url: /mydoc_stage_lighting_change_log.html
+      output: web
+
+    - title: Network
+      url: /mydoc_network_change_log.html
+      ouput: web
+
+    - title: Building
+      url: /mydoc_building_change_log.html
+      output: web
