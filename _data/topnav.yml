@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: Home
-      external_url: {{ site.url }}
+      external_url: {{ site.url }}/{{ page.url }}
     - title: News
       url: /news
     - title: Taco
