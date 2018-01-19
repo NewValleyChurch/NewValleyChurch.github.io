@@ -42,3 +42,6 @@ I believe that God created us for a specific purpose, and has given us a play bo
 - Practice.
 
 Please refer to the table of contents in the sidebar for additional pages.
+
+{{ page.url }}
+{{ site.url }}
