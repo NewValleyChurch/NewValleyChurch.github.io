@@ -7,8 +7,6 @@ topnav:
       url: /index.html
     - title: News
       url: /news
-    - title: About
-      url: /mydoc_about.html
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -19,20 +17,12 @@ topnav_dropdowns:
         - title: Sound
           external_url: https://talk.jekyllrb.com
         - title: Media
-          external_url: http://jekyllrb.com/docs/home/
+          url: /media
         - title: Lights
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
+          url: /lights
     - title: I.T. Infrastructure
       folderitems:
         - title: Active Network
           url: /mydoc_active_network.html
         - title: Passive Network
           url: /mydoc_passive_network.html
-    - title: Administrative
-      folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
