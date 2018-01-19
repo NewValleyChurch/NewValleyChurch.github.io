@@ -40,6 +40,10 @@ entries:
       url: /mydoc_about.html
       output: web, pdf
 
+    - title: About Jonathan
+      url: /mydoc_jonathan.html
+      output: web, pdf
+
     - title: Support
       url: /mydoc_support.html
       output: web, pdf
