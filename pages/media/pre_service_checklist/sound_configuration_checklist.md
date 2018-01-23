@@ -1,5 +1,5 @@
 ---
-title: 2. Sound Configuration
+title: 2. Audio Setup
 keywords: audio, sound
 summary: "Making sure that the iMac and Ableton Live can see and communicate with the QU-32."
 sidebar: media_sidebar
