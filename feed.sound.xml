@@ -6,9 +6,9 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
-  <title>{{ site.title  | xml_escape }} - chacha</title>
-  <description>Posts tagged as 'blog'</description>
-     <atom:link href="{{ site.url }}/feed.navigation.xml" rel="self" type="application/rss+xml" />
+  <title>{{ site.title  | xml_escape }}</title>
+  <description>Posts tagged as 'Sound'</description>
+     <atom:link href="{{ site.url }}/feed.sound.xml" rel="self" type="application/rss+xml" />
   <link>{{ site.url }}</link>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <author>
@@ -16,7 +16,7 @@ layout: none
    <email>{{ site.author.email }}</email>
   </author>
 
-  {% for post in site.tags.navigation limit:10 %}
+  {% for post in site.tags.sound limit:10 %}
    <item>
     <title>{{ post.title | xml_escape }}</title>
     <description>{{ post.content | xml_escape }}</description>
