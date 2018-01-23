@@ -4,7 +4,7 @@ published: true
 side_bar: mydoc_sidebar
 categories: audio update
 permalink: update-imac-default-output-channels.html
-tags: [news, navigation]
+tags: [news]
 ---
 
 After service this past Sunday, the Mexico Missions trip meeting moved into the sanctuary due to attendance.
