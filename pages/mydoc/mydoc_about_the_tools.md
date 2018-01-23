@@ -8,6 +8,7 @@ folder: mydoc
 summary: A quick rundown of the different software tools that we use to collaborate.
 ---
 
+{{ page.date }}
 The following tools are all free tools that are available on the internet today.
 
 ## Slack
