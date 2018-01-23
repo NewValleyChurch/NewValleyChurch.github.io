@@ -1,7 +1,6 @@
 ---
 title:  "Update: iMac Default Output Channels"
 published: true
-
 categories: sound update
 permalink: update-imac-default-output-channels.html
 tags: [getting_started]
