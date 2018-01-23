@@ -1,9 +1,10 @@
 ---
 title:  "Update: iMac Default Output Channels"
 published: true
+side_bar: mydoc_sidebar
 categories: sound update
 permalink: update-imac-default-output-channels.html
-tags: [getting_started]
+tags: [news, getting_started]
 ---
 
 After service this past Sunday, the Mexico Missions trip meeting moved into the sanctuary due to attendance.
