@@ -17,7 +17,7 @@ topnav_dropdowns:
         - title: Sound
           external_url: https://talk.jekyllrb.com
         - title: Media
-          url: /media
+          url: /media.html
         - title: Lights
           url: /lights
     - title: I.T. Infrastructure

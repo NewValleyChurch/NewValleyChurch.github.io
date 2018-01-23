@@ -5877,6 +5877,15 @@ a.thumbnail:hover {
     border-color: #bce8f1
 }
 
+alert2-info {
+    background-color: #ff8d0045;
+    border-color: #000
+}
+
+.alert2-info hr {
+    border-top-color: #a6e1ec
+}
+
 .alert-info hr {
     border-top-color: #a6e1ec
 }

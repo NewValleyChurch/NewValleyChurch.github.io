@@ -593,7 +593,7 @@ a.fa.fa-envelope-o.mailto {
 h3 {color: #ED1951; font-weight:normal; font-size:130%;}
 h4 {color: #808080; font-weight:normal; font-size:120%; font-style:italic;}
 
-.alert, .callout {
+.alert, .alert2, .callout {
     overflow: hidden;
 }
 
@@ -637,7 +637,15 @@ div.alert code, h2 code {
     background-color: transparent !important;
 }
 /* without this, the links in these notes aren't visible.*/
+div.alert2 code, h2 code {
+    background-color: transparent !important;
+}
+
 .alert a {
+    text-decoration: underline;
+}
+
+.alert2 a {
     text-decoration: underline;
 }
 
@@ -791,12 +799,12 @@ dd {margin-left:20px;}
     font-weight: bold;
 }
 
-.note code, .alert code, .warning code, div#toc code, h2 code, h3 code, h4 code {
+.note code, .alert code, .alert2 code .warning code, div#toc code, h2 code, h3 code, h4 code {
     color: inherit;
     padding: 0px;
 }
 
-.alert {
+.alert, alert2 {
     margin-bottom:10px;
     margin-top:10px;
 }

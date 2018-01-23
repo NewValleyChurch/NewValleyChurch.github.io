@@ -9,10 +9,6 @@ summary: Formerly "New Valley WIKI".  A comprehensive technical and administrati
 
 ## Welcome
 
-
-Page Date: {{ page.date | date: "%-d %B %Y" }}
-Page Updated:
-
 {% include custom/admin_welcome_message.md %}
 
 {% include links.html %}
