@@ -115,3 +115,6 @@ url: http://idratherbewriting.com
 
 url: newvalleychurch.github.io
 baseurl: /
+
+gems:
+  - jekyll-last-modified-at
