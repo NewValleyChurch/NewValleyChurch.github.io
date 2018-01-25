@@ -1,10 +1,10 @@
 ---
-title:  "Updates and Changes"
+title:  "Confidence Monitor / Stage Display"
 published: true
 side_bar: mydoc_sidebar
-categories: media update
+categories: media
 permalink: 2018-01-22-activity-log.html
-tags: [news, media]
+tags: [media]
 ---
 
 - Identified that the Stage Display in the back of the Sanctuary had no power due to a tripped breaker (breaker #17) on the Foyer panel. Turned power on.

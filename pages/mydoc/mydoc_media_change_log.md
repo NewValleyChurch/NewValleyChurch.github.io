@@ -8,26 +8,6 @@ folder: mydoc
 summary: A log of changes in reverse chronological order.
 ---
 
-## 01-22-2018
-
-- Identified that the Stage Display in the back of the Sanctuary had no power due to a tripped breaker (breaker #17) on the Foyer panel.  Turned power on.
-- Programmed Harmony Remote Control to be able to access the Vizio stage monitor on the back of the sanctuary wall.  Tested, success.
-- Connected TV to WIFI Network.
-
-## 01-21-2018
-
-- 
-
-## 01-17-2018
-
-- Mapped out the Projector network connections and configured remote control.  You no longer need to use the IR remotes to turn on the projectors.
-- Created the [Projectors](https://github.com/NewValleyChurch/Infrastructure/wiki/Projectors) page.
-- Re-configured [[Keyboard Audio Routing Setup|Keyboard Audio Routing Setup]]
-
-## 01-15-2018
-
-- Added the following page:  [DualHead2Go](https://github.com/NewValleyChurch/Infrastructure/wiki/DualHead2Go)
-
 ## 01-14-2018
 
 - Added new document to WIKI - [Pre Service Checklist](https://github.com/NewValleyChurch/Infrastructure/wiki/Pre-Service-Checklist)  This is currently a draft.

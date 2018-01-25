@@ -5,6 +5,7 @@ summary: "Information on the DMXIS lighting control."
 sidebar: lighting_sidebar
 permalink: About-DMXIS.html
 folder: lights
+categories: lighting
 ---
 
 # Hardware
