@@ -1,8 +1,8 @@
 ---
-title: "Sound"
-categoryName: sound
+title: "Building"
+categoryName: building
 search: exclude
-permalink: category_audio.html
+permalink: category_building.html
 sidebar: mydoc_sidebar
 folder: categories
 ---

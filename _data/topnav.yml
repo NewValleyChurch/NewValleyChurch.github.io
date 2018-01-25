@@ -5,8 +5,6 @@ topnav:
   items:
     - title: Home
       url: /index.html
-    - title: News
-      url: /news
 
 #Topnav dropdowns
 topnav_dropdowns:

@@ -1,8 +1,8 @@
 ---
-title: Media News
+title: Building and Facilities
 sidebar: mydoc_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: news_media.html
+permalink: news_building.html
 toc: false
 folder: news
 ---
@@ -12,9 +12,9 @@ folder: news
       {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}">
     </div>
-  <a name="{{ "Media" | slugize }}">
+  <a name="{{ "Building" | slugize }}">
   </a>
-  {% for post in site.categories.media %}
+  {% for post in site.categories.building %}
     <h2>
       <a class="post-link" href="{{ post.url | remove: "/" }}">
         {{ post.title }}

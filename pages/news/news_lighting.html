@@ -12,10 +12,6 @@ folder: news
       {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}">
     </div>
-  <p></p>
-  <h3 class="category-head">
-    Lighting
-  </h3>
   <a name="{{ "Lighting" | slugize }}">
   </a>
   {% for post in site.categories.lighting %}

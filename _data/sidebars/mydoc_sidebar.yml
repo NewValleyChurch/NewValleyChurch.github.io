@@ -77,26 +77,26 @@ entries:
           url: /tag_troubleshooting.html
           output: web
 
-  - title: Change Logs
+  - title: News and Updates
     output: web
     folderitems:
 
     - title: Media
-      url: /mydoc_media_change_log.html
+      url: /news_media.html
       output: web
 
     - title: Sound
-      url: /mydoc_sound_change_log.html
+      url: /news_audio.html
       output: web
 
     - title: Lighting
-      url: /mydoc_stage_lighting_change_log.html
+      url: /news_lighting.html
+      output: web
+
+    - title: Building
+      url: /news_building.html
       output: web
 
     - title: Network
-      url: /mydoc_network_change_log.html
+      url: /news_networking.html
       ouput: web
-
-    - title: Building
-      url: /mydoc_building_change_log.html
-      output: web
