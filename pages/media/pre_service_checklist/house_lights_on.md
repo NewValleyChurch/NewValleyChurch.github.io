@@ -6,7 +6,7 @@ sidebar: media_sidebar
 permalink: house_lights_on.html
 folder: media
 simple_map: true
-map_name: pre_service_checklist_map
+map_name: pre-service-checklist-map-media
 box_number: 1
 toc: false
 ---

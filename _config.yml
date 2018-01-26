@@ -10,6 +10,14 @@ site_title: New Valley Church Docs
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: New Valley Church
+
+author:
+  jon_griffith:
+    name: Jon Griffith
+    email: jon@jongriffith.com
+    web: http://www.jongriffith.com
+
+
 # this appears in the footer
 
 github_editme_path: NewValleyChurch/NewValleyChurch.github.io/tree/reviews/
@@ -95,6 +103,7 @@ defaults:
       layout: "post"
       comments: true
       search: true
+      author: jon_griffith
       sidebar: home_sidebar
       topnav: topnav
 
@@ -113,7 +122,7 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: http://idratherbewriting.com
+url: http://newvalleychurch.github.io
 
 url: newvalleychurch.github.io
 baseurl: /

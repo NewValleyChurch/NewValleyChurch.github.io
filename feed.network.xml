@@ -7,7 +7,7 @@ layout: none
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
   <title>{{ site.title  | xml_escape }}</title>
-  <description>Posts tagged as 'Network'</description>
+  <description>Articles in the 'Network' Category</description>
      <atom:link href="{{ site.url }}/feed.network.xml" rel="self" type="application/rss+xml" />
   <link>{{ site.url }}</link>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -16,7 +16,7 @@ layout: none
    <email>{{ site.author.email }}</email>
   </author>
 
-  {% for post in site.tags.network limit:10 %}
+  {% for post in site.categories.network limit:10 %}
    <item>
     <title>{{ post.title | xml_escape }}</title>
     <description>{{ post.content | xml_escape }}</description>

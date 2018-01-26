@@ -7,8 +7,8 @@ layout: none
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
   <title>{{ site.title  | xml_escape }}</title>
-  <description>Articles in the 'Sound' category</description>
-     <atom:link href="{{ site.url }}/feed.sound.xml" rel="self" type="application/rss+xml" />
+  <description>Articles about the Building and Facilities</description>
+     <atom:link href="{{ site.url }}/feed.building.xml" rel="self" type="application/rss+xml" />
   <link>{{ site.url }}</link>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <author>
@@ -16,7 +16,7 @@ layout: none
    <email>{{ site.author.email }}</email>
   </author>
 
-  {% for post in site.categories.sound limit:10 %}
+  {% for post in site.categories.building limit:10 %}
    <item>
     <title>{{ post.title | xml_escape }}</title>
     <description>{{ post.content | xml_escape }}</description>

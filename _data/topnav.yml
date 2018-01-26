@@ -10,26 +10,26 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: News
+    - title: News & Updates
       folderitems:
         - title: All News
           url: /news
         - title: General
           url: /news_general
         - title: Sound
-          url: /news_audio
+          url: /news_sound
         - title: Media
           url: /news_media
         - title: Lights
           url: /news_lighting
         - title: Network
           url: /news_network
-    - title: Audio/Visual
+    - title: Production Teams
       folderitems:
         - title: Sound
-          external_url: https://talk.jekyllrb.com
+          url: /sound
         - title: Media
-          url: /media.html
+          url: /media
         - title: Lights
           url: /lights
     - title: I.T. Infrastructure

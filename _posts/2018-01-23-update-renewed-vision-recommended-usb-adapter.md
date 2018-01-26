@@ -1,10 +1,11 @@
 ---
 title:  "Update: Renewed Vision Recommended Video Adapter"
 published: true
+author: jon_griffith
 side_bar: mydoc_sidebar
 categories: media
 permalink: update-renewed-vision-recommended-usb-adapter.html
-tags: [news, navigation, taco]
+tags: [news]
 ---
 
 - Renewed Vision recommended that we first try the USB adapter drivers offered at [www.DisplayLink.com](http://www.displaylink.com).  If that doesn't work...

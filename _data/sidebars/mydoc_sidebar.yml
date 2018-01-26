@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product:
+  product: General Main Menu
   version:
   folders:
 
@@ -32,8 +32,8 @@ entries:
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Collaboration Tools
-      url: /mydoc_about_the_tools.html
+    - title: How to Connect
+      url: /team_communication.html
       output: web, pdf
 
   - title: News and Updates
@@ -45,7 +45,7 @@ entries:
       output: web
 
     - title: Sound
-      url: /news_audio.html
+      url: /news_sound.html
       output: web
 
     - title: Media

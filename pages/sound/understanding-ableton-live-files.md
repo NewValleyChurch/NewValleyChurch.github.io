@@ -1,13 +1,15 @@
 ---
-title: Understanding Ableton Live
+title: Ableton Live File Structure
 keywords: Ableton
-summary: "Basics of Ableton Live"
-sidebar: media_sidebar
-permalink: understanding-ableton-live.html
-folder: media
+summary: "A rundown of how Ableton Live manages files."
+sidebar: sound_sidebar
+permalink: understanding-ableton-live-files.html
+folder: sound
+toc: false
+categories: sound, ableton
 ---
 
-### Understanding How Ableton Live References Files
+## Understanding How Ableton Live Manages Files
 
 When you record audio in Ableton Live, a clip is created either in the Arrangement View timeline, or in a Session View clip slot.
 

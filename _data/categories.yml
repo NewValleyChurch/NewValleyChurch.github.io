@@ -2,10 +2,10 @@
 # If you are using the createcategory script, don't leave an blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-categories:
-  - audio
   - media
   - sound
   - network
   - building
   - general
   - lighting
+  - software

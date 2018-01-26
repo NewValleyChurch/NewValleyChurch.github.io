@@ -1,58 +1,11 @@
 ---
-title: "Sound Change Log"
-keywords: changelog
-tags: [change_logs]
-sidebar: mydoc_sidebar
-permalink: mydoc_sound_change_log.html
-folder: mydoc
-summary: A log of changes in reverse chronological order.
+title:  "Change Log 12/22/2017"
+published: true
+side_bar: mydoc_sidebar
+categories: media, sound, lighting
+permalink: 2017-12-22-change-log.html
+tags: [stage, sound, lights, qu-32, slack, dSnake]
 ---
-
-## 01-17-2018
-
-- Mapped out the Projector network connections and configured remote control.  You no longer need to use the IR remotes to turn on the projectors.
-- Created the [Projectors](https://github.com/NewValleyChurch/Infrastructure/wiki/Projectors) page.
-- Re-configured [[Keyboard Audio Routing Setup|Keyboard Audio Routing Setup]]
-
-## 01-15-2018
-
-- Added the following page:  [DualHead2Go](https://github.com/NewValleyChurch/Infrastructure/wiki/DualHead2Go)
-
-## 01-14-2018
-
-- Added new document to WIKI - [Pre Service Checklist](https://github.com/NewValleyChurch/Infrastructure/wiki/Pre-Service-Checklist)  This is currently a draft.
-- Updated Sidebar
-
-## 01-08-2018
-
-- Wired a new XLR connection from the QU-32 Mix 4 Output to input 5 of the RAVE 522ua DSP.
-- Isolated output 6 on the DSP (Foyer Mix)
-- Mapped out a [Wiring Diagram](https://github.com/NewValleyChurch/Infrastructure-docs/blob/master/Worship-Ministries/Sound/Audio%20Hardware/DSP-Wiring-Diagram.md#wiring-diagram) for the Rave 522ua.
-- Anything sent to Mix 4 goes only to the Foyer and Kitchen area.
-- Discovered that the overheads on the 70V amp are all on a single zone.  There's no current way to isolate multiple zones outside of the sanctuary without re-wiring the zones.
-- Tested the volume control in the cry room.  It works.
-
-
-## 01-02-2018
-
-- Updated Ableton Live Preferences:
-
-  - **File & Folder Settings:** The TEMP, CACHE, and USER folders were relocated to Blue from the local hard drive as the local hard drive is running low on space.  Blue can accommodate about 500 hours of full multi-track recording currently.  You can refer to the following preferences settings for their current locations:
-
-    - Live --> Preferences --> File Folder Tab --> Temporary Folder
-    - Live --> Preferences --> File Folder Tab --> Cache Folder
-    - Live --> Preferences --> Library Tab --> Location of User Library
-
-This was done to accommodate full-band rehearsal recording sessions.
-
-- Created new page on [WIKI](https://github.com/NewValleyChurch/Infrastructure/wiki) entitled [Ableton Live Notes](https://github.com/NewValleyChurch/Infrastructure/wiki/Ableton-Live-Notes)
-
-- Updated Sidebar (Table of Contents):
-
-  - Added [Ableton Live Notes](https://github.com/NewValleyChurch/Infrastructure/wiki/Ableton-Live-Notes).
-
-
-## 12-22-2017
 
 - Cleaned up the entire stage.  Re-routed most cabling to dSnake ports that were closer to the source.  Created a new scene on the QU-32 called [Re-Routed](https://github.com/NewValleyChurch/Infrastructure/wiki/QU-32-FOH-Setup).  Mappings can be found on [this page.](https://github.com/NewValleyChurch/Infrastructure/wiki/QU-32-FOH-Setup)
 
@@ -89,3 +42,5 @@ This was done to accommodate full-band rehearsal recording sessions.
 -  The male-female XLR cables are in a Tupperware box on the stage.  I have two boxes of gear in the last row of the sanctuary near the FOH with all of my cables etc.
 
 -  I picked up a 55 yard roll of gray Gaff tape which unfortunately turned out to clash with the stage instead of blend.  Black seems to work better.  If we could find a darker gray it might be better, but this gray just doesn’t work well.
+
+{% include links.html %}

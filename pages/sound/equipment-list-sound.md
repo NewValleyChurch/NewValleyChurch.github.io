@@ -1,3 +1,14 @@
+---
+title: "Audio Equipment List"
+keywords: inventory, audio, audio equipment
+category: sound
+sidebar: sound_sidebar
+permalink: equipment-list-sound.html
+folder: sound
+toc: false
+summary: A comprehensive list of all audio equipment. [work in progress]
+---
+
 - Allen & Heath [QU-32](http://www.allen-heath.com/media/Qu-Mixer-Reference-Guide-AP9372_9.pdf) Mixer
 - 1 X Focusrite [Scarlett 18i8](https://us.focusrite.com/downloads?product=Scarlett+18i8+first+gen) External Sound Module (1st Gen)
 - 2 X Allen & Heath [AB168 Digital Snake](http://www.allen-heath.com/media/AB168-Guide-AP9588_1.pdf) and Extender
