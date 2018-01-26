@@ -35,6 +35,7 @@ folder: news
       {{ page.summary | strip_html | strip_newlines | truncate: 160 }}
     {% else %}
       {{ post.content | truncatewords: 50 | strip_html }}
+      {% include custom/read_more_text.html %}
     {% endif %}</p>
 
 {% endfor %}

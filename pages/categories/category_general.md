@@ -1,8 +1,8 @@
 ---
-title: "Lighting"
-categoryName: lighting
+title: "General"
+categoryName: general
 search: exclude
-permalink: category_lighting.html
+permalink: category_general.html
 sidebar: mydoc_sidebar
 folder: categories
 ---

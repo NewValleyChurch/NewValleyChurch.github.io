@@ -32,64 +32,27 @@ entries:
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Cool Software
+    - title: Collaboration Tools
       url: /mydoc_about_the_tools.html
       output: web, pdf
-
-  - title: Tag archives
-    output: web
-    folderitems:
-
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
-      output: web
-
-      subfolders:
-      - title: Tag archive pages
-        output: web
-        subfolderitems:
-
-        - title: Formatting pages
-          url: /tag_formatting.html
-          output: web
-
-        - title: Navigation pages
-          url: /tag_navigation.html
-          output: web
-
-        - title: Content types pages
-          url: /tag_content_types.html
-          output: web
-
-        - title: Publishing pages
-          url: /tag_publishing.html
-          output: web
-
-        - title: Special layout pages
-          url: /tag_special_layouts.html
-          output: web
-
-        - title: Collaboration pages
-          url: /tag_collaboration.html
-          output: web
-
-        - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
-          output: web
 
   - title: News and Updates
     output: web
     folderitems:
 
-    - title: Media
-      url: /news_media.html
+    - title: General
+      url: /news_general.html
       output: web
 
     - title: Sound
       url: /news_audio.html
       output: web
 
-    - title: Lighting
+    - title: Media
+      url: /news_media.html
+      output: web
+
+    - title: Lights
       url: /news_lighting.html
       output: web
 
@@ -97,6 +60,6 @@ entries:
       url: /news_building.html
       output: web
 
-    - title: Network
-      url: /news_networking.html
+    - title: Networker
+      url: /news_networks.html
       ouput: web

@@ -3,7 +3,7 @@ title:  "Change Log 01/17/2018"
 published: true
 side_bar: mydoc_sidebar
 categories: media
-permalink: 2018-01-17-activity-log.html
+permalink: 2018-01-17-change-log.html
 tags: [media]
 ---
 

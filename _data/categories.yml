@@ -5,6 +5,7 @@ allowed-categories:
   - audio
   - media
   - sound
-  - general
   - network
   - building
+  - general
+  - lighting

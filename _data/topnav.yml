@@ -14,12 +14,16 @@ topnav_dropdowns:
       folderitems:
         - title: All News
           url: /news
+        - title: General
+          url: /news_general
         - title: Sound
           url: /news_audio
         - title: Media
           url: /news_media
         - title: Lights
           url: /news_lighting
+        - title: Network
+          url: /news_network
     - title: Audio/Visual
       folderitems:
         - title: Sound

@@ -1,8 +1,8 @@
 ---
-title: Lighting News
+title: General News
 sidebar: mydoc_sidebar
 keywords: news, blog, updates, release notes, announcements
-permalink: news_lighting.html
+permalink: news_general.html
 toc: false
 folder: news
 ---
@@ -12,9 +12,9 @@ folder: news
       {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}">
     </div>
-  <a name="{{ "Lighting" | slugize }}">
+  <a name="{{ "General" | slugize }}">
   </a>
-  {% for post in site.categories.lighting %}
+  {% for post in site.categories.general %}
     <h2>
       <a class="post-link" href="{{ post.url | remove: "/" }}">
         {{ post.title }}
