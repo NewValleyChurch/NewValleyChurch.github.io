@@ -1,5 +1,13 @@
 ---
-Title: Sample 1
+title: "Testing Page 2"
 category: sound
-order: 1
+sidebar: none
+layout: page2
+permalink: testing2.html
+folder: testing
+toc: false
+order: 2
+summary: A quick rundown of the different software tools that we use to stay connected and communicate with one another.
 ---
+
+Two

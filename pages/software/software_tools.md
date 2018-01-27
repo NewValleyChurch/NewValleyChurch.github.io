@@ -2,7 +2,6 @@
 title: "Team Communication"
 keywords: homepage
 tags: [slack, waffle.io, google docs, teamwork projects]
-category: software
 sidebar: mydoc_sidebar
 permalink: team_communication.html
 folder: software

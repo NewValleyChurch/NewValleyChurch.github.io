@@ -1,7 +1,6 @@
 ---
 title: "Audio Equipment List"
 keywords: inventory, audio, audio equipment
-category: sound
 sidebar: sound_sidebar
 permalink: equipment-list-sound.html
 folder: sound
