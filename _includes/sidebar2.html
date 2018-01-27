@@ -10,7 +10,7 @@
 
   <ul id="mysidebar" class="nav">
     <li class="sidebarTitle">title</li>
-    <li class="active"><a href="#">{{ cat.name | capitalize }}</a>
+    <li><a href="#">{{ cat.name | capitalize }}</a>
       <ul>
         {% assign items = cat.items | sort: 'order' %}
         {% for item in items %}
