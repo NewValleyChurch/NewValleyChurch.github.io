@@ -9,7 +9,7 @@
 
 
   <ul id="mysidebar" class="nav">
-    <li class="sidebarTitle">title</li>
+    <li class="sidebarTitle">Category Name: {{ cat.name }}</li>
     <li><a href="#">{{ cat.name | capitalize }}</a>
       <ul>
         {% assign items = cat.items | sort: 'order' %}
