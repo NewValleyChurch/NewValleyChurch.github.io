@@ -12,9 +12,13 @@ toc: false
 
 ## The Menu
 
-The menu on the left is built by using an HTML file called Sidebar2.html in the `_includes` folder.  The front matter in this page sets the category to "sound", the folder to "testing", and the layout to page2.
+The menu on the left is built by using an HTML file called Sidebar2.html in the `_includes` folder which loops through all of the pages in the site.  The side bar loops first to locate category names based upon the front matter in the page, and then again to list each page that is set to that category.
+
+The front matter in _this_ page has the category to "sound", the folder to "testing", and the layout to page2.
 
 `sidebar: none` disables the default theme sidebar to make room for the custom autobuild menu.
+
+##
 
 ## Current Problem
 
