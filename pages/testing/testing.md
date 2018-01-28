@@ -16,9 +16,7 @@ The menu on the left is built by using an HTML file called Sidebar2.html in the 
 
 The front matter in _this_ page has the category to "sound", the folder to "testing", and the layout to page2.
 
-`sidebar: none` disables the default theme sidebar to make room for the custom autobuild menu.
-
-##
+`sidebar: none` disables the default theme sidebar to make room for the custom auto-build menu.
 
 ## Current Problem
 

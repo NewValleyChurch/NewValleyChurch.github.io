@@ -1,5 +1,6 @@
 body {
     font-size:15px;
+    font-family: 'Arvo', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .bs-callout {
@@ -123,6 +124,9 @@ caption {
     color: #777;
     text-align: left;
 }
+
+
+
 th {
     text-align: left;
 }
@@ -443,7 +447,6 @@ span.projectTitle {
 img.screenshotSmall {
     max-width: 300px;
 }
-
 
 dl dt p {
     margin-left:20px;
@@ -888,21 +891,15 @@ span.soft {
 
 .post-content img {
     margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
-    max-width: 100%;
-    max-height: 100%;
 }
+.docimage-left {
+  float: left;
+}
+.docimage-right {
+  float: right;
+}
+
 .col-md-9 img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
-
-.post-content img {
-    margin: 12px 0px 3px 0px;
-    width: auto;
-    height: auto;
     max-width: 100%;
     max-height: 100%;
 }

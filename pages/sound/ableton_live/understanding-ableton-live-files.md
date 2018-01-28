@@ -6,7 +6,7 @@ sidebar: sound_sidebar
 permalink: understanding-ableton-live-files.html
 folder: sound
 toc: false
-categories: sound, ableton
+categories: sound
 ---
 
 ## Understanding How Ableton Live Manages Files

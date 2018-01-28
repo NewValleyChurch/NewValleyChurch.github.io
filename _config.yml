@@ -85,6 +85,7 @@ defaults:
       search: true
       sidebar: home_sidebar
       topnav: topnav
+      image_folder: images
   -
     scope:
       path: ""
@@ -94,6 +95,7 @@ defaults:
       comments: true
       search: true
       tooltip: true
+      image_folder: images
 
   -
     scope:
@@ -106,6 +108,7 @@ defaults:
       author: jon_griffith
       sidebar: home_sidebar
       topnav: topnav
+      image_folder: images
 
 # these are defaults used for the frontmatter for these file types
 

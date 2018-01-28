@@ -4,6 +4,8 @@ keywords: homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
+toc: false
+category: Overview
 summary: Formerly "New Valley WIKI".  A comprehensive technical and administrative reference.
 ---
 

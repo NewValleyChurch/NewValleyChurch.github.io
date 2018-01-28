@@ -1,1 +1,21 @@
-<figure>{% if {{include.url}} %}<a class="no_icon" target="_blank" href="{{include.url}}">{% endif %}<img class="docimage" src="images/{{include.file}}" alt="{{include.alt}}" {% if {{include.max-width}} %}style="max-width: {{include.max-width}}px"{% endif %} />{% if {{include.url}} %}</a>{% endif %}{% if {{include.caption}} %}<figcaption>{{include.caption}}</figcaption>{% endif %}</figure>
+{% if {{include.float}} == "right" %}
+<div class="docimage-right">
+{% elsif {{include.float}} == "left" %}
+<div class="docimage-left">
+{% endif %}
+<figure>
+
+    <a class="no_icon" target="_blank" {% if {{page.image_folder}} %}href="images/{{page.image_folder}}/{{include.file}}"{% else %}href="/{{include.file}}"{% endif %}>
+
+  <img {% if {{page.image_folder}} %}src="images/{{page.image_folder}}/{{include.file}}"{% else %}src="/{{include.file}}"{% endif %} alt="{{include.alt}}" {% if {{include.max-width}} %}style="max-width: {{include.max-width}}px"{% endif %} />
+
+
+  </a>
+
+  {% if {{include.caption}} %}
+  <figcaption>{{include.caption}}</figcaption>
+  {% endif %}
+</figure>
+{% if {{include.float}} %}
+</div>
+{% endif %}

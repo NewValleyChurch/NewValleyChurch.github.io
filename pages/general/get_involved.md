@@ -1,10 +1,10 @@
 ---
-title: "Team Communication"
+title: "Get Involved"
 keywords: homepage
 tags: [slack, waffle.io, google docs, teamwork projects]
 sidebar: mydoc_sidebar
-permalink: team_communication.html
-folder: software
+permalink: get_involved.html
+folder: general
 toc: false
 summary: A quick rundown of the different software tools that we use to stay connected and communicate with one another.
 ---

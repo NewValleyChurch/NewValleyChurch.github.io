@@ -32,8 +32,8 @@ entries:
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: How to Connect
-      url: /team_communication.html
+    - title: Get Involved
+      url: /get_involved.html
       output: web, pdf
 
   - title: News and Updates

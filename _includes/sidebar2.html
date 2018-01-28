@@ -6,11 +6,12 @@
   {% else %}
 
 
-
-
   <ul id="mysidebar" class="nav">
-    <li class="sidebarTitle">Category Name: {{ cat.name }}</li>
+    {% if cat.name == "Overview" %}
     <li><a href="#">{{ cat.name | capitalize }}</a>
+    {% else %}
+    <li><a href="/{{ cat.name }}">{{ cat.name | capitalize }}</a>
+    {% endif %}
       <ul>
         {% assign items = cat.items | sort: 'order' %}
         {% for item in items %}
@@ -21,7 +22,6 @@
           {% endif %}
         {% endfor %}
       </ul>
-    </li>
     </li>
   </ul>
 
