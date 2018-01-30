@@ -17,6 +17,7 @@ layout: none
     <title>{{ post.title | xml_escape }}</title>
     <description>{{ post.excerpt | xml_escape }}</description>
     <link>{{ site.url }}{{ post.url }}</link>
+    <source>{{ site.url }}{{ post.url }}</source>
     <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
     <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
    </item>

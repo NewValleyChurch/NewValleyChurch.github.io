@@ -4,6 +4,7 @@ published: true
 author: jon_griffith
 side_bar: mydoc_sidebar
 categories: media
+date: 2018-01-22 15:19:05 -0700
 permalink: 2018-01-22-activity-log-media.html
 tags: [media]
 ---
