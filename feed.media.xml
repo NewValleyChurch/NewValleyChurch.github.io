@@ -21,6 +21,7 @@ layout: none
     <title>{{ post.title | xml_escape }}</title>
     <description>{{ post.content | xml_escape }}</description>
     <link>{{ site.url }}{{ post.url }} </link>
+    <source>{{ site.url }}{{ post.url }}</source>
     <pubDate>{{ post.date }}</pubDate>
     <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
    </item>
