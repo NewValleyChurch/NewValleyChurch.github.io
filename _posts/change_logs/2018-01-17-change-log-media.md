@@ -2,7 +2,7 @@
 title:  "Change Log 01-17-2018"
 published: true
 side_bar: main_sidebar
-categories: media sound
+categories: media
 permalink: 2018-01-17-change-log-media.html
 tags: [projectors, audio routing]
 ---
