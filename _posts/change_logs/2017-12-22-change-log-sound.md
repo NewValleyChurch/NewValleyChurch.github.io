@@ -4,6 +4,7 @@ published: true
 side_bar: main_sidebar
 categories: sound
 author: jon_griffith
+date: 2017-12-22 14:03:35 -0700
 permalink: 2017-12-22-change-log-sound.html
 tags: [stage, sound, lights, qu-32, slack, dSnake]
 ---
