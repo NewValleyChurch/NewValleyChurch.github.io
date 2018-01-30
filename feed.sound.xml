@@ -11,15 +11,11 @@ layout: none
      <atom:link href="{{ site.url }}/feed.sound.xml" rel="self" type="application/rss+xml" />
   <link>{{ site.url }}</link>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
-  </author>
-
+  {% include feedAuthor.html %}
   {% for post in site.categories.sound limit:10 %}
    <item>
     <title>{{ post.title | xml_escape }}</title>
-    <description>{{ post.content | xml_escape }}</description>
+    <description>{{ post.excerpt | xml_escape }}</description>
     <link>{{ site.url }}{{ post.url }} </link>
     <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
     <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>

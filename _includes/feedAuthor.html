@@ -1,0 +1,12 @@
+{% assign author = site.data.authors[page.author] %}
+{% if author %}
+<author>
+ <name>{{ author.name }}testing</name>
+ <email>{{ author.email }}</email>
+</author>
+{% else %}
+<author>
+ <name>{{ page.author }}</name>
+ <email></email>
+</author>
+{% endif %}
