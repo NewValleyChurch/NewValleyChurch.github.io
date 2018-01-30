@@ -3,7 +3,7 @@ title: "Lighting"
 categoryName: lighting
 search: exclude
 permalink: category_lighting.html
-sidebar: mydoc_sidebar
+sidebar: main_sidebar
 folder: categories
 ---
 {% include categorylogic.html %}

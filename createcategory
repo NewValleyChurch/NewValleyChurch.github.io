@@ -31,7 +31,7 @@ title: "${title}"
 categoryName: ${category}
 search: exclude
 permalink: category_${category}.html
-sidebar: mydoc_sidebar
+sidebar: main_sidebar
 hide_sidebar: true
 folder: categories
 ---

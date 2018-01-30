@@ -1,7 +1,7 @@
 ---
 title:  "Change Log 12/22/2017"
 published: true
-side_bar: mydoc_sidebar
+side_bar: main_sidebar
 categories: media sound lighting
 permalink: 2017-12-22-change-log.html
 tags: [stage, sound, lights, qu-32, slack, dSnake]

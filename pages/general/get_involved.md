@@ -2,7 +2,7 @@
 title: "Get Involved"
 keywords: homepage
 tags: [slack, waffle.io, google docs, teamwork projects]
-sidebar: mydoc_sidebar
+sidebar: main_sidebar
 permalink: get_involved.html
 folder: general
 toc: false

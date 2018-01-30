@@ -19,8 +19,9 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
-    output: web, pdf
+  - title: Home
+    output: web
+    url: /index.html
     folderitems:
 
     - title: Welcome
@@ -36,7 +37,7 @@ entries:
       url: /get_involved.html
       output: web, pdf
 
-  - title: News and Updates
+  - title: News & Updates
     output: web
     folderitems:
 
@@ -63,3 +64,32 @@ entries:
     - title: Networker
       url: /news_networks.html
       ouput: web
+
+  - title: Volunteer Resources
+    output: web
+    folderitems:
+
+    - title: Volunteer Resources Home
+      url: /volunteer_resources.html
+      output: web
+
+      subfolders:
+      - title: Production Teams
+        output: web
+        subfolderitems:
+
+        - title: Sound
+          url: /sound
+          output: web
+
+        - title: Media
+          url: /media
+          output: web
+
+        - title: Lights
+          url: /lights
+          output: web
+
+      - title: Worship Band
+        url: web
+        subfolderitems:

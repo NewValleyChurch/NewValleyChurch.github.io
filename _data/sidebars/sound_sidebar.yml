@@ -8,6 +8,10 @@ entries:
   version:
   folders:
 
+  - title: Home
+    url: /index.html
+    output: web
+
   - title: Getting Started
     output: web
     folderitems:

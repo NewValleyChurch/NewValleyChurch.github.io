@@ -2,7 +2,7 @@
 title: "New Valley Resources"
 keywords: homepage
 tags: [getting_started]
-sidebar: mydoc_sidebar
+sidebar: main_sidebar
 permalink: index.html
 toc: false
 category: Overview

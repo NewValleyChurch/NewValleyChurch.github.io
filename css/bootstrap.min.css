@@ -6028,7 +6028,7 @@ alert2-info {
 }
 
 .media {
-    margin-top: 15px
+    margin-top: 15px;
 }
 
 .media:first-child {
@@ -6063,7 +6063,8 @@ alert2-info {
 .media-left,
 .media-right {
     display: table-cell;
-    vertical-align: top
+    vertical-align: top;
+    height: 120px;
 }
 
 .media-middle {

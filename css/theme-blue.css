@@ -40,7 +40,15 @@ a[data-toggle="tooltip"] {
 .navbar-inverse {
     background-color: #347DBE;
     border-color: #015CAE;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+
+.navbar a img:hover {
+  opacity:1.0;
+}
+
+
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
     color: white;
 }

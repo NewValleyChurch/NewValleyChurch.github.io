@@ -3,7 +3,7 @@ title: "Media"
 categoryName: media
 search: exclude
 permalink: category_media.html
-sidebar: mydoc_sidebar
+sidebar: main_sidebar
 folder: categories
 ---
 {% include categorylogic.html %}

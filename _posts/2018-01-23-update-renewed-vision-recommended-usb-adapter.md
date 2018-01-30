@@ -2,7 +2,7 @@
 title:  "Update: Renewed Vision Recommended Video Adapter"
 published: true
 author: jon_griffith
-side_bar: mydoc_sidebar
+side_bar: main_sidebar
 categories: media
 permalink: update-renewed-vision-recommended-usb-adapter.html
 tags: [news]

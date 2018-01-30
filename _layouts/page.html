@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include callout.html content="<span style=\"font-size: .8em;\"><b>UPDATE:</b> This site is a work in progress.  You may notice changes from time to time as content is created, added, adjusted, edited, re-adjusted, moved, or deleted.  This is a 100% volunteer project.  </br></br>If you would like to contribute to the content, you may do so by using the \"Edit Me\" link on any page, then submitting a change request (pull request) through GitHub.  </br><br />If you notice an error on any of the pages throughout the site, including process errors, you can submit that as an issue by clicking the \"Report A Problem with this page\" on any page.</span>" type="warning" %}
 
 <div class="post-header">
    <h1 class="post-title-main">{{ page.title }}</h1>
@@ -42,6 +43,8 @@ layout: default
     {% if site.github_editme_path %}
 
     <a target="_blank" href="https://github.com/{{site.github_editme_path}}{% unless page.url contains "index.html" %}pages/{% endunless %}{{page.folder}}{{page.url | remove: ".html" | append: ".md"}}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-pencil fa-lg"></i> Edit me</a>
+
+    <a target="_blank" href="https://github.com/NewValleyChurch/NewValleyChurch.github.io/issues/new" class="btn btn-default githubIssuesButton" role="button"><i class="fa fa-exclamation-triangle  fa-lg"></i> Report a problem with this page.</a>
 
     {% endif %}
 

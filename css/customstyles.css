@@ -67,6 +67,15 @@ body {
 .gi-5x{font-size: 5em;}
 
 
+.media-body,
+.media-left,
+.media-right {
+    display: table-cell;
+    vertical-align: top;
+    height: 120px;
+}
+
+
 
 
 
@@ -80,8 +89,8 @@ h4[id],
 h5[id],
 h6[id],
 dt[id]{
-padding-top: 60px;
-margin-top: -40px
+/*padding-top: 60px;
+margin-top: -40px */
 }
 
 .post-content img {
@@ -283,11 +292,19 @@ li.dropdownActive a {
     font-weight: bold;
 }
 
+.navbar img {
+  width: 225px;
+  height: auto;
+}
+
+.navbar img:hover {
+  opacity:1.0;
+  box-shadow:none;
+}
 
 .post-content a.fa-rss {
     color: orange;
 }
-
 
 .navbar-inverse .navbar-nav > li > a {
     background-color: transparent;
@@ -1008,6 +1025,12 @@ span.label.label-primary {
 }
 .col-lg-12 .nav li a {background-color: white}
 
+.media {
+  margin-top: 20px;
+}
+.media:first-child {
+    margin-top: 20px;
+}
 
 .nav li.active > a.subfoldersTitle {
     background-color: whitesmoke;

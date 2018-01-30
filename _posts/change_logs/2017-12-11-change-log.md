@@ -1,7 +1,7 @@
 ---
 title:  "Change Log 12/11/2017"
 published: true
-side_bar: mydoc_sidebar
+side_bar: main_sidebar
 categories: lighting
 permalink: 2017-12-11-change-log.html
 tags: [dmxis, ds8, ]

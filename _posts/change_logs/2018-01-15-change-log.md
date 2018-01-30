@@ -1,7 +1,7 @@
 ---
 title:  "Change Log 01/15/2018"
 published: true
-side_bar: mydoc_sidebar
+side_bar: main_sidebar
 categories: media
 permalink: 2018-01-15-change-log.html
 tags: [media]

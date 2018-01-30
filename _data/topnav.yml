@@ -5,11 +5,11 @@ topnav:
   items:
     - title: Home
       url: /index.html
-
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
+
     - title: News & Updates
       folderitems:
         - title: All News
