@@ -1,9 +1,10 @@
 ---
-title:  "Change Log 01/02/2018"
+title:  "Activity Log: Ableton Live Files"
 published: true
 side_bar: main_sidebar
 categories: media
-permalink: 2018-01-02-change-log.html
+permalink: 2018-01-02-change-log-media.html
+date: 2018-01-02 23:41:24 -0700
 tags: [ableton live, documentation, sidebar]
 ---
 

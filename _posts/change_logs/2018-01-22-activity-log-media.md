@@ -1,10 +1,11 @@
 ---
-title:  "Confidence Monitor / Stage Display"
+title:  "Activity Log: Confidence Monitor / Stage Display"
 published: true
 author: jon_griffith
 side_bar: main_sidebar
 categories: media
-permalink: 2018-01-22-activity-log.html
+date: 2018-01-22 23:51:46 -0700
+permalink: 2018-01-22-activity-log-media.html
 tags: [media]
 ---
 

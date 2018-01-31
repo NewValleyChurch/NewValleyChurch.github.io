@@ -3,8 +3,9 @@ title:  "Change Log 12/11/2017"
 published: true
 side_bar: main_sidebar
 categories: lighting
-permalink: 2017-12-11-change-log.html
-tags: [dmxis, ds8, ]
+date: 2017-12-11 23:43:49 -0700
+permalink: 2017-12-11-change-log-lighting.html
+tags: [dmxis, ds8]
 ---
 
 - Soldered a female 5-Pin DMX connector to the CAT5 cable that runs from the Leviton Digital DS8 Dimmer to the FOH and subsequently to the [DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) D-Split and [DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) USB Controller.  [Lighting Layout Reference](https://newvalleychurch.slack.com/files/U75QP3JLU/F8BRWFCU8/lighting_system_layout_overview.pdf)  

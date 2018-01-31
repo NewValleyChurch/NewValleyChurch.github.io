@@ -1,9 +1,10 @@
 ---
-title:  "Change Log 01/08/2018"
+title:  "Activity Log: Wired and Configured Lobby Audio"
 published: true
 side_bar: main_sidebar
-categories: media
-permalink: 2018-01-08-change-log.html
+categories: audio
+date: 2018-01-08 23:45:22 -0700
+permalink: 2018-01-08-change-log-audio.html
 tags: [DMX, XLR, Rave522, foyer, lobby]
 ---
 

@@ -1,9 +1,10 @@
 ---
-title:  "Change Log 01/14/2018"
+title:  "Activity Log: Website Content Added"
 published: true
 side_bar: main_sidebar
-categories: media
-permalink: 2018-01-14-change-log.html
+categories: general
+date: 2018-01-14 23:46:49 -0700
+permalink: 2018-01-14-change-log-general.html
 tags: [documentation]
 ---
 
