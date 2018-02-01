@@ -8,7 +8,7 @@ layout: none
  <channel>
   <title>{{ site.title  | xml_escape }}</title>
   <description>Sound Team Update</description>
-     <atom:link href="{{ site.url }}/feed.sound.xml" rel="self" type="application/rss+xml" />
+     <atom:link href="https://{{ site.url }}/feed.sound.xml" rel="self" type="application/rss+xml" />
   <link>{{ site.url }}</link>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   {% include feedAuthor.html %}
