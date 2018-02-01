@@ -2,9 +2,9 @@
 title:  "Activity Log: Wired and Configured Lobby Audio"
 published: true
 side_bar: main_sidebar
-categories: audio
+categories: sound
 date: 2018-01-08 23:45:22 -0700
-permalink: 2018-01-08-change-log-audio.html
+permalink: 2018-01-08-change-log-sound.html
 tags: [DMX, XLR, Rave522, foyer, lobby]
 ---
 

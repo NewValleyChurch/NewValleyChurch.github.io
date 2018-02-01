@@ -8,20 +8,24 @@ entries:
   version:
   folders:
 
-  - title: Home
-    url: /index.html
-    output: web
-
-  - title: Getting Started
+  - title: Sound Home Page
     output: web
     folderitems:
 
-    - title: Sound Overview
+    - title: Basics
       url: /sound.html
       output: web
 
+  - title: Processes
+    output: web
+    folderitems:
+
+    - title: Pre-Service Checklist
+      url: /pre-service-checklist.html
+      output: web
+
       subfolders:
-      - title: Event / Service Checklist
+      - title: Steps
         output: web
         subfolderitems:
 
@@ -51,6 +55,14 @@ entries:
 
     - title: Equipment List
       url: /equipment-list-sound.html
+      output: web
+
+  - title: Safety Concerns
+    output: web
+    folderitems:
+
+    - title: Audio Safety
+      url: /audio-safety-concerns.html
       output: web
 
   - title: Ableton Live

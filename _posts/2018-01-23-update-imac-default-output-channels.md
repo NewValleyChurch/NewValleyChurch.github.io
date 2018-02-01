@@ -2,9 +2,10 @@
 title:  "Update: iMac Default Output Channels"
 published: true
 side_bar: main_sidebar
-categories: audio
+categories: audio media
+date: 2018-01-23 22:07:21 -0700
 permalink: update-imac-default-output-channels.html
-tags: [news]
+tags: [report, news, imac]
 ---
 
 After service this past Sunday, the Mexico Missions trip meeting moved into the sanctuary due to attendance.

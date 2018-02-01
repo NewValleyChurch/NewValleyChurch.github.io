@@ -2,7 +2,7 @@
 title: "Sound"
 categoryName: sound
 search: exclude
-permalink: category_audio.html
+permalink: category_sound.html
 sidebar: main_sidebar
 folder: categories
 ---

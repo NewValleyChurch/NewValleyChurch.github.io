@@ -41,6 +41,10 @@ entries:
     output: web
     folderitems:
 
+    - title: All News
+      url: /all_news.html
+      output: web
+
     - title: General
       url: /news_general.html
       output: web
@@ -54,7 +58,7 @@ entries:
       output: web
 
     - title: Lights
-      url: /news_lighting.html
+      url: /news_lights.html
       output: web
 
     - title: Building

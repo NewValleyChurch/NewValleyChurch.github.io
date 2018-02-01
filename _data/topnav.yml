@@ -1,10 +1,5 @@
 ## Topnav single links
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
-topnav:
-- title: Topnav
-  items:
-    - title: Home
-      url: /index.html
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
@@ -13,7 +8,7 @@ topnav_dropdowns:
     - title: News & Updates
       folderitems:
         - title: All News
-          url: /news
+          url: /all_news.html
         - title: General
           url: /news_general
         - title: Sound
@@ -21,20 +16,14 @@ topnav_dropdowns:
         - title: Media
           url: /news_media
         - title: Lights
-          url: /news_lighting
+          url: /news_lights
         - title: Network
           url: /news_network
-    - title: Production Teams
-      folderitems:
-        - title: Sound
-          url: /sound
-        - title: Media
-          url: /media
-        - title: Lights
-          url: /lights
-    - title: I.T. Infrastructure
-      folderitems:
-        - title: Active Network
-          url: /mydoc_active_network.html
-        - title: Passive Network
-          url: /mydoc_passive_network.html
+
+topnav:
+  - title: Topnav
+    items:
+      - title: Home
+        url: /index.html
+      - title: Volunteer Resources
+        url: /volunteer_resources.html

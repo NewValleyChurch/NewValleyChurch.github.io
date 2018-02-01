@@ -2,7 +2,7 @@
 title:  "Documentation Migration Progress"
 published: true
 side_bar: main_sidebar
-categories: general
+categories: general media sound lights
 date: 2018-01-30 22:53:52 -0700
 permalink: 2018-01-30-change-log-general.html
 tags: [updates]
