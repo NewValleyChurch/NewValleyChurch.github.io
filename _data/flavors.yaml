@@ -1,4 +1,28 @@
-- flavor: chocolate
+- flavor: 192.168.0.1
+  192.168.0.1: 'a4:13:4e:5e:2c:c0'
+  'a4:13:4e:5e:2c:c0': XWR-3100V1 Wireless Router
+  XWR-3100V1 Wireless Router: Luxul
+  Luxul: XWR-3100.lan
+  XWR-3100.lan: test
+  test: test
 - flavor: vanilla
+  192.168.0.1: ''
+  'a4:13:4e:5e:2c:c0': ''
+  XWR-3100V1 Wireless Router: ''
+  Luxul: ''
+  XWR-3100.lan: ''
+  test: ''
 - flavor: strawberry
+  192.168.0.1: ''
+  'a4:13:4e:5e:2c:c0': ''
+  XWR-3100V1 Wireless Router: ''
+  Luxul: ''
+  XWR-3100.lan: ''
+  test: ''
 - flavor: 'strawberry:vanilla'
+  192.168.0.1: ''
+  'a4:13:4e:5e:2c:c0': ''
+  XWR-3100V1 Wireless Router: ''
+  Luxul: ''
+  XWR-3100.lan: ''
+  test: ''
