@@ -127,10 +127,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 # needed for sitemap.xml file only
 
-integration_spreadsheet_key: 1yGTd164iMs-7kP_A3XUHJGkKbViN2xohR5HkyRgp1cs
-github_user: arretx
-github_repo: NewValleyChurch.github.io
-
 url: https://newvalleychurch.github.io
 baseurl: /
 
