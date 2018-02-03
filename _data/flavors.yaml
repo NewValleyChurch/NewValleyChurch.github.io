@@ -160,3 +160,12 @@
   smbname: ''
   smbdomain: ''
   comments: ''
+- flavor: 192.168.0.188
+  mac: '7c:01:91:be:f4:a3'
+  hostname: AJs-iPhone.lan
+  vendor: 'Apple, Inc.'
+  dnsname: AJs-iPhone.lan
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
