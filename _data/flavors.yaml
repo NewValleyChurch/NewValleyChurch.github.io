@@ -7,30 +7,3 @@
   smbname: test
   smbdomain: test
   comments: test
-- flavor: vanilla
-  mac: ''
-  hostname: ''
-  vendor: ''
-  dnsname: ''
-  mdnsname: ''
-  smbname: ''
-  smbdomain: ''
-  comments: ''
-- flavor: strawberry
-  mac: ''
-  hostname: ''
-  vendor: ''
-  dnsname: ''
-  mdnsname: ''
-  smbname: ''
-  smbdomain: ''
-  comments: ''
-- flavor: 'strawberry:vanilla'
-  mac: ''
-  hostname: ''
-  vendor: ''
-  dnsname: ''
-  mdnsname: ''
-  smbname: ''
-  smbdomain: ''
-  comments: ''
