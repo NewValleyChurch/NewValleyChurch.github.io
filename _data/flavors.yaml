@@ -133,3 +133,12 @@
   smbname: NEWVALLEYS-IMAC
   smbdomain: WORKGROUP
   comments: ''
+- flavor: 192.168.0.173
+  mac: '3c:07:54:38:7f:45'
+  hostname: Sound-Booth-iMac
+  vendor: 'Apple, Inc.'
+  dnsname: SoundBoothiMac.lan
+  mdnsname: Sound-Booth-iMac
+  smbname: SOUNDBOOTHIMAC
+  smbdomain: WORKGROUP
+  comments: ''
