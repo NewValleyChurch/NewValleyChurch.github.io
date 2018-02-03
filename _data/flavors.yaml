@@ -1,28 +1,36 @@
 - flavor: 192.168.0.1
-  192.168.0.1: 'a4:13:4e:5e:2c:c0'
-  'a4:13:4e:5e:2c:c0': XWR-3100V1 Wireless Router
-  XWR-3100V1 Wireless Router: Luxul
-  Luxul: XWR-3100.lan
-  XWR-3100.lan: test
-  test: test
+  mac: 'a4:13:4e:5e:2c:c0'
+  hostname: XWR-3100V1 Wireless Router
+  vendor: Luxul
+  dnsname: XWR-3100.lan
+  mdnsname: test
+  smbname: test
+  smbdomain: test
+  comments: test
 - flavor: vanilla
-  192.168.0.1: ''
-  'a4:13:4e:5e:2c:c0': ''
-  XWR-3100V1 Wireless Router: ''
-  Luxul: ''
-  XWR-3100.lan: ''
-  test: ''
+  mac: ''
+  hostname: ''
+  vendor: ''
+  dnsname: ''
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
 - flavor: strawberry
-  192.168.0.1: ''
-  'a4:13:4e:5e:2c:c0': ''
-  XWR-3100V1 Wireless Router: ''
-  Luxul: ''
-  XWR-3100.lan: ''
-  test: ''
+  mac: ''
+  hostname: ''
+  vendor: ''
+  dnsname: ''
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
 - flavor: 'strawberry:vanilla'
-  192.168.0.1: ''
-  'a4:13:4e:5e:2c:c0': ''
-  XWR-3100V1 Wireless Router: ''
-  Luxul: ''
-  XWR-3100.lan: ''
-  test: ''
+  mac: ''
+  hostname: ''
+  vendor: ''
+  dnsname: ''
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
