@@ -178,3 +178,12 @@
   smbname: ''
   smbdomain: ''
   comments: ''
+- flavor: 192.168.0.158
+  mac: '9c:f3:87:a5:84:56'
+  hostname: Jons MacBook Air
+  vendor: 'Apple, Inc.'
+  dnsname: Jons-Air-2.lan
+  mdnsname: Jons MacBook Air
+  smbname: ''
+  smbdomain: ''
+  comments: ''
