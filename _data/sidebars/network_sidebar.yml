@@ -1,0 +1,38 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+
+- title: sidebar
+  product: Network Main Menu
+  version:
+  folders:
+
+  - title: Network Home Page
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: /network.html
+      output: web
+
+    - title: Device IP Map
+      url: /network-ip-map.html
+      output: web
+
+  - title: Menu Folders
+    output: web
+    folderitems:
+
+    - title: Folder Item
+      url: /pre-service-checklist.html
+      output: web
+
+      subfolders:
+      - title: Menu Sub-Folders
+        output: web
+        subfolderitems:
+
+        - title: 1.  Sub-Folder Item
+          url: /
+          output: web

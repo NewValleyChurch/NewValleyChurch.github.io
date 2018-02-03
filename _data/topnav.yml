@@ -20,6 +20,13 @@ topnav_dropdowns:
         - title: Network
           url: /news_network
 
+    - title: Network Resources
+      folderitems:
+        - title: Overview
+          url: /network.html
+        - title: Device IP Map
+          url: /network-ip-map.html
+
 topnav:
   - title: Topnav
     items:

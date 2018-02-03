@@ -97,3 +97,14 @@ entries:
       - title: Worship Band
         url: web
         subfolderitems:
+
+  - title: Network Resources
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: /network.html
+      output: web
+
+    - title: Network IP Map
+      url: /network-ip-map.html
