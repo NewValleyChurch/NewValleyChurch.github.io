@@ -12,13 +12,6 @@ toc: false
 <!-- Pulls from _data People -->
 {% assign network = site.data.network %}
 {% assign network = network | sort:"ip" %}
-
-<h3>Network</h3>
-<table width="100%">
 {% for ip in network %}
-  <tr>
-    <td>({{ network.ip }})</strong></td>
-    <td width="25%">({{ network.mac }})</td>
-  </tr>
+{{network.ip}}
 {% endfor %}
-</table>
