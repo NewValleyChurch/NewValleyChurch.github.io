@@ -142,3 +142,12 @@
   smbname: SOUNDBOOTHIMAC
   smbdomain: WORKGROUP
   comments: ''
+- flavor: 192.168.0.174
+  mac: 'bc:67:78:ad:82:66'
+  hostname: Ipad2.lan
+  vendor: 'Apple, Inc.'
+  dnsname: Ipad2.lan
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
