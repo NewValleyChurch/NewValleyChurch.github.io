@@ -169,3 +169,12 @@
   smbname: ''
   smbdomain: ''
   comments: ''
+- flavor: 192.168.0.193
+  mac: 'd0:e1:40:af:89:49'
+  hostname: Amandas-iPad
+  vendor: 'Apple, Inc.'
+  dnsname: Amandas-iPad.lan
+  mdnsname: Amandas-iPad
+  smbname: ''
+  smbdomain: ''
+  comments: ''
