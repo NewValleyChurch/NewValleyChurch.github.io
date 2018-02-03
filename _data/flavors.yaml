@@ -25,3 +25,12 @@
   smbname: ''
   smbdomain: ''
   comments: ''
+- flavor: 192.168.0.101
+  mac: '00:04:c4:02:64:a7'
+  hostname: ''
+  vendor: Allen And Heath Limited
+  dnsname: ''
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
