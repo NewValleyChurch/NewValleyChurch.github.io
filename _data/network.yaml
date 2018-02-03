@@ -1,5 +1,5 @@
-- ip: one
-  mac: two
+- ip: 192.168.0.1
+  mac: 'a4:13:4e:5e:2c:c0'
   hostname: XWR-3100V1 Wireless Router
   vendor: Luxul
   dns_name: XWR-3100.lan
