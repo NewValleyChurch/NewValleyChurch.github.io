@@ -128,7 +128,7 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # needed for sitemap.xml file only
 
 url: https://newvalleychurch.github.io
-baseurl: /
+baseurl: ""
 
 gems:
   - jekyll-last-modified-at
