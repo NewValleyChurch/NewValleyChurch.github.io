@@ -1,12 +1,12 @@
 ---
-title: Network Overview
+title: Network IP Map
 keywords: network
-summary: "A brief overview of the Network Layout at New Valley Church"
+summary: "A list of devices and their network assignments."
 sidebar: network_sidebar
 permalink: network-ip-map.html
 folder: network
 category: network
-date: 2018-02-03 12:02:38 -0700
+date: 2018-02-03 13:53:26 -0700
 toc: false
 ---
 
