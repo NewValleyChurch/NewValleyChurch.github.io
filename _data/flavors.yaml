@@ -43,3 +43,39 @@
   smbname: ''
   smbdomain: ''
   comments: ''
+- flavor: 192.168.0.111
+  mac: '00:50:41:86:90:f6'
+  hostname: Projector Stage Left
+  vendor: Coretronic Corporation
+  dnsname: ''
+  mdnsname: Right
+  smbname: ''
+  smbdomain: ''
+  comments: ''
+- flavor: 192.168.0.112
+  mac: '28:f0:76:2e:97:50'
+  hostname: Meagans-iMac
+  vendor: 'Apple, Inc.'
+  dnsname: Meagans-iMac.lan
+  mdnsname: Meagans-iMac
+  smbname: MEAGANS-IMAC
+  smbdomain: WORKGROUP
+  comments: ''
+- flavor: 192.168.0.122
+  mac: 'c8:db:26:04:23:75'
+  hostname: HarmonyHub.lan
+  vendor: ''
+  dnsname: HarmonyHub.lan
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
+- flavor: 192.168.0.128
+  mac: 'a4:13:4e:59:eb:b0'
+  hostname: XAP-1410v1 Wireless Access Point
+  vendor: Luxul
+  dnsname: Luxul_XAP-1410.lan
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
