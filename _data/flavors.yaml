@@ -124,3 +124,12 @@
   smbname: MFP11797383
   smbdomain: WORKGROUP
   comments: ''
+- flavor: 192.168.0.164
+  mac: 'c8:bc:c8:c6:d3:d4'
+  hostname: newvalleys-iMac
+  vendor: 'Apple, Inc.'
+  dnsname: newvalleys-iMac.lan
+  mdnsname: newvalleys-iMac
+  smbname: NEWVALLEYS-IMAC
+  smbdomain: WORKGROUP
+  comments: ''
