@@ -7,3 +7,12 @@
   smbname: test
   smbdomain: test
   comments: test
+- flavor: 192.168.0.4
+  mac: 'b0:6e:bf:9c:11:00'
+  hostname: Toshiba eStudio 4505ac
+  vendor: ''
+  dnsname: ''
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
