@@ -1,3 +1,6 @@
 - color: red
+  number_1: one
 - color: blue
+  number_1: two
 - color: green
+  number_1: three
