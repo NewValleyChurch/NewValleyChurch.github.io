@@ -151,3 +151,12 @@
   smbname: ''
   smbdomain: ''
   comments: ''
+- flavor: 192.168.0.176
+  mac: 'a4:13:4e:5b:b1:10'
+  hostname: XAP-1410v1 Wireless Access Point
+  vendor: Luxul
+  dnsname: Luxul_XAP-1410.lan
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
