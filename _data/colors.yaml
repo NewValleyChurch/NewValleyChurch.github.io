@@ -1,9 +1,0 @@
-- color: red
-  number_1: one
-  ip: 192.168.0.1
-- color: blue
-  number_1: two
-  ip: 192.168.0.2
-- color: green
-  number_1: three
-  ip: 192.168.0.3

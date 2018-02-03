@@ -1,0 +1,26 @@
+---
+title: Network IP Map
+categories: network
+summary: "A brief overview of the Network Layout at New Valley Church"
+sidebar: network_sidebar
+permalink: network-ip-map.html
+folder: network
+date: 2018-02-02 13:51:44 -0700
+toc: false
+---
+
+<!-- Pulls from _data People -->
+{% assign network = site.data.network %}
+{% assign network = network | sort:"ip" %}
+
+<h3>Network</h3>
+<table width="100%">
+{% for ip in network %}
+  <tr>
+    <td>({{ network.ip }})</strong></td>
+    <td width="25%">({{ network.mac }})</td>
+  </tr>
+{% endfor %}
+</table>
+
+{% include links.html %}
