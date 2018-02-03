@@ -16,3 +16,12 @@
   smbname: ''
   smbdomain: ''
   comments: ''
+- flavor: 192.168.0.100
+  mac: '00:60:74:ff:24:d4'
+  hostname: Rave 522ua DSP
+  vendor: QSC LLC
+  dnsname: ''
+  mdnsname: ''
+  smbname: ''
+  smbdomain: ''
+  comments: ''
