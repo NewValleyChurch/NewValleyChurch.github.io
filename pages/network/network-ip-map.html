@@ -14,5 +14,5 @@ layout: page
 {% assign network = site.data.network %}
 {% assign network = network | sort:"ip" %}
 {% for ip in network %}
-{{network.ip}}
+Network IP: {{network.ip}}
 {% endfor %}
