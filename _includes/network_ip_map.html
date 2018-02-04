@@ -1,5 +1,13 @@
-{% assign ip_list = site.data.network %}
+{% assign ip_list = site.data.network | group_by: "type" %}
+{% assign types = site.data.network | group_by: "type" %}
 <!-- Pulls from _data People -->
+
+
+{% for type in ip_list %}
+{{forloop.index}}
+{{ip.type}}
+{% endfor %}
+
 <table style="font-size:12px;" width="100%">
   <tr>
     <td>IP</td>
