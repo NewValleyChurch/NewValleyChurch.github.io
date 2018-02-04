@@ -9,6 +9,9 @@ category: network
 date: 2018-02-03 13:53:26 -0700
 toc: false
 ---
+{% include important.html content="This page is dependent upon the contents of an external data source. [Read about it here.](network-ip-map-details)" %}
+
+## Network Devices
 
 {% include network_ip_map.html %}
 

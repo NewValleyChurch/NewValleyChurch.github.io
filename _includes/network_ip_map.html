@@ -1,27 +1,23 @@
-{% assign thing = site.data.network %}
+{% assign ip_list = site.data.network %}
 <!-- Pulls from _data People -->
-<table>
+<table style="font-size:12px;" width="100%">
   <tr>
     <td>IP</td>
     <td>MAC</td>
     <td>Host Name</td>
     <td>Vendor</td>
     <td>DNS Name</td>
-    <td>mDNS Name</td>
-    <td>SMB Name</td>
-    <td>SMB Domain</td>
     <td>Comments</td>
   </tr>
-    {% for ip in thing %}
+    {% for ip in ip_list %}
   <tr>
-    <td>{{ip.ip}}</td>
+    <td>
+      {% if ip.ip %}<a href="http://{{ip.ip}}">{{ip.ip}}</a>{% else %}{% endif %}
+    </td>
     <td>{{ip.mac}}</td>
     <td>{{ip.hostname}}</td>
     <td>{{ip.vendor}}</td>
     <td>{{ip.dns_name}}</td>
-    <td>{{ip.mdns_name}}</td>
-    <td>{{ip.smb_name}}</td>
-    <td>{{ip.smb_domain}}</td>
     <td>{{ip.comments}}</td>
   </tr>
     {% endfor %}
