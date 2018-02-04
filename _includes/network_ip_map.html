@@ -1,12 +1,6 @@
-{% assign ip_list = site.data.network | group_by: "type" %}
-{% assign types = site.data.network | group_by: "type" %}
+{% assign devices = site.data.network %}
 <!-- Pulls from _data People -->
 
-
-{% for type in ip_list %}
-{{forloop.index}}
-{{ip.type}}
-{% endfor %}
 
 <table style="font-size:12px;" width="100%">
   <tr>
@@ -16,8 +10,9 @@
     <td>Vendor</td>
     <td>DNS Name</td>
     <td>Comments</td>
+    <td>Type</td>
   </tr>
-    {% for ip in ip_list %}
+    {% for ip in devices %}
   <tr>
     <td>
       {% if ip.ip %}<a href="http://{{ip.ip}}">{{ip.ip}}</a>{% else %}{% endif %}
@@ -27,6 +22,7 @@
     <td>{{ip.vendor}}</td>
     <td>{{ip.dns_name}}</td>
     <td>{{ip.comments}}</td>
+    <td>{{ip.type}}</td>
   </tr>
     {% endfor %}
 </table>
