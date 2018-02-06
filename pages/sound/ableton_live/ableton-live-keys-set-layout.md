@@ -61,6 +61,10 @@ Unless specified below, grouped tracks are set with Audio To "Sends Only" which 
 
 [^3]: The Audio output settings are set to "Ext. Out 3/4."  3 & 4 are the outputs on the Scarlett 18i8 that come from the left headphone jack on the front of the unit and are routed to fader strips 9 & 10 on the QU-32 to provide an independent mix for backing tracks.
 
+## Track Details
+
+{% include ableton-live-worship-set-tracks.html %}
+
 
 
 
