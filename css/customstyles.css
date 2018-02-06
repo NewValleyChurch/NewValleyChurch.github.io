@@ -140,7 +140,7 @@ th {
     text-align: left;
 }
 table {
-    max-width: 90%;
+    max-width: 100%;
     margin-bottom: 20px;
     border: 1px solid #dedede;
 }
@@ -173,9 +173,9 @@ table > thead:first-child > tr:first-child > td {
     border-top: 0;
 }
 
-table > tbody > tr:nth-of-type(odd) {
+/*table > tbody > tr:nth-of-type(odd) {
     background-color: #f9f9f9;
-}
+}*/
 
 table col[class*="col-"] {
     position: static;
