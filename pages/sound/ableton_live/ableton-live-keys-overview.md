@@ -3,6 +3,7 @@ title: Live Keys Overview
 keywords: recording, MIDI, sequencing, digital audio workstation, DAW
 summary: "Details about the Ableton Live Set used for live performance on the keyboard."
 sidebar: sound_sidebar
+sidebar_2: ableton_sidebar
 permalink: ableton-live-keys-overview.html
 folder: sound
 tags: [recording, MIDI, sequencing, digital audio workstation, DAW]

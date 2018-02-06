@@ -3,6 +3,7 @@ title: Ableton Live
 keywords: recording, MIDI, sequencing, digital audio workstation, DAW
 summary: "Welcome to the Ableton Live Section of the site."
 sidebar: main_sidebar
+sidebar_2: ableton_sidebar
 permalink: ableton-live.html
 folder: sound/ableton_live/
 tags: [recording, MIDI, sequencing, digital audio workstation, DAW]

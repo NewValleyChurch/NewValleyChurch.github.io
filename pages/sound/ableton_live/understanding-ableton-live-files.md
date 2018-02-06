@@ -3,7 +3,8 @@ title: Ableton Live File Structure
 keywords: Ableton
 summary: "A rundown of how Ableton Live manages files."
 sidebar: sound_sidebar
-permalink: understanding-ableton-live-files.html
+sidebar_2: ableton_sidebar
+permalink: understanding-ableton-live-file-structure.html
 folder: sound
 toc: false
 categories: sound

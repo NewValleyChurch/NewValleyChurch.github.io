@@ -4,6 +4,7 @@ keywords: recording, MIDI, sequencing, digital audio workstation, DAW
 summary: "A detailed account of the New Valley Worship set (New Valley Worship.als) used for Keyboard and Live Backing Tracks during services."
 image_folder: ableton
 sidebar: sound_sidebar
+sidebar_2: ableton_sidebar
 permalink: ableton-live-keys-set-layout.html
 folder: sound
 category: ableton
@@ -40,6 +41,7 @@ Currently this template provides 4 core functions:
 
 Tracks in this template are grouped to save space.
 
+- **VIP MIDI:** This set of tracks is designed for live playback of individual VIP Multi Slots.  Pre-recorded MIDI clips are stored here and may or may not be used.  This is the MIDI equivalent of the Multi-Track columns.
 - **MIDI Routing:**  Handles inbound MIDI signals for instruments and external MIDI controls.  
 - **VSTs:** VST Tracks contain software instruments with various MIDI input sources.  No audio output is selected on these tracks.  
 - **Audio Routing:[^1]** Audio routing tracks listen to the audio being produced by the VST tracks, routing them to the appropriate location.
