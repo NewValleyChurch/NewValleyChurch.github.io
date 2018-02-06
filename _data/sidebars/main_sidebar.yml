@@ -78,6 +78,18 @@ entries:
       output: web
 
       subfolders:
+      - title: Worship Band
+        outbput: web
+        subfolderitems:
+
+        - title: Overview
+          url: /worship.html
+          output: web
+
+        - title: Keyboard Setup
+          url: /keyboard_setup.html
+          output: web
+          
       - title: Production Teams
         output: web
         subfolderitems:

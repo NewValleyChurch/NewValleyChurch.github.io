@@ -24,12 +24,12 @@ category: general
 			</div>
 		</div>
 		<div class="media">
-			<!--<div class="pull-left">
-				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-car fa-stack-1x fa-inverse"></i></span>
-			</div>
+      <!--<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-music fa-stack-1x fa-inverse"></i></span>
+      </div>
 			<div class="media-body">
-				<h4 class="media-heading">Service Two</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+				<h3 class="media-heading">Worship Team</h3>
+				<p markdown="1">[Overview](/worship_band), [Keyboard Setup](/keyboard_setup.html)</p>
 			</div>-->
 		</div>
 		<div class="media">
@@ -44,13 +44,13 @@ category: general
 	</div>
 	<div class="col-md-4">
 		<div class="media">
-			<!--<div class="pull-left">
-				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-database fa-stack-1x fa-inverse"></i></span>
-			</div>
+			<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-music fa-stack-1x fa-inverse"></i></span>
+      </div>
 			<div class="media-body">
-				<h4 class="media-heading">Service Four</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-			</div>-->
+				<h3 class="media-heading">Worship Team</h3>
+				<p markdown="1">[Overview](/worship_band), [Keyboard Setup](/keyboard_setup.html)</p>
+			</div>
 		</div>
 		<div class="media">
 			<!--<div class="pull-left">

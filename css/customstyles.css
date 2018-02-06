@@ -404,6 +404,10 @@ ul#mysidebar {
     border-radius:0px;
 }
 
+ul#mysidebar_2 {
+    border-radius:0px;
+}
+
 .nav ul li ul li a {
     padding-left:40px;
 }
@@ -744,6 +748,9 @@ ol.series li {
 #mysidebar .nav ul {
     background-color: #FAFAFA;
 }
+#mysidebar_2 .nav ul {
+    background-color: #FAFAFA;
+}
 .nav ul.series li {
     list-style: decimal;
     font-size:12px;
@@ -885,10 +892,18 @@ span.soft {
         position: relative;
     }
 }
+@media (max-width: 990px) {
+    #mysidebar_2 {
+        position: relative;
+    }
+}
 
 @media (min-width: 1000px) {
 
     ul#mysidebar {
+        width: 225px;
+    }
+    ul#mysidebar_2 {
         width: 225px;
     }
 }
@@ -896,6 +911,9 @@ span.soft {
 @media (max-width: 900px) {
 
     ul#mysidebar {
+        max-width: 100%;
+    }
+    ul#mysidebar_2 {
         max-width: 100%;
     }
 }

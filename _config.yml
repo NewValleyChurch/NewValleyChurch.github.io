@@ -84,6 +84,7 @@ defaults:
       comments: true
       search: true
       sidebar: main_sidebar
+      sidebar_2: ""
       topnav: topnav
       image_folder: images
   -
@@ -107,6 +108,7 @@ defaults:
       search: true
       author: jon_griffith
       sidebar: main_sidebar
+      sidebar_2: ""
       topnav: topnav
       image_folder: images
 

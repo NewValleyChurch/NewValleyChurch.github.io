@@ -19,6 +19,8 @@ topnav_dropdowns:
           url: /news_lights
         - title: Network
           url: /news_network
+        - title: Worship Band
+          url: /news_worship
 
     - title: Network Resources
       folderitems:

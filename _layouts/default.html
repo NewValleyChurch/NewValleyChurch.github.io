@@ -21,14 +21,40 @@
                 }
             });
 
+            $("#mysidebar_2").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
             $("#collapseAll").click(function(e) {
                 e.preventDefault();
                 $("#mysidebar").navgoco('toggle', false);
             });
 
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar_2").navgoco('toggle', false);
+            });
+
             $("#expandAll").click(function(e) {
                 e.preventDefault();
                 $("#mysidebar").navgoco('toggle', true);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar_2").navgoco('toggle', true);
             });
 
         });
@@ -84,7 +110,12 @@
             <!-- Sidebar Column -->
             <div class="col-md-3" id="tg-sb-sidebar">
                 {% include sidebar.html %}
+
+            {% if page.sidebar_2 %}
+            
+                {% include sidebar_2.html %}
             </div>
+            {% endif %}
             {% assign content_col_size = "col-md-9" %}
         {% endunless %}
 
