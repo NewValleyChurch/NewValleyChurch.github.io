@@ -1,6 +1,6 @@
 - groupname: VIP MIDI
-  trackname: ''
-  tracktype: ''
+  trackname: VIP MIDI
+  tracktype: Group
   description: >-
     This set of tracks is designed for live playback of individual VIP Multi
     Slots.  Pre-recorded MIDI clips are stored here and may or may not be used. 
@@ -38,8 +38,8 @@
   tracktype: ''
   description: ''
 - groupname: MIDI ROUTING
-  trackname: ''
-  tracktype: ''
+  trackname: MIDI ROUTING
+  tracktype: Group
   description: 'Handles inbound MIDI signals for instruments and external MIDI controls.  '
 - groupname: ''
   trackname: Lighting
@@ -70,8 +70,8 @@
   tracktype: ''
   description: ''
 - groupname: VST's
-  trackname: ''
-  tracktype: ''
+  trackname: VST's
+  tracktype: Group
   description: >-
     VST Tracks contain software instruments with various MIDI input sources.  No
     audio output is selected on these tracks.
@@ -104,8 +104,8 @@
   tracktype: ''
   description: ''
 - groupname: Audio Routing
-  trackname: ''
-  tracktype: ''
+  trackname: Audio Routing
+  tracktype: Group
   description: >-
     Audio routing tracks listen to the audio being produced by the VST tracks,
     routing them to the appropriate location.
@@ -162,8 +162,8 @@
   tracktype: ''
   description: ''
 - groupname: In Ear
-  trackname: ''
-  tracktype: ''
+  trackname: In Ear
+  tracktype: Group
   description: Contain only tracks that will be routed to the in-ear system.
 - groupname: ''
   trackname: Audio Cues
@@ -190,8 +190,8 @@
   tracktype: ''
   description: ''
 - groupname: Automation
-  trackname: ''
-  tracktype: ''
+  trackname: Automation
+  tracktype: Group
   description: >-
     Nearly all of the MIDI and IAC Driver automation is located in this group,
     with some exceptions.
@@ -220,8 +220,8 @@
   tracktype: ''
   description: ''
 - groupname: Our Tracks
-  trackname: ''
-  tracktype: ''
+  trackname: Our Tracks
+  tracktype: Group
   description: >-
     Audio and MIDI tracks and instruments that contain original recorded and
     composed material.
@@ -230,8 +230,8 @@
   tracktype: ''
   description: ''
 - groupname: MultiTrack
-  trackname: ''
-  tracktype: ''
+  trackname: MultiTrack
+  tracktype: Group
   description: A vast collection of Audio tracks for stems and backing track arrangements.
 - groupname: ''
   trackname: Drums 1
@@ -350,8 +350,8 @@
   tracktype: ''
   description: ''
 - groupname: Originals
-  trackname: ''
-  tracktype: ''
+  trackname: Originals
+  tracktype: Group
   description: >-
     Tracks that hold the original studio recording of any given song that we've
     captured from Spotify or YouTube, etc.
@@ -372,6 +372,6 @@
   tracktype: ''
   description: ''
 - groupname: 91 Audio
-  trackname: ''
+  trackname: 91 Audio
   tracktype: ''
   description: ''
