@@ -1,0 +1,377 @@
+- groupname: VIP MIDI
+  trackname: ''
+  tracktype: ''
+  description: >-
+    This set of tracks is designed for live playback of individual VIP Multi
+    Slots.  Pre-recorded MIDI clips are stored here and may or may not be used. 
+    This is the MIDI equivalent of the Multi-Track columns.
+- groupname: ''
+  trackname: Slot 1
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 3
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 4
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 5
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 6
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 7
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 8
+  tracktype: ''
+  description: ''
+- groupname: MIDI ROUTING
+  trackname: ''
+  tracktype: ''
+  description: 'Handles inbound MIDI signals for instruments and external MIDI controls.  '
+- groupname: ''
+  trackname: Lighting
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Advance 61
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Pad Triggers
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: MIDI Chain
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Brass Ensemble
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Cello
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Pads
+  tracktype: ''
+  description: ''
+- groupname: VST's
+  trackname: ''
+  tracktype: ''
+  description: >-
+    VST Tracks contain software instruments with various MIDI input sources.  No
+    audio output is selected on these tracks.
+- groupname: ''
+  trackname: VIP3.0
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Brass
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: 21 Guitar-Soft
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Cello
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Pads
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Cathedral
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Choir
+  tracktype: ''
+  description: ''
+- groupname: Audio Routing
+  trackname: ''
+  tracktype: ''
+  description: >-
+    Audio routing tracks listen to the audio being produced by the VST tracks,
+    routing them to the appropriate location.
+- groupname: ''
+  trackname: Slot 1
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 3
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 4
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 5
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 6
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 7
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Slot 8
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: VST 2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Cello
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Pads
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Cathedral
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Strings
+  tracktype: ''
+  description: ''
+- groupname: In Ear
+  trackname: ''
+  tracktype: ''
+  description: Contain only tracks that will be routed to the in-ear system.
+- groupname: ''
+  trackname: Audio Cues
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Audio Cues Repeat
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Band Cue
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Repeat Cue
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Click
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Click Rack
+  tracktype: ''
+  description: ''
+- groupname: Automation
+  trackname: ''
+  tracktype: ''
+  description: >-
+    Nearly all of the MIDI and IAC Driver automation is located in this group,
+    with some exceptions.
+- groupname: ''
+  trackname: Follow Scene
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: METRONOME
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: IAC CH2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Song Select
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Song Select
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Song Reset/Scroll
+  tracktype: ''
+  description: ''
+- groupname: Our Tracks
+  trackname: ''
+  tracktype: ''
+  description: >-
+    Audio and MIDI tracks and instruments that contain original recorded and
+    composed material.
+- groupname: ''
+  trackname: Drums
+  tracktype: ''
+  description: ''
+- groupname: MultiTrack
+  trackname: ''
+  tracktype: ''
+  description: A vast collection of Audio tracks for stems and backing track arrangements.
+- groupname: ''
+  trackname: Drums 1
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Drums 2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Drums 3
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Bass 1
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Bass 2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Bass 3
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Bass Syn
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: EG1
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: EG2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: EG3
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: AG1
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: AG2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: AG3
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Keys 1
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Keys 2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Keys 3
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Loop
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Piano
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Strings
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: FX
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: FX 2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: BGVS 1
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: BGVS 2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Soprano
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Alto
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Tenor
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Choir
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Extras
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Automation
+  tracktype: ''
+  description: ''
+- groupname: Originals
+  trackname: ''
+  tracktype: ''
+  description: >-
+    Tracks that hold the original studio recording of any given song that we've
+    captured from Spotify or YouTube, etc.
+- groupname: ''
+  trackname: Original Song 1
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Original Song 2
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Original Song 3
+  tracktype: ''
+  description: ''
+- groupname: ''
+  trackname: Pads
+  tracktype: ''
+  description: ''
+- groupname: 91 Audio
+  trackname: ''
+  tracktype: ''
+  description: ''
