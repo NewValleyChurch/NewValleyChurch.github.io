@@ -208,13 +208,3 @@
   smb_domain: ''
   comments: ''
   devicetype: Mobile Device
-- ip: xxx.xxx.xxx.xxx
-  mac: Nothing
-  hostname: nothing
-  vendor: nothing
-  dns_name: ''
-  mdns_name: ''
-  smb_name: ''
-  smb_domain: ''
-  comments: ''
-  devicetype: ''
