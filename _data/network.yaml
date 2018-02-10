@@ -8,6 +8,7 @@
   smb_domain: test
   comments: test
   devicetype: Routers
+  department: network
 - ip: 192.168.0.4
   mac: 'b0:6e:bf:9c:11:00'
   hostname: Toshiba eStudio 4505ac
@@ -18,6 +19,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Printers
+  department: network
 - ip: 192.168.0.100
   mac: '00:60:74:ff:24:d4'
   hostname: Rave 522ua DSP
@@ -28,6 +30,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Audio Devices
+  department: sound
 - ip: 192.168.0.101
   mac: '00:04:c4:02:64:a7'
   hostname: ''
@@ -38,6 +41,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Audio Devices
+  department: sound
 - ip: 192.168.0.110
   mac: '00:50:41:86:42:7e'
   hostname: Projector Stage Right
@@ -48,6 +52,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Projectors
+  department: ''
 - ip: 192.168.0.111
   mac: '00:50:41:86:90:f6'
   hostname: Projector Stage Left
@@ -58,6 +63,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Projectors
+  department: ''
 - ip: 192.168.0.112
   mac: '28:f0:76:2e:97:50'
   hostname: Meagans-iMac
@@ -68,6 +74,7 @@
   smb_domain: WORKGROUP
   comments: ''
   devicetype: Desktop Computers
+  department: ''
 - ip: 192.168.0.122
   mac: 'c8:db:26:04:23:75'
   hostname: HarmonyHub.lan
@@ -78,6 +85,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Receivers
+  department: ''
 - ip: 192.168.0.128
   mac: 'a4:13:4e:59:eb:b0'
   hostname: XAP-1410v1 Wireless Access Point
@@ -88,6 +96,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Access Points
+  department: ''
 - ip: 192.168.0.136
   mac: '00:04:c4:02:64:a7'
   hostname: lwiplpc.lan
@@ -98,6 +107,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Audio Devices
+  department: ''
 - ip: 192.168.0.138
   mac: '9c:f4:8e:e5:14:c9'
   hostname: Jon's iPhone 7
@@ -108,6 +118,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Mobile Devices
+  department: ''
 - ip: 192.168.0.139
   mac: '50:32:37:ab:2b:37'
   hostname: Apple-TV
@@ -118,6 +129,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Media Players
+  department: ''
 - ip: 192.168.0.154
   mac: '78:7b:8a:30:4a:85'
   hostname: Jon's iPad
@@ -128,6 +140,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Mobile Devices
+  department: ''
 - ip: 192.168.0.155
   mac: 'b0:6e:bf:9c:11:00'
   hostname: Toshiba eStudio 4505ac
@@ -138,6 +151,7 @@
   smb_domain: WORKGROUP
   comments: ''
   devicetype: Printers
+  department: ''
 - ip: 192.168.0.158
   mac: '9c:f3:87:a5:84:56'
   hostname: Jons MacBook Air
@@ -148,6 +162,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Mobile Devices
+  department: ''
 - ip: 192.168.0.164
   mac: 'c8:bc:c8:c6:d3:d4'
   hostname: newvalleys-iMac
@@ -158,6 +173,7 @@
   smb_domain: WORKGROUP
   comments: ''
   devicetype: Desktop Computers
+  department: ''
 - ip: 192.168.0.173
   mac: '3c:07:54:38:7f:45'
   hostname: Sound-Booth-iMac
@@ -168,6 +184,7 @@
   smb_domain: WORKGROUP
   comments: ''
   devicetype: Desktop Computers
+  department: ''
 - ip: 192.168.0.174
   mac: 'bc:67:78:ad:82:66'
   hostname: Ipad2.lan
@@ -178,6 +195,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Tablets
+  department: ''
 - ip: 192.168.0.176
   mac: 'a4:13:4e:5b:b1:10'
   hostname: XAP-1410v1 Wireless Access Point
@@ -188,6 +206,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Access Points
+  department: ''
 - ip: 192.168.0.188
   mac: '7c:01:91:be:f4:a3'
   hostname: AJs-iPhone.lan
@@ -198,6 +217,7 @@
   smb_domain: ''
   comments: ''
   devicetype: Mobile Devices
+  department: ''
 - ip: 192.168.0.193
   mac: 'd0:e1:40:af:89:49'
   hostname: Amandas-iPad
@@ -208,3 +228,26 @@
   smb_domain: ''
   comments: ''
   devicetype: Mobile Devices
+  department: ''
+- ip: 192.168.0.150
+  mac: ''
+  hostname: ''
+  vendor: ''
+  dns_name: ''
+  mdns_name: ''
+  smb_name: ''
+  smb_domain: ''
+  comments: ''
+  devicetype: ''
+  department: ''
+- ip: 192.168.0.152
+  mac: 'BC:67:78:AF:79:90'
+  hostname: ''
+  vendor: ''
+  dns_name: ''
+  mdns_name: ''
+  smb_name: ''
+  smb_domain: ''
+  comments: ''
+  devicetype: ''
+  department: ''
