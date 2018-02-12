@@ -27,7 +27,7 @@
   equipmentdesc: 32 Channel Audio Interface / Mixer
   devicetype: Audio Interface
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Allen & Heath
@@ -35,7 +35,7 @@
   equipmentdesc: 16 IN / 8 OUT dSnake Digital Audio Input
   devicetype: Audio Interface
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: Stage
 - brand: Allen & Heath
@@ -43,7 +43,7 @@
   equipmentdesc: 16 IN / 8 OUT dSnake Digital Audio Input
   devicetype: Audio Interface
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: Stage
 - brand: Allen & Heath
@@ -51,7 +51,7 @@
   equipmentdesc: Personal Mixer HUB
   devicetype: Audio Interface
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: Stage
 - brand: Allen & Heath
@@ -59,7 +59,7 @@
   equipmentdesc: Digital In-ear Personal Monitoring Mixer
   devicetype: Audio Interface
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: Stage
 - brand: Renkus-Heinz
@@ -67,7 +67,7 @@
   equipmentdesc: Amplifier Module
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Renkus-Heinz
@@ -75,7 +75,7 @@
   equipmentdesc: Amplifier Module
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Renkus-Heinz
@@ -83,7 +83,7 @@
   equipmentdesc: Amplifier Module
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Renkus-Heinz
@@ -91,7 +91,7 @@
   equipmentdesc: Amplifier Module
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Renkus-Heinz
@@ -99,7 +99,7 @@
   equipmentdesc: Amplifier Module
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Renkus-Heinz
@@ -107,7 +107,7 @@
   equipmentdesc: Point Source Array Speaker Cabinets
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Renkus-Heinz
@@ -115,7 +115,7 @@
   equipmentdesc: Point Source Array Speaker Cabinets
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Renkus-Heinz
@@ -123,7 +123,7 @@
   equipmentdesc: Point Source Array Speaker Cabinets
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Renkus-Heinz
@@ -131,7 +131,7 @@
   equipmentdesc: Point Source Array Speaker Cabinets
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: Renkus-Heinz
@@ -139,7 +139,7 @@
   equipmentdesc: Point Source Array Speaker Cabinets
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: QSC
@@ -147,7 +147,7 @@
   equipmentdesc: Sub-Woofer Stage Left
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: QSC
@@ -155,7 +155,7 @@
   equipmentdesc: Sub-Woofer Stage Right
   devicetype: Active Speaker
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: QSC
@@ -163,7 +163,7 @@
   equipmentdesc: Digital Sound Processor
   devicetype: Audio Interface
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
 - brand: QSC
@@ -171,6 +171,6 @@
   equipmentdesc: 70V 4-Channel Amplifier
   devicetype: Amplifier
   serialno: ''
-  department: Sound
+  department: sound
   inservice: 'YES'
   servicelocation: FOH
