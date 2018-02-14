@@ -1,27 +1,3 @@
-- brand: Brother
-  model: QL-710W
-  equipmentdesc: Label Printer
-  devicetype: Printer
-  serialno: U63226-K2Z827120
-  department: Network
-  inservice: 'YES'
-  servicelocation: kids
-- brand: Brother
-  model: QL-710W
-  equipmentdesc: Label Printer
-  devicetype: Printer
-  serialno: U63226-B3Z597209
-  department: Network
-  inservice: 'YES'
-  servicelocation: kids
-- brand: Apple
-  model: iPad 2 (A1395)
-  equipmentdesc: ''
-  devicetype: Mobile Device
-  serialno: DKWKX01HDFHW
-  department: Network
-  inservice: 'YES'
-  servicelocation: kids
 - brand: Allen & Heath
   model: QU-32
   equipmentdesc: 32 Channel Audio Interface / Mixer
@@ -174,11 +150,3 @@
   department: sound
   inservice: 'YES'
   servicelocation: FOH
-- brand: Taco
-  model: tuesday
-  equipmentdesc: ''
-  devicetype: ''
-  serialno: ''
-  department: ''
-  inservice: ''
-  servicelocation: ''
