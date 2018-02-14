@@ -3,7 +3,7 @@
   equipmentdesc: Label Printer
   devicetype: Printer
   serialno: U63226-K2Z827120
-  department: Network
+  department: network
   inservice: 'YES'
   servicelocation: kids
 - brand: Brother
@@ -11,7 +11,7 @@
   equipmentdesc: Label Printer
   devicetype: Printer
   serialno: U63226-B3Z597209
-  department: Network
+  department: network
   inservice: 'YES'
   servicelocation: kids
 - brand: Apple
@@ -19,7 +19,7 @@
   equipmentdesc: ''
   devicetype: Mobile Device
   serialno: DKWKX01HDFHW
-  department: Network
+  department: network
   inservice: 'YES'
   servicelocation: kids
 - brand: Allen & Heath
@@ -29,7 +29,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Allen & Heath
   model: AB-168
   equipmentdesc: 16 IN / 8 OUT dSnake Digital Audio Input
@@ -69,7 +69,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Renkus-Heinz
   model: PF1-501
   equipmentdesc: Amplifier Module
@@ -77,7 +77,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Renkus-Heinz
   model: PF1-502
   equipmentdesc: Amplifier Module
@@ -85,7 +85,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Renkus-Heinz
   model: PF1-503
   equipmentdesc: Amplifier Module
@@ -93,7 +93,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Renkus-Heinz
   model: PF1-504
   equipmentdesc: Amplifier Module
@@ -101,7 +101,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   equipmentdesc: Point Source Array Speaker Cabinets
@@ -109,7 +109,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   equipmentdesc: Point Source Array Speaker Cabinets
@@ -117,7 +117,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   equipmentdesc: Point Source Array Speaker Cabinets
@@ -125,7 +125,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   equipmentdesc: Point Source Array Speaker Cabinets
@@ -133,7 +133,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   equipmentdesc: Point Source Array Speaker Cabinets
@@ -141,7 +141,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: QSC
   model: KW181-BK
   equipmentdesc: Sub-Woofer Stage Left
@@ -149,7 +149,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: QSC
   model: KW181-BK
   equipmentdesc: Sub-Woofer Stage Right
@@ -157,7 +157,7 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: QSC
   model: Rave522UA
   equipmentdesc: Digital Sound Processor
@@ -165,12 +165,20 @@
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
 - brand: QSC
   model: CX204V
-  equipmentdesc: 70V 4-Channel Amplifier
+  equipmentdesc: 70V 4-Channel Amplifiers
   devicetype: Amplifier
   serialno: ''
   department: sound
   inservice: 'YES'
-  servicelocation: FOH
+  servicelocation: Front of House
+- brand: Taco
+  model: tuesday
+  equipmentdesc: waterboarding
+  devicetype: Wheeee
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: Battlegrounds
