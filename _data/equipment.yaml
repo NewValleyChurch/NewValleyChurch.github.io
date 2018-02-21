@@ -71,7 +71,7 @@
   deployed: 'YES'
   location: Front of House
 - brand: Renkus-Heinz
-  model: PF1-501
+  model: PF1-500
   description: Amplifier Module
   device_type: Active Speaker
   serial_number: ''
@@ -79,7 +79,7 @@
   deployed: 'YES'
   location: Front of House
 - brand: Renkus-Heinz
-  model: PF1-502
+  model: PF1-500
   description: Amplifier Module
   device_type: Active Speaker
   serial_number: ''
@@ -87,7 +87,7 @@
   deployed: 'YES'
   location: Front of House
 - brand: Renkus-Heinz
-  model: PF1-503
+  model: PF1-500
   description: Amplifier Module
   device_type: Active Speaker
   serial_number: ''
@@ -95,7 +95,7 @@
   deployed: 'YES'
   location: Front of House
 - brand: Renkus-Heinz
-  model: PF1-504
+  model: PF1-500
   description: Amplifier Module
   device_type: Active Speaker
   serial_number: ''
