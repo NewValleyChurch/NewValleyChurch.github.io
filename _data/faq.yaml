@@ -1,0 +1,18 @@
+- question: What color is blue
+  answer: It is blue
+  category: sound
+- question: What color is red
+  answer: it is red
+  category: sound
+- question: What flavor is grape
+  answer: it is grape
+  category: lights
+- question: What flavor is orange
+  answer: it is orange
+  category: lights
+- question: What size is large
+  answer: it is large
+  category: media
+- question: What size is small
+  answer: it is small
+  category: media
