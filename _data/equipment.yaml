@@ -5,7 +5,8 @@
   serial_number: U63226-K2Z827120
   department: network
   deployed: 'YES'
-  location: kids
+  location: Kids
+  link: 'http://newvalleychurch.github.io/QL-710W.html'
 - brand: Brother
   model: QL-710W
   description: Label Printer
@@ -13,15 +14,17 @@
   serial_number: U63226-B3Z597209
   department: network
   deployed: 'YES'
-  location: kids
+  location: Kids
+  link: 'http://newvalleychurch.github.io/QL-710W.html'
 - brand: Apple
-  model: iPad 2 (A1395)
-  description: ''
+  model: A1395
+  description: iPad 2
   device_type: Mobile Device
   serial_number: DKWKX01HDFHW
   department: network
   deployed: 'YES'
-  location: kids
+  location: Kids
+  link: 'http://newvalleychurch.github.io/A1395.html'
 - brand: Allen & Heath
   model: QU-32
   description: 32 Channel Audio Interface / Mixer
@@ -30,6 +33,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/QU-32.html'
 - brand: Allen & Heath
   model: AB-168
   description: 16 IN / 8 OUT dSnake Digital Audio Input
@@ -38,6 +42,7 @@
   department: sound
   deployed: 'YES'
   location: Stage
+  link: 'http://newvalleychurch.github.io/AB-168.html'
 - brand: Allen & Heath
   model: AB-168
   description: 16 IN / 8 OUT dSnake Digital Audio Input
@@ -46,6 +51,7 @@
   department: sound
   deployed: 'YES'
   location: Stage
+  link: 'http://newvalleychurch.github.io/AB-168.html'
 - brand: Allen & Heath
   model: ME-U
   description: Personal Mixer HUB
@@ -54,6 +60,7 @@
   department: sound
   deployed: 'YES'
   location: Stage
+  link: 'http://newvalleychurch.github.io/ME-U.html'
 - brand: Allen & Heath
   model: ME-1
   description: Digital In-ear Personal Monitoring Mixer
@@ -62,6 +69,7 @@
   department: sound
   deployed: 'YES'
   location: Stage
+  link: 'http://newvalleychurch.github.io/ME-1.html'
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -70,6 +78,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -78,6 +87,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -86,6 +96,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -94,6 +105,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -102,6 +114,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -110,6 +123,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -118,6 +132,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -126,6 +141,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -134,6 +150,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
 - brand: Renkus-Heinz
   model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -142,6 +159,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
 - brand: QSC
   model: KW181-BK
   description: Sub-Woofer Stage Left
@@ -150,6 +168,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/KW181-BK.html'
 - brand: QSC
   model: KW181-BK
   description: Sub-Woofer Stage Right
@@ -158,6 +177,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/KW181-BK.html'
 - brand: QSC
   model: Rave522UA
   description: Digital Sound Processor
@@ -166,6 +186,7 @@
   department: sound
   deployed: 'YES'
   location: Front of House
+  link: 'http://newvalleychurch.github.io/Rave522UA.html'
 - brand: QSC
   model: CX204V
   description: 70V 4-Channel Amplifiers
@@ -174,11 +195,4 @@
   department: sound
   deployed: 'YES'
   location: Front of House
-- brand: Taco
-  model: tuesday
-  description: waterboarding
-  device_type: Wheeee
-  serial_number: ''
-  department: lights
-  deployed: 'YES'
-  location: Battlegrounds
+  link: 'http://newvalleychurch.github.io/CX204V.html'
