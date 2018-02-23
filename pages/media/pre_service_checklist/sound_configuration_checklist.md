@@ -2,7 +2,7 @@
 title: 2. System Audio Setup
 keywords: audio, sound
 summary: "Making sure that the iMac and Ableton Live can see and communicate with the QU-32."
-sidebar: media_sidebar
+sidebar: main_sidebar
 permalink: sound_configuration_checklist.html
 folder: media
 simple_map: true

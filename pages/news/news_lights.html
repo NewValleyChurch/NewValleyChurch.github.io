@@ -15,7 +15,7 @@ folder: news
   <a name="{{ "Lights" | slugize }}">
   </a>
   {% include note.html content="This page shows only articles under the category \"Lights.\"" %}
-  {% for post in site.categories.lights %}
+  {% for post in site.categories.lights limit:10 %}
     <h2>
       <a class="post-link" href="{{ post.url | remove: "/" }}">
         {{ post.title }}

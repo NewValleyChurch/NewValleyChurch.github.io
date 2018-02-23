@@ -2,7 +2,7 @@
 title: "Audio Equipment List"
 keywords: inventory, audio, audio equipment
 sidebar: sound_sidebar
-permalink: equipment-list-sound.html
+permalink: equipment_list_sound.html
 folder: sound
 toc: false
 summary: A comprehensive list of all audio equipment. [work in progress]

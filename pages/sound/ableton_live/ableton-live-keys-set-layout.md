@@ -3,7 +3,7 @@ title: Set Layout
 keywords: recording, MIDI, sequencing, digital audio workstation, DAW
 summary: "A detailed account of the New Valley Worship set (New Valley Worship.als) used for Keyboard and Live Backing Tracks during services."
 image_folder: ableton
-sidebar: sound_sidebar
+sidebar: main_sidebar
 sidebar_2: ableton_sidebar
 permalink: ableton-live-keys-set-layout.html
 folder: sound

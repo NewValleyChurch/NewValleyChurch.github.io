@@ -2,7 +2,7 @@
 title: Setting iMac Audio Preferences
 keywords: media
 summary: "How to change the System Audio Source on a Mac"
-sidebar: media_sidebar
+sidebar: main_sidebar
 permalink: setting-imac-audio-preferences.html
 folder: media
 toc: false

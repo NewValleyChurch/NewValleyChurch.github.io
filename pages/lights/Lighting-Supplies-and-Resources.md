@@ -2,7 +2,7 @@
 title: Supplies & Resources
 keywords: supplies
 summary: "Where to buy lighting supplies and resources."
-sidebar: lighting_sidebar
+sidebar: main_sidebar
 permalink: Lighting-Supplies-and-Resources.html
 folder: lights
 ---

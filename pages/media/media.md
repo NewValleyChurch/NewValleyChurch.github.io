@@ -1,27 +1,104 @@
 ---
-title: Media Overview
+title: Media Team Home Page
 keywords: media
-summary: "A brief overview of the media department at New Valley Church"
-sidebar: media_sidebar
+summary:
+sidebar: main_sidebar
 permalink: media.html
 folder: media
 toc: false
 ---
 
-## Basics
-
-The NV Media team provides all of the visual elements in the Sanctuary as well as audio and video published for various content platforms such as Facebook, Twitter, Podcasts, and content for the hearing impaired.
-
-Our tools are industry standard tools running on a Mac OSX platform.  They currently include:
-
-- ProPresenter 6: For control over visual projections.
-- Ableton Live 9: Digital Audio Workstation (DAW) for Multi-Track recording and MIDI control of various hardware devices.
-- DMXIS: DMX Lighting Control for house and stage lighting.
-
-## Pre-Service Checklist
-
-There is a pre-service checklist that will guide you through the steps you need to take to accomplish the successful delivery of media and recording of sermons through the course of any service or event.  Please refer to that every week as it _is_ a dynamic list and may change from time to time.
-
-[Pre-Service Checklist](pre_service_checklist_start_here.html)
+<div class="row">
+	<div class="col-lg-12">
+		<!--<h2 class="page-header">Service List</h2>-->
+	</div>
+	<div class="col-md-4">
+		<div class="media">
+      <div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-check fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading" markdown="1">[Pre-Service Checklist](/pre_service_checklist.html)</h3>
+				<p>Guide to starting up a service.</p>
+			</div>
+		</div>
+		<div class="media">
+      <!--<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-music fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading">Worship Team</h3>
+				<p markdown="1">[Overview](/worship_band), [Keyboard Setup](/keyboard_setup.html)</p>
+			</div>-->
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-support fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Three</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="media">
+			<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-tv fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading" markdown="1">[Equipment List](/equipment_list_media.html)</h3>
+				<p>A list of the audio gear in use.</p>
+			</div>
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-bomb fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Five</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-bank fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Six</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="media">
+			<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-ticket fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading" markdown="1">[Troubleshooting / FAQ](/faq_media.html)</h3>
+				<p markdown="1">Questions and answers to your most common sound problems.</p>
+			</div>
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-space-shuttle fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Eight</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-recycle fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Nine</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+	</div>
+</div>
 
 {% include links.html %}

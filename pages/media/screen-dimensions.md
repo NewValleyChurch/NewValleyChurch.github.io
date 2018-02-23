@@ -2,7 +2,7 @@
 title: Screen Dimensions
 keywords: projectors
 summary: "Screen layout for projectors"
-sidebar: media_sidebar
+sidebar: main_sidebar
 permalink: screen-dimensions.html
 folder: media
 ---

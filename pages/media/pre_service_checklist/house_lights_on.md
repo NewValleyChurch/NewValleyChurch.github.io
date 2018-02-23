@@ -2,7 +2,7 @@
 title: 1. House Lights On
 keywords: DMXIS, House Lights
 summary: "How to light up the house lights so you can see."
-sidebar: media_sidebar
+sidebar: main_sidebar
 permalink: house_lights_on.html
 folder: media
 simple_map: true

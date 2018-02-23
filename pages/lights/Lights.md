@@ -1,34 +1,104 @@
 ---
-title: Lighting
+title: Lighting Home Page
 keywords: lights
-summary: "Information on the DMXIS lighting control."
-sidebar: lighting_sidebar
-permalink: Lights.html
+summary:
+sidebar: main_sidebar
+permalink: lights.html
 folder: lights
+toc: false
 ---
 
-# Current Lighting Situation
+<div class="row">
+	<div class="col-lg-12">
+		<!--<h2 class="page-header">Service List</h2>-->
+	</div>
+	<div class="col-md-4">
+		<div class="media">
+      <div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-check fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading" markdown="1">[Pre-Service Checklist](/pre_service_checklist.html)</h3>
+				<p>Guide to starting up a service.</p>
+			</div>
+		</div>
+		<div class="media">
+      <!--<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-music fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading">Worship Team</h3>
+				<p markdown="1">[Overview](/worship_band), [Keyboard Setup](/keyboard_setup.html)</p>
+			</div>-->
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-support fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Three</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="media">
+			<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-tv fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading" markdown="1">[Equipment List](/equipment_list_lights.html)</h3>
+				<p>A list of the audio gear in use.</p>
+			</div>
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-bomb fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Five</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-bank fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Six</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="media">
+			<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-ticket fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading" markdown="1">[Troubleshooting / FAQ](/light_faq.html)</h3>
+				<p markdown="1">Questions and answers to your most common sound problems.</p>
+			</div>
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-space-shuttle fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Eight</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-recycle fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Nine</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+	</div>
+</div>
 
-Go to [[Steps to Controlling the Lights]] for quick reference.
-
-- [Here is a primer](https://newvalleychurch.slack.com/files/U75QP3JLU/F8BRWFCU8/lighting_system_layout_overview.pdf) on the DMX lighting system.
-
-The house lights, FOH lights and Electrics make up the core of the lighting at New Valley.  There are currently twinkle stringers over the congregation that will probably come down after the holidays, and there is a fairy light string on the microphone stands that will come down after the holidays.
-
-## Front of House Lights
-
-Front of house stage lights are typically the lights that are in front of the stage apron (the curved part of the stage.)  
-
-## Electrics
-
-Electrics are lights that are over the stage.  We currently have two of them, not counting the house lights that are behind the apron.
-
-## House Lights
-
-There are 7 banks of house lights.  They are all track lighting with LED lights.  I do not know what type of light is actually installed in the track yet.  This is an issue we can track.
-
-## DMX Universe
-
-There is one DMX universe.  It consists of two cable runs that are split from the FOH.  The entire universe is controlled by the [DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) controller and is split by the D-SPLIT controller.  One feed is run over Cat5 cable to the FOH and Electrics and the other is also on Cat5 cable but it runs into the office behind the sound booth.  
-
-In DMX language, the house lights are considered a single fixture with 8 channels.  Each bank of lights is a channel.  The 8th channel is routed to the lights that are pointed to the logo in the foyer.  That is another issue to track.
+{% include links.html %}

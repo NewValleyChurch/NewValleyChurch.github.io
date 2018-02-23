@@ -2,7 +2,7 @@
 title: Audio Safety
 keywords: safety in-ear
 summary: "Notes on some basic safety issues."
-sidebar: sound_sidebar
+sidebar: main_sidebar
 permalink: audio-safety-concerns.html
 folder: sound
 toc: false

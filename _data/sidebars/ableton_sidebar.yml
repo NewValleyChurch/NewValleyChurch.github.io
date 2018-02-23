@@ -11,7 +11,7 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /ableton-live-overview.html
+      url: /ableton-live.html
       output: web, pdf
 
     - title: Ableton Live File Structure

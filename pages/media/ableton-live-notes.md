@@ -2,7 +2,7 @@
 title: Ableton Live Basics
 keywords: Ableton
 summary: "Basics of Ableton Live"
-sidebar: media_sidebar
+sidebar: main_sidebar
 permalink: ableton-live-notes.html
 folder: media
 ---

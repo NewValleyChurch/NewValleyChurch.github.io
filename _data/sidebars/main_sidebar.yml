@@ -26,16 +26,118 @@ entries:
 
     - title: Welcome
       url: /index.html
-      output: web, pdf
+      output: web
       type: homepage
 
-    - title: Introduction
-      url: /mydoc_introduction.html
-      output: web, pdf
+    - title: About this Site
+      url: /about-this-site.html
+      output: web
 
     - title: Get Involved
       url: /get_involved.html
-      output: web, pdf
+      output: web
+
+  - title: Worship Band
+    output: web
+    url: /worship_band.html
+    folderitems:
+
+    - title: Overview
+      url: /worship_band.html
+      output: web
+
+    - title: Keyboard Setup
+      url: /keyboard_setup.html
+      output: web
+
+    - title: Stage Layout
+      url: /stage_layout.html
+      output: web
+
+  - title: Audio Visual Teams
+    output: web
+    url: /audiovisual.html
+    folderitems:
+
+    - title: Overview
+      url: /audiovisual.html
+      output: web
+
+      subfolders:
+      - title: Sound
+        url: /sound.html
+        output: web
+
+        subfolderitems:
+        - title: Sound Home Page
+          url: /sound.html
+          output: web
+
+        - title: Pre-Service Checklist
+          url: /pre_service_checklist.html
+          output: web
+
+        - title: Troubleshooting / FAQ
+          url: /faq_sound.html
+          output: web
+
+        - title: Equipment List
+          url: /equipment_list_sound.html
+          output: web
+
+      - title: Media
+        url: /media.html
+        output: web
+
+        subfolderitems:
+        - title: Media Home Page
+          url: /media.html
+          output: web
+
+        - title: Pre-Service Checklist
+          url: /pre_service_checklist.html
+          output: web
+
+        - title: Troubleshooting / FAQ
+          url: /faq_media.html
+          output: web
+
+        - title: Equipment List
+          url: /equipment_list_media.html
+          output: web
+
+      - title: Lights
+        url: /lights.html
+        output: web
+
+        subfolderitems:
+        - title: Lighting Home Page
+          url: /lights.html
+          output: web
+
+        - title: Pre-Service Checklist
+          url: /pre_service_checklist.html
+          output: web
+
+        - title: Troubleshooting / FAQ
+          url: /faq_lights.html
+          output: web
+
+        - title: Equipment List
+          url: /equipment_list_lights.html
+          output: web
+
+  - title: Network / IT
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: /network.html
+      output: web
+
+    - title: Network IP Map
+      url: /network-ip-map.html
+      output: web
 
   - title: News & Updates
     output: web
@@ -49,74 +151,14 @@ entries:
       url: /news_general.html
       output: web
 
-    - title: Sound
-      url: /news_sound.html
-      output: web
-
-    - title: Media
-      url: /news_media.html
-      output: web
-
-    - title: Lights
-      url: /news_lights.html
+    - title: AV Teams
+      url: /news_audiovisual.html
       output: web
 
     - title: Building
       url: /news_building.html
       output: web
 
-    - title: Networker
+    - title: Network IT
       url: /news_networks.html
-      ouput: web
-
-  - title: Volunteer Resources
-    output: web
-    folderitems:
-
-    - title: Volunteer Resources Home
-      url: /volunteer_resources.html
       output: web
-
-      subfolders:
-      - title: Worship Band
-        outbput: web
-        subfolderitems:
-
-        - title: Overview
-          url: /worship.html
-          output: web
-
-        - title: Keyboard Setup
-          url: /keyboard_setup.html
-          output: web
-          
-      - title: Production Teams
-        output: web
-        subfolderitems:
-
-        - title: Sound
-          url: /sound
-          output: web
-
-        - title: Media
-          url: /media
-          output: web
-
-        - title: Lights
-          url: /lights
-          output: web
-
-      - title: Worship Band
-        url: web
-        subfolderitems:
-
-  - title: Network Resources
-    output: web
-    folderitems:
-
-    - title: Overview
-      url: /network.html
-      output: web
-
-    - title: Network IP Map
-      url: /network-ip-map.html

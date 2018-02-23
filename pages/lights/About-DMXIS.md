@@ -2,7 +2,7 @@
 title: About DMXIS
 keywords: DMXIS
 summary: "Information on the DMXIS lighting control."
-sidebar: lighting_sidebar
+sidebar: main_sidebar
 permalink: About-DMXIS.html
 folder: lights
 categories: lighting

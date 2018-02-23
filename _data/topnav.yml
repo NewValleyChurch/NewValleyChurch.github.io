@@ -11,13 +11,9 @@ topnav_dropdowns:
           url: /all_news.html
         - title: General
           url: /news_general
-        - title: Sound
-          url: /news_sound
-        - title: Media
-          url: /news_media
-        - title: Lights
-          url: /news_lights
-        - title: Network
+        - title: A/V Team Blog
+          url: /news_audiovisual
+        - title: Network / IT
           url: /news_network
         - title: Worship Band
           url: /news_worship
@@ -34,5 +30,3 @@ topnav:
     items:
       - title: Home
         url: /index.html
-      - title: Volunteer Resources
-        url: /volunteer_resources.html

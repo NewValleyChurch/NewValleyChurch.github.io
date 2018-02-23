@@ -2,7 +2,7 @@
 title: Ableton Live Overview
 keywords: recording, MIDI, sequencing, digital audio workstation, DAW
 summary: "A brief overview of the media department at New Valley Church"
-sidebar: sound_sidebar
+sidebar: main_sidebar
 sidebar_2: ableton_sidebar
 permalink: ableton-live-overview.html
 folder: sound

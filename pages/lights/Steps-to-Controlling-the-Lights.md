@@ -2,7 +2,7 @@
 title: Steps to Control the Lights
 keywords: DMXIS
 summary: "Information on the DMXIS lighting control."
-sidebar: lighting_sidebar
+sidebar: main_sidebar
 permalink: Steps-to-Controlling-the-Lights.html
 folder: lights
 ---

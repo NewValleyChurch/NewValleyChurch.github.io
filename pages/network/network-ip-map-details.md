@@ -2,7 +2,7 @@
 title: Network IP Map Page Details
 keywords: network
 summary: "An overview of how the network IP Address page is built."
-sidebar: network_sidebar
+sidebar: main_sidebar
 permalink: network-ip-map-details.html
 folder: network
 category: network

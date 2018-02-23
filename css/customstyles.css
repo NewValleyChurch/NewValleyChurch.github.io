@@ -408,8 +408,12 @@ ul#mysidebar_2 {
     border-radius:0px;
 }
 
+ul#mysidebar_3 {
+    border-radius:0px;
+}
+
 .nav ul li ul li a {
-    padding-left:40px;
+    padding-left:20px;
 }
 
 .nav li.thirdlevel > a {
@@ -751,6 +755,9 @@ ol.series li {
 #mysidebar_2 .nav ul {
     background-color: #FAFAFA;
 }
+#mysidebar_3 .nav ul {
+    background-color: #FAFAFA;
+}
 .nav ul.series li {
     list-style: decimal;
     font-size:12px;
@@ -897,6 +904,11 @@ span.soft {
         position: relative;
     }
 }
+@media (max-width: 990px) {
+    #mysidebar_3 {
+        position: relative;
+    }
+}
 
 @media (min-width: 1000px) {
 
@@ -904,6 +916,9 @@ span.soft {
         width: 225px;
     }
     ul#mysidebar_2 {
+        width: 225px;
+    }
+    ul#mysidebar_3 {
         width: 225px;
     }
 }
@@ -914,6 +929,9 @@ span.soft {
         max-width: 100%;
     }
     ul#mysidebar_2 {
+        max-width: 100%;
+    }
+    ul#mysidebar_3 {
         max-width: 100%;
     }
 }

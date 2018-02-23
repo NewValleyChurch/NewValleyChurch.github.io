@@ -2,7 +2,7 @@
 title: Pre-Service Checklist
 keywords: pre-service checklist
 summary: "Steps to follow when setting up for Sunday morning service, or any other event that requires the same A/V services."
-sidebar: media_sidebar
+sidebar: main_sidebar
 permalink: pre_service_checklist_start_here.html
 folder: media
 toc: false

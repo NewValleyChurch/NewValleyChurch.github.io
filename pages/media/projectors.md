@@ -2,7 +2,7 @@
 title: Projectors
 keywords: projectors
 summary: "Projector setup..."
-sidebar: media_sidebar
+sidebar: main_sidebar
 permalink: projectors.html
 folder: media
 ---

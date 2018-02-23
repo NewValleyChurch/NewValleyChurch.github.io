@@ -2,7 +2,7 @@
 title: DualHead2Go
 keywords: video
 summary: "Multiple monitor configuration."
-sidebar: media_sidebar
+sidebar: main_sidebar
 permalink: dualhead2go.html
 folder: media
 ---

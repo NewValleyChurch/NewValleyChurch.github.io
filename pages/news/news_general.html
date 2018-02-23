@@ -3,6 +3,7 @@ title: General News
 sidebar: main_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: news_general.html
+summary: The general news feed contains non-department specific information or announcements and updates regarding this website.
 toc: false
 folder: news
 ---
@@ -15,7 +16,7 @@ folder: news
   <a name="{{ "General" | slugize }}">
   </a>
   {% include note.html content="This page shows only articles under the category \"General.\"" %}
-  {% for post in site.categories.general %}
+  {% for post in site.categories.general limit:10 %}
     <h2>
       <a class="post-link" href="{{ post.url | remove: "/" }}">
         {{ post.title }}

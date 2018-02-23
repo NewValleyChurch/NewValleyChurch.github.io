@@ -1,4 +1,6 @@
 $('#mysidebar').height($(".nav").height());
+$('#mysidebar_2').height($(".nav").height());
+$('#mysidebar_3').height($(".nav").height());
 
 
 $( document ).ready(function() {
@@ -9,6 +11,8 @@ $( document ).ready(function() {
     //console.log (h);
     if (h > 800) {
         $( "#mysidebar" ).attr("class", "nav affix");
+        $( "#mysidebar_2" ).attr("class", "nav affix");
+        $( "#mysidebar_3" ).attr("class", "nav affix");
     }
     // activate tooltips. although this is a bootstrap js function, it must be activated this way in your theme.
     $('[data-toggle="tooltip"]').tooltip({

@@ -15,7 +15,7 @@ folder: news
   <a name="{{ "Sound" | slugize }}">
   </a>
   {% include note.html content="This page shows only articles under the category \"Sound.\"" %}
-  {% for post in site.categories.sound %}
+  {% for post in site.categories.sound limit:10 %}
     <h2>
       <a class="post-link" href="{{ post.url | remove: "/" }}">
         {{ post.title }}

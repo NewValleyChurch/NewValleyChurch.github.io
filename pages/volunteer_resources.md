@@ -73,13 +73,13 @@ category: general
 	</div>
 	<div class="col-md-4">
 		<div class="media">
-			<!--<div class="pull-left">
-				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i></span>
-			</div>
+			<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-camera fa-stack-1x fa-inverse"></i></span>
+      </div>
 			<div class="media-body">
-				<h4 class="media-heading">Service Seven</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-			</div>-->
+				<h3 class="media-heading">A/V Teams</h3>
+				<p markdown="1">Production teams is being consolidated into one main category to streamline updates.</p>
+			</div>
 		</div>
 		<div class="media">
 			<!--<div class="pull-left">
