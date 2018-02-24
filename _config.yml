@@ -132,3 +132,4 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 url: https://newvalleychurch.github.io
 baseurl: ""
+documenturl: https://newvalleychurch.github.io/documents/
