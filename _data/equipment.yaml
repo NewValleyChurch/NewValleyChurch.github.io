@@ -5,9 +5,9 @@
   serial_number: U63226-K2Z827120
   department: network
   deployed: 'YES'
-  location: Chocolate
+  location: Kids
   details: 'http://newvalleychurch.github.io/QL-710W.html'
-  ip: ''
+  ip: '23'
   mac: ''
   static: ''
   hostname: ''
