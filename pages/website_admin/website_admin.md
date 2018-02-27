@@ -11,7 +11,7 @@ categories: website
 
 ## What is this?
 
-This is a GitHub Pages website, hosted at GitHub.com in a repository called https://github.com/newvalleychurch.  This repository is an organization on GitHub setup under the administration of Jon Griffith, whose GitHub main repo is found at https://github.com/arretx/.
+This is a GitHub Pages website, hosted at GitHub.com in an organizational [repository](https://github.com/NewValleyChurch/NewValleyChurch.github.io).  This repository is an organization on GitHub setup under the administration of Jon Griffith, whose GitHub main repo is found at https://github.com/arretx/.
 
 ## Jekyll
 
@@ -23,7 +23,7 @@ This site is no different.
 
 ## Location of Files
 
-The current file structure of the site can be observed at the main repository, https://github.com/newvalleychurch.
+The current file structure of the site can be observed at the main repository, https://github.com/NewValleyChurch/NewValleyChurch.github.io.
 
 ## Jekyll Theme
 
