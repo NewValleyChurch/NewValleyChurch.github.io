@@ -88,6 +88,7 @@ defaults:
       sidebar_3: ""
       topnav: topnav
       image_folder: images
+      document_folder: documents
   -
     scope:
       path: ""
@@ -98,6 +99,7 @@ defaults:
       search: true
       tooltip: true
       image_folder: images
+      document_folder: documents
 
   -
     scope:
@@ -113,6 +115,7 @@ defaults:
       sidebar_3: ""
       topnav: topnav
       image_folder: images
+      document_folder: documents
 
 # these are defaults used for the frontmatter for these file types
 

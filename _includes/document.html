@@ -1,0 +1,19 @@
+{% if {{include.float}} == "right" %}
+<div class="docimage-right">
+{% elsif {{include.float}} == "left" %}
+<div class="docimage-left">
+{% endif %}
+<figure>
+
+    <a class="no_icon" target="_blank" {% if {{page.document_folder}} %}href="{{page.document_folder}}/{{page.name | remove:".md" }}.pdf"{% else %}href="/{{page.name | remove:".md" }}.pdf"{% endif %}>{{page.title}} {{include.type}}
+
+
+  </a>
+
+  {% if {{include.caption}} %}
+  <figcaption>{{include.caption}}</figcaption>
+  {% endif %}
+</figure>
+{% if {{include.float}} %}
+</div>
+{% endif %}
