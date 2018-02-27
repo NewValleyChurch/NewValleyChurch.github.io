@@ -1,8 +1,8 @@
 <!-- Pulls from _data network -->
 {% assign departmentname = page.name | remove:"equipment_list_" | remove:".md" %} <!-- determine which department by the file name -->
-{% assign locations = site.data.equipment | where:"department", departmentname | group_by:"location" %}
-
-{% for location in locations %}
+{% assign zones = site.data.equipment | where:"department", departmentname | group_by:"zone" %}
+{% assign displayCol = "3,4,5,10" | split: "," %}
+{% for location in zones %}
 <table width="100%">
 
 
@@ -23,19 +23,18 @@
 
 <tr>
 {% for field in item %}
-
- {% if forloop.index == 1 or forloop.index == 4 or forloop.index == 6 or forloop.index == 8 %}
- {% else %}
-  <th style="font-size: 10px;">{{field[0]| replace: '_', ' ' | capitalize }}</th>
+{% assign indexToStr = forloop.index | append: "" %}
+{% if displayCol contains indexToStr %}
+  <th style="font-size: 10px;">{{field[0] | replace: '_', ' ' | capitalize }}</th>
  {% endif %}
  {% endfor %}
 </tr>
 {% endif %}
 <tr>
  {% for field in item %}
- {% if forloop.index == 1 or forloop.index == 4 or forloop.index == 6 or forloop.index == 8 %}
- {% else %}
-  <td>{% if field[1] contains 'http' %}<a href="{{site.url}}/{{item.model}}.html">Details</a>{% else %}{{field[1]}}{% endif %}</td>
+ {% assign indexToStr = forloop.index | append: "" %}
+ {% if displayCol contains indexToStr %}
+  <td>{% if field[1] contains 'http' %}test<a href="{{site.url}}/{{item.model}}.html">Link</a>{% else %}{{field[1]}}{% endif %}</td>
  {% endif %}
  {% endfor %}
 </tr>
