@@ -3,6 +3,7 @@
 {% assign zones = site.data.equipment | where:"department", departmentname | group_by:"zone" %}
 {% assign displayCol = "3,4,5,10" | split: "," %}
 {% for location in zones %}
+
 <table width="100%">
 
 

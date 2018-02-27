@@ -16,4 +16,8 @@ tags: []
 - Barbara identified a potential problem with the CSS mouseover feature on the New Valley main site when using a mobile device.
 - Added the Point Source Array Speaker information QSC Sub-woofer information under the sound team equipment list.
 
+#### 10:58 PM
+
+- [Sound Equipment List](https://newvalleychurch.github.io/equipment_list_sound.html) now displays a More Info link only if there is more info to be displayed.  Multiple identical models now only have a single More Info link instead of one link for each serial number.
+
 {% include links.html %}
