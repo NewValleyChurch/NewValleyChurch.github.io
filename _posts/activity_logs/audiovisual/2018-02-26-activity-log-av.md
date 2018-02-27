@@ -20,4 +20,8 @@ tags: []
 
 - [Sound Equipment List](https://newvalleychurch.github.io/equipment_list_sound.html) now displays a More Info link only if there is more info to be displayed.  Multiple identical models now only have a single More Info link instead of one link for each serial number.
 
+#### 11:13 PM
+
+- Edited the metatag <description> in feed.audiovisual.xml to include the first 50 words of the article between the <description> tags in the item section of the Atom feed for a better result in the e-mail summary.
+
 {% include links.html %}
