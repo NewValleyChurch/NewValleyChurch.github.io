@@ -7,7 +7,7 @@
   department: network
   deployed: 'YES'
   zone: Kids
-  details: ''
+  link: 'http://newvalleychurch.github.io/QL-710W.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -17,6 +17,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Brother
@@ -27,7 +28,7 @@
   department: network
   deployed: 'YES'
   zone: Kids
-  details: ''
+  link: 'http://newvalleychurch.github.io/QL-710W.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -37,6 +38,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Apple
@@ -47,7 +49,7 @@
   department: network
   deployed: 'YES'
   zone: Kids
-  details: ''
+  link: 'http://newvalleychurch.github.io/A1395.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -57,6 +59,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -67,7 +70,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/QU-32.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -77,6 +80,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -87,7 +91,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/AB-168.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -97,6 +101,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -107,7 +112,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/AB-168.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -117,6 +122,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -127,7 +133,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/ME-U.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -137,6 +143,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -147,7 +154,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/ME-1.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -157,6 +164,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -167,7 +175,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/ME-1.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -177,6 +185,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -187,7 +196,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/ME-1.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -197,6 +206,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -207,7 +217,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/ME-1.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -217,6 +227,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -227,7 +238,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/ME-1.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -237,6 +248,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Allen & Heath
@@ -247,7 +259,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/ME-1.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -257,6 +269,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -267,7 +280,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -277,6 +290,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -287,7 +301,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -297,6 +311,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -307,7 +322,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -317,6 +332,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -327,7 +343,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -337,6 +353,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -347,7 +364,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/PF1-500.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -357,6 +374,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -367,7 +385,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -377,6 +395,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -387,7 +406,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -397,6 +416,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -407,7 +427,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -417,6 +437,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -427,7 +448,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -437,6 +458,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
@@ -447,7 +469,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -457,6 +479,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: QSC
@@ -467,7 +490,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/KW181-BK.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -477,6 +500,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: QSC
@@ -487,7 +511,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/KW181-BK.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -497,6 +521,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: QSC
@@ -507,7 +532,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/Rave522UA.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -517,6 +542,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: QSC
@@ -527,7 +553,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  details: ''
+  link: 'http://newvalleychurch.github.io/CX204V.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -537,6 +563,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: Focusrite
@@ -547,7 +574,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  details: ''
+  link: 'http://newvalleychurch.github.io/18i8.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -557,6 +584,7 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
 - asset_tag: ''
   brand: EIKI
@@ -567,7 +595,7 @@
   department: ''
   deployed: ''
   zone: ''
-  details: ''
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -577,4 +605,5 @@
   faq_id: ''
   process_id: ''
   image: ''
+  details: ''
   document: ''
