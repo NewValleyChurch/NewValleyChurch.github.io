@@ -7,7 +7,7 @@
   department: network
   deployed: 'YES'
   zone: Kids
-  link: 'http://newvalleychurch.github.io/QL-710W.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -28,7 +28,7 @@
   department: network
   deployed: 'YES'
   zone: Kids
-  link: 'http://newvalleychurch.github.io/QL-710W.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -49,7 +49,7 @@
   department: network
   deployed: 'YES'
   zone: Kids
-  link: 'http://newvalleychurch.github.io/A1395.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -70,7 +70,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -133,7 +133,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/ME-U.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -154,7 +154,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/ME-1.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -175,7 +175,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/ME-1.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -196,7 +196,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/ME-1.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -217,7 +217,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/ME-1.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -238,7 +238,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/ME-1.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -259,7 +259,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/ME-1.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -280,7 +280,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  link: 'Y'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -301,7 +301,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -322,7 +322,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -343,7 +343,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -364,7 +364,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -378,14 +378,14 @@
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
-  model: CF/CFX101LA
+  model: CFX101LA
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  link: 'Y'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -399,14 +399,14 @@
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
-  model: CF/CFX101LA
+  model: CFX101LA
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -420,14 +420,14 @@
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
-  model: CF/CFX101LA
+  model: CFX101LA
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -441,14 +441,14 @@
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
-  model: CF/CFX101LA
+  model: CFX101LA
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -462,14 +462,14 @@
   document: ''
 - asset_tag: ''
   brand: Renkus-Heinz
-  model: CF/CFX101LA
+  model: CFX101LA
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -490,7 +490,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/KW181-BK.html'
+  link: 'Y'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -511,7 +511,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/KW181-BK.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -525,14 +525,14 @@
   document: ''
 - asset_tag: ''
   brand: QSC
-  model: Rave522UA
+  model: RAVE522UA
   description: Digital Sound Processor
   type: Audio Interface
   serial_number: ''
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/Rave522UA.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -553,7 +553,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/CX204V.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -567,14 +567,14 @@
   document: ''
 - asset_tag: ''
   brand: Focusrite
-  model: 18i8
+  model: 18I8
   description: Scarlett 18i8 18 In / 8 Out Sound Module / Mixer
   type: Audio Interface
   serial_number: ''
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/18i8.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
