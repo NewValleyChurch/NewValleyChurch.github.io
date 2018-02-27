@@ -1,198 +1,435 @@
 - brand: Brother
   model: QL-710W
   description: Label Printer
-  device_type: Printer
+  type: Printer
   serial_number: U63226-K2Z827120
   department: network
   deployed: 'YES'
-  location: Kids
-  link: 'http://newvalleychurch.github.io/QL-710W.html'
+  location: Chocolate
+  details: 'http://newvalleychurch.github.io/QL-710W.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Brother
   model: QL-710W
   description: Label Printer
-  device_type: Printer
+  type: Printer
   serial_number: U63226-B3Z597209
   department: network
   deployed: 'YES'
   location: Kids
-  link: 'http://newvalleychurch.github.io/QL-710W.html'
+  details: 'http://newvalleychurch.github.io/QL-710W.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Apple
   model: A1395
   description: iPad 2
-  device_type: Mobile Device
+  type: Mobile Device
   serial_number: DKWKX01HDFHW
   department: network
   deployed: 'YES'
   location: Kids
-  link: 'http://newvalleychurch.github.io/A1395.html'
+  details: 'http://newvalleychurch.github.io/A1395.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Allen & Heath
   model: QU-32
   description: 32 Channel Audio Interface / Mixer
-  device_type: Audio Interface
+  type: Audio Interface
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/QU-32.html'
+  details: 'http://newvalleychurch.github.io/QU-32.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Allen & Heath
   model: AB-168
   description: 16 IN / 8 OUT dSnake Digital Audio Input
-  device_type: Audio Interface
+  type: Audio Interface
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Stage
-  link: 'http://newvalleychurch.github.io/AB-168.html'
+  details: 'http://newvalleychurch.github.io/AB-168.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Allen & Heath
   model: AB-168
   description: 16 IN / 8 OUT dSnake Digital Audio Input
-  device_type: Audio Interface
+  type: Audio Interface
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Stage
-  link: 'http://newvalleychurch.github.io/AB-168.html'
+  details: 'http://newvalleychurch.github.io/AB-168.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Allen & Heath
   model: ME-U
   description: Personal Mixer HUB
-  device_type: Audio Interface
+  type: Audio Interface
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Stage
-  link: 'http://newvalleychurch.github.io/ME-U.html'
+  details: 'http://newvalleychurch.github.io/ME-U.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Allen & Heath
   model: ME-1
   description: Digital In-ear Personal Monitoring Mixer
-  device_type: Audio Interface
+  type: Audio Interface
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Stage
-  link: 'http://newvalleychurch.github.io/ME-1.html'
+  details: 'http://newvalleychurch.github.io/ME-1.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
+- brand: Allen & Heath
+  model: ME-1
+  description: Digital In-ear Personal Monitoring Mixer
+  type: Audio Interface
+  serial_number: ''
+  department: sound
+  deployed: 'YES'
+  location: Stage
+  details: 'http://newvalleychurch.github.io/ME-1.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
+- brand: Allen & Heath
+  model: ME-1
+  description: Digital In-ear Personal Monitoring Mixer
+  type: Audio Interface
+  serial_number: ''
+  department: sound
+  deployed: 'YES'
+  location: Stage
+  details: 'http://newvalleychurch.github.io/ME-1.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
+- brand: Allen & Heath
+  model: ME-1
+  description: Digital In-ear Personal Monitoring Mixer
+  type: Audio Interface
+  serial_number: ''
+  department: sound
+  deployed: 'YES'
+  location: Stage
+  details: 'http://newvalleychurch.github.io/ME-1.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
+- brand: Allen & Heath
+  model: ME-1
+  description: Digital In-ear Personal Monitoring Mixer
+  type: Audio Interface
+  serial_number: ''
+  department: sound
+  deployed: 'YES'
+  location: Stage
+  details: 'http://newvalleychurch.github.io/ME-1.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
+- brand: Allen & Heath
+  model: ME-1
+  description: Digital In-ear Personal Monitoring Mixer
+  type: Audio Interface
+  serial_number: ''
+  department: sound
+  deployed: 'YES'
+  location: Stage
+  details: 'http://newvalleychurch.github.io/ME-1.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  details: 'http://newvalleychurch.github.io/PF1-500.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  details: 'http://newvalleychurch.github.io/PF1-500.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  details: 'http://newvalleychurch.github.io/PF1-500.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  details: 'http://newvalleychurch.github.io/PF1-500.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/PF1-500.html'
+  details: 'http://newvalleychurch.github.io/PF1-500.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
-  model: CFX101LA
+  model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  details: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
-  model: CFX101LA
+  model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  details: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
-  model: CFX101LA
+  model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  details: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
-  model: CFX101LA
+  model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  details: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: Renkus-Heinz
-  model: CFX101LA
+  model: CF/CFX101LA
   description: Point Source Array Speaker Cabinets
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  details: 'http://newvalleychurch.github.io/CF/CFX101LA.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: QSC
   model: KW181-BK
   description: Sub-Woofer Stage Left
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/KW181-BK.html'
+  details: 'http://newvalleychurch.github.io/KW181-BK.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: QSC
   model: KW181-BK
   description: Sub-Woofer Stage Right
-  device_type: Active Speaker
+  type: Active Speaker
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/KW181-BK.html'
+  details: 'http://newvalleychurch.github.io/KW181-BK.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: QSC
   model: Rave522UA
   description: Digital Sound Processor
-  device_type: Audio Interface
+  type: Audio Interface
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/Rave522UA.html'
+  details: 'http://newvalleychurch.github.io/Rave522UA.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
 - brand: QSC
   model: CX204V
   description: 70V 4-Channel Amplifiers
-  device_type: Amplifier
+  type: Amplifier
   serial_number: ''
   department: sound
   deployed: 'YES'
   location: Front of House
-  link: 'http://newvalleychurch.github.io/CX204V.html'
+  details: 'http://newvalleychurch.github.io/CX204V.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
+- brand: Focusrite
+  model: 18i8
+  description: Scarlett 18i8 18 In / 8 Out Sound Module / Mixer
+  type: Audio Interface
+  serial_number: ''
+  department: sound
+  deployed: 'YES'
+  location: Stage
+  details: 'http://newvalleychurch.github.io/18i8.html'
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
+- brand: EIKI
+  model: ''
+  description: ''
+  type: ''
+  serial_number: ''
+  department: ''
+  deployed: ''
+  location: ''
+  details: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  image: ''
+  documents: ''
