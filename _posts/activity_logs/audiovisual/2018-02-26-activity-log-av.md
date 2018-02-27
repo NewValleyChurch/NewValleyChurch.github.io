@@ -24,4 +24,8 @@ tags: []
 
 - Edited the metatag <description> in feed.audiovisual.xml to include the first 50 words of the article between the <description> tags in the item section of the Atom feed for a better result in the e-mail summary.
 
+#### 11:36 PM
+
+- Began writing a [website administrative section](https://newvalleychurch.github.io/website_admin) to explain how this website is built and how to update it.
+
 {% include links.html %}
