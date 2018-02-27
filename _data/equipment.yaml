@@ -7,7 +7,7 @@
   department: network
   deployed: 'YES'
   zone: Kids
-  link: 'Y'
+  link: 'http://newvalleychurch.github.io/QL-710W.html'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -70,7 +70,7 @@
   department: sound
   deployed: 'YES'
   zone: Front of House
-  link: 'http://newvalleychurch.github.io/QU-32.html'
+  link: 'Y'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -91,7 +91,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/AB-168.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -112,7 +112,7 @@
   department: sound
   deployed: 'YES'
   zone: Stage
-  link: 'http://newvalleychurch.github.io/AB-168.html'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
