@@ -607,3 +607,24 @@
   image: ''
   details: ''
   document: ''
+- asset_tag: ''
+  brand: Yamaha
+  model: CP33
+  description: Yamaha CP33 Digital Piano
+  type: Musical Instrument
+  serial_number: ''
+  department: band
+  deployed: 'YES'
+  zone: Stage
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  image: ''
+  details: ''
+  document: ''
