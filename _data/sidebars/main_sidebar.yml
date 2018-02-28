@@ -39,11 +39,11 @@ entries:
 
   - title: Worship Band
     output: web
-    url: /worship_band.html
+    url: /band.html
     folderitems:
 
     - title: Overview
-      url: /worship_band.html
+      url: /band.html
       output: web
 
     - title: Keyboard Setup

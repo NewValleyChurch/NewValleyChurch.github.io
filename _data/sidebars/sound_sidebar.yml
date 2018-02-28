@@ -30,7 +30,7 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /worship_band.html
+      url: /band.html
       output: web
 
     - title: Keyboard Setup

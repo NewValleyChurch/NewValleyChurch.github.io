@@ -30,7 +30,7 @@ Well, it's not exactly start to finish just yet...
       </div>
 			<div class="media-body">
 				<h3 class="media-heading">Worship Team</h3>
-				<p markdown="1">[Overview](/worship_band), [Keyboard Setup](/keyboard_setup.html)</p>
+				<p markdown="1">[Overview](/band), [Keyboard Setup](/keyboard_setup.html)</p>
 			</div>-->
 		</div>
 		<div class="media">
