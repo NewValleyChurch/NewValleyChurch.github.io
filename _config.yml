@@ -84,8 +84,6 @@ defaults:
       comments: true
       search: true
       sidebar: main_sidebar
-      sidebar_2: ""
-      sidebar_3: ""
       topnav: topnav
       image_folder: images
       document_folder: documents
@@ -107,12 +105,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      permalink: ""
       comments: true
       search: true
-      author: jon_griffith
       sidebar: main_sidebar
-      sidebar_2: ""
-      sidebar_3: ""
       topnav: topnav
       image_folder: images
       document_folder: documents
@@ -136,3 +132,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 url: https://newvalleychurch.github.io
 baseurl: ""
 documenturl: https://newvalleychurch.github.io/documents/
+
+plugins:
+  - jekyll-admin
