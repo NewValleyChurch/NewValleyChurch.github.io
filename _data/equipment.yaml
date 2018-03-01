@@ -1,4 +1,5 @@
 - asset_tag: ''
+  Image: ''
   brand: Brother
   model: QL-710W
   description: Label Printer
@@ -8,7 +9,6 @@
   deployed: 'YES'
   zone: Kids
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -20,6 +20,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Brother
   model: QL-710W
   description: Label Printer
@@ -29,7 +30,6 @@
   deployed: 'YES'
   zone: Kids
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -41,6 +41,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Apple
   model: A1395
   description: iPad 2
@@ -50,7 +51,6 @@
   deployed: 'YES'
   zone: Kids
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -62,6 +62,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: 'Y'
   brand: Allen & Heath
   model: QU-32
   description: 32 Channel Audio Interface / Mixer
@@ -71,7 +72,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: 'Y'
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -83,6 +83,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Allen & Heath
   model: AB-168
   description: 16 IN / 8 OUT dSnake Digital Audio Input
@@ -92,7 +93,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -104,6 +104,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Allen & Heath
   model: AB-168
   description: 16 IN / 8 OUT dSnake Digital Audio Input
@@ -113,7 +114,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -125,6 +125,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Allen & Heath
   model: ME-U
   description: Personal Mixer HUB
@@ -134,7 +135,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -146,6 +146,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Allen & Heath
   model: ME-1
   description: Digital In-ear Personal Monitoring Mixer
@@ -155,7 +156,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -167,6 +167,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Allen & Heath
   model: ME-1
   description: Digital In-ear Personal Monitoring Mixer
@@ -176,7 +177,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -188,6 +188,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Allen & Heath
   model: ME-1
   description: Digital In-ear Personal Monitoring Mixer
@@ -197,7 +198,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -209,6 +209,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Allen & Heath
   model: ME-12
   description: Digital In-ear Personal Monitoring Mixer
@@ -218,7 +219,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -230,6 +230,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Allen & Heath
   model: ME-1
   description: Digital In-ear Personal Monitoring Mixer
@@ -239,7 +240,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -251,6 +251,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Allen & Heath
   model: ME-1
   description: Digital In-ear Personal Monitoring Mixer
@@ -260,7 +261,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -272,6 +272,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -281,7 +282,6 @@
   deployed: 'YES'
   zone: Front of House
   link: 'Y'
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -293,6 +293,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -302,7 +303,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -314,6 +314,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -323,7 +324,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -335,6 +335,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -344,7 +345,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -356,6 +356,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -365,7 +366,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -377,6 +377,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -386,7 +387,6 @@
   deployed: 'YES'
   zone: Front of House
   link: 'Y'
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -398,6 +398,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -407,7 +408,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -419,6 +419,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -428,7 +429,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -440,6 +440,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -449,7 +450,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -461,6 +461,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Renkus-Heinz
   model: CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -470,7 +471,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -482,6 +482,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: QSC
   model: KW181-BK
   description: Sub-Woofer Stage Left
@@ -491,7 +492,6 @@
   deployed: 'YES'
   zone: Front of House
   link: 'Y'
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -503,6 +503,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: QSC
   model: KW181-BK
   description: Sub-Woofer Stage Right
@@ -512,7 +513,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -524,6 +524,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: QSC
   model: RAVE522UA
   description: Digital Sound Processor
@@ -533,7 +534,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -545,6 +545,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: QSC
   model: CX204V
   description: 70V 4-Channel Amplifiers
@@ -554,7 +555,6 @@
   deployed: 'YES'
   zone: Front of House
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -566,6 +566,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Focusrite
   model: 18I8
   description: Scarlett 18i8 18 In / 8 Out Sound Module / Mixer
@@ -575,7 +576,6 @@
   deployed: 'YES'
   zone: Stage
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -587,6 +587,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: EIKI
   model: ''
   description: ''
@@ -596,7 +597,6 @@
   deployed: ''
   zone: ''
   link: ''
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -608,6 +608,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Yamaha
   model: CP33
   description: Yamaha CP33 Digital Piano
@@ -617,7 +618,6 @@
   deployed: 'YES'
   zone: Stage
   link: 'Y'
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -629,6 +629,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Enttec
   model: DMXIS
   description: ENTTEC DMXIS USB to DMX Lighting Controller
@@ -638,7 +639,6 @@
   deployed: 'YES'
   zone: Front of House
   link: 'Y'
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -650,6 +650,7 @@
   details: ''
   document: ''
 - asset_tag: ''
+  Image: ''
   brand: Akai
   model: ADV61
   description: AKAI Advance 61 USB Midi Keyboard Controller
@@ -659,7 +660,6 @@
   deployed: 'YES'
   zone: Front of House
   link: 'Y'
-  thumb: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
