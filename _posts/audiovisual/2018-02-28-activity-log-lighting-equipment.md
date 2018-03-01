@@ -17,3 +17,4 @@ categories: audiovisual
 * Added the DMXIS lighting controller to the [equipment list](/equipment_list_lights.html) under lighting.
 * Included image of the controller and added the Operations Manual under the Equipment Documentation on the[ equipment detail page.](/DMXIS.html)
 * Fixed the [Lighting home page](/lights.html) Troublehooting/FAQ link.
+* Site wide update to all previous DMX links.  All links now point to the [DMXIS equipment details page.](/DMXIS.html)
