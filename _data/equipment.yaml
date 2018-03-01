@@ -628,3 +628,24 @@
   image: ''
   details: ''
   document: ''
+- asset_tag: ''
+  brand: Enttec
+  model: DMXIS
+  description: ENTTEC DMXIS USB to DMX Lighting Controller
+  type: Light Control
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  image: ''
+  details: ''
+  document: ''
