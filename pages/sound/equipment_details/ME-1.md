@@ -1,6 +1,6 @@
 ---
-title: "Allen & Heath ME-1 Personal Mixing Monitor"
-keywords: monitors, mixing, ME-1
+title: "A&H ME-1 Personal Mixing Monitor"
+keywords: monitor, mixer
 sidebar: main_sidebar
 permalink: ME-1.html
 folder: /sound/equipment_details
@@ -20,14 +20,14 @@ toc: false
             </ul>
             <div id="myTabContent" class="tab-content">
                 <div class="tab-pane fade active in" id="service-one">
-                    <p>The ME-1 is the digital personal in-ear monitor mixing station that each musician has at their station.  Each is programmable to the musicians liking and those settings can be stored and recalled any time.
+                    <p>This is the personal mixing monitor that each musician has at their workstation.</p>
                     <p>{% include image.html %}</p>
                 </div>
                 <div class="tab-pane fade" id="service-two">
                 <p>Nothing to see here, move along.</p>
                 </div>
                 <div class="tab-pane fade" id="service-three">
-                    <p>{% include document.html type="Operations Manual" %}</p>
+                    <p>{% include document.html type="User Manual" %}</p>
                 </div>
                 <div class="tab-pane fade" id="service-four">
                     <p>Items from the Sound FAQ that are specific to this device will be listed here.  Until then, use the FAQ link under the sound menu in the sidebar.</p>

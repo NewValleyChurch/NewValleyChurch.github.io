@@ -24,3 +24,6 @@ categories: audiovisual
 ## 12:14 PM
 
 * Added the [RAVE522UA Digital Signal Processor details page](/RAVE522UA.html), image, and user manual.
+
+## 3:19 PM
+* Added the [ME-1 Personal Mixing monitor](/ME-1.html) details page and user manual.
