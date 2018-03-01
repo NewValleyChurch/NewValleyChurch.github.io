@@ -23,4 +23,4 @@ Gaff brand tape is approximately $1.00 per yard at 2" thick.  Channel tape, like
 
 ## DMX Lighting Definition Files
 
-There's a great site that's a [crowd sourced repository](http://fixtures.dmxis.com/) of DMX lighting configuration files to be used inside of [DMXIS](/DMXIS.html)(https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS).
+There's a great site that's a [crowd sourced repository](http://fixtures.dmxis.com/) of DMX lighting configuration files to be used inside of [DMXIS](/DMXIS.html).
