@@ -1,8 +1,14 @@
 ---
 title: Lighting Home Page
-keywords: lights
-summary:
+layout: page
+comments: true
+search: true
 sidebar: main_sidebar
+topnav: topnav
+image_folder: images
+document_folder: documents
+keywords: lights
+summary: null
 permalink: lights.html
 folder: lights
 toc: false
@@ -100,5 +106,30 @@ toc: false
 		</div>
 	</div>
 </div>
+
+## About The Lights
+
+New Valley's sanctuary lighting system consists of a single DMX Universe controlled by a single DMX 512 Channel USB Hardware controller connected to the FOH media computer.
+
+The single Universe is split by the D-Split device attached to the DMXIS controller into two desintations.
+
+The first line feeds all 9 stage lights in series without a terminator.  Terminators are usually needed on long cable runs.  Our cable run is relatively short so it's not yet an issue.
+
+The 2nd feed terminates in the office behind the FOH control booth at a Leviton DS8 Dimmer pack.  The dimmer pack is considered a single light with 8 channels.
+
+Each light occupies a certain number of channels depending upon the number of functions it supports.  Each channel of each light uses one of the 512 available channels in the universe.
+
+### Stage and FOH
+
+There are 7 FOH lights including 5 RBGA LED lamps and 2 Unicolor white/strobes.
+There are 2 additional "electrics" which are also unicolor white/strobes hanging directly over the stage.
+
+(Stage lighting hanging in front of the stage apron is considered "Front of House."  Lighting that is over the stage are referred to as "electrics.")
+
+### House Lights
+
+The house lights are split into 7 banks on an 8 Channel Dimmer pack.  The 8th channel is not being used currently.  The channels from from left to right on the dimmer, from 1 to 7 and correspond to the sanctuary from the stage to the back of the house.  Each track is a single channel of the controller.
+
+
 
 {% include links.html %}
