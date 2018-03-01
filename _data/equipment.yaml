@@ -272,7 +272,7 @@
   details: ''
   document: ''
 - asset_tag: ''
-  Image: ''
+  Image: 'Y'
   brand: Renkus-Heinz
   model: PF1-500
   description: Amplifier Module
@@ -377,7 +377,7 @@
   details: ''
   document: ''
 - asset_tag: ''
-  Image: ''
+  Image: 'Y'
   brand: Renkus-Heinz
   model: CFX101LA
   description: Point Source Array Speaker Cabinets
@@ -482,7 +482,7 @@
   details: ''
   document: ''
 - asset_tag: ''
-  Image: ''
+  Image: 'Y'
   brand: QSC
   model: KW181-BK
   description: Sub-Woofer Stage Left
@@ -608,7 +608,7 @@
   details: ''
   document: ''
 - asset_tag: ''
-  Image: ''
+  Image: 'Y'
   brand: Yamaha
   model: CP33
   description: Yamaha CP33 Digital Piano
@@ -629,7 +629,7 @@
   details: ''
   document: ''
 - asset_tag: ''
-  Image: ''
+  Image: 'Y'
   brand: Enttec
   model: DMXIS
   description: ENTTEC DMXIS USB to DMX Lighting Controller
