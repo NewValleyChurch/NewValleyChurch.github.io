@@ -52,15 +52,15 @@ _Understanding how to record the sermon, or other input in both Session and Arra
 
 ### Current Track Setup
 
-There are multiple audio tracks in this set.  Each track corresponds to a Fader Strip on the QU-32, with one exception:  the [DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) track is a _MIDI_ track, and it controls every aspect of the lighting automation.  
+There are multiple audio tracks in this set.  Each track corresponds to a Fader Strip on the QU-32, with one exception:  the [DMXIS](/DMXIS.html)(https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) track is a _MIDI_ track, and it controls every aspect of the lighting automation.  
 
-The QU-32 has Custom Layer mappings (Fader 1-3) which control the [DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) Plug-in which sits in the [DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) MIDI Track.  (If you wish to see the devices that are dropped into the track, Double click the [DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) track title.)
+The QU-32 has Custom Layer mappings (Fader 1-3) which control the [DMXIS](/DMXIS.html)(https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) Plug-in which sits in the [DMXIS](/DMXIS.html)(https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) MIDI Track.  (If you wish to see the devices that are dropped into the track, Double click the [DMXIS](/DMXIS.html)(https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) track title.)
 
 The position of the tracks on the set is relevant only to the organizational strategy chosen.  Where tracks are doesn't matter as much as setting up each track with the right input source.  The input/output section of each track determines where audio or midi comes from and goes to.
 
 - **Wireless Microphones:**  There are 3 tracks assigned to the wireless mics.  They are grouped together, which is why you'll see 4 columns with one column having a heading that spans the width of the other three columns above their titles.
 
-- **[DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS):**  This is the MIDI track that contains the [DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) lighting controller plug-in.
+- **[DMXIS](/DMXIS.html)(https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS):**  This is the MIDI track that contains the [DMXIS](/DMXIS.html)(https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) lighting controller plug-in.
 
 - **Drums:**  There are 6 tracks that have been assigned to the drum faders and they're all grouped together.
 
