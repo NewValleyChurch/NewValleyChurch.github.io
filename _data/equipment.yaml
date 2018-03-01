@@ -649,3 +649,24 @@
   image: ''
   details: ''
   document: ''
+- asset_tag: ''
+  brand: Akai
+  model: ADV61
+  description: AKAI Advance 61 USB Midi Keyboard Controller
+  type: Musical Instrument
+  serial_number: ''
+  department: band
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  image: ''
+  details: ''
+  document: ''
