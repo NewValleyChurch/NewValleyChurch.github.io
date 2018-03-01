@@ -524,7 +524,7 @@
   details: ''
   document: ''
 - asset_tag: ''
-  Image: ''
+  Image: 'Y'
   brand: QSC
   model: RAVE522UA
   description: Digital Sound Processor
