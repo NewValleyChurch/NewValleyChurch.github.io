@@ -82,7 +82,7 @@ toc: false
         <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-ticket fa-stack-1x fa-inverse"></i></span>
       </div>
 			<div class="media-body">
-				<h3 class="media-heading" markdown="1">[Troubleshooting / FAQ](/light_faq.html)</h3>
+				<h3 class="media-heading" markdown="1">[Troubleshooting / FAQ](/faq_lights.html)</h3>
 				<p markdown="1">Questions and answers to your most common sound problems.</p>
 			</div>
 		</div>

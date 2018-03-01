@@ -1,8 +1,14 @@
 ---
 title: About DMXIS
-keywords: DMXIS
-summary: "Information on the DMXIS lighting control."
+layout: page
+comments: true
+search: true
 sidebar: main_sidebar
+topnav: topnav
+image_folder: images
+document_folder: documents
+keywords: DMXIS
+summary: Information on the DMXIS lighting control.
 permalink: About-DMXIS.html
 folder: lights
 categories: lighting
@@ -16,7 +22,7 @@ The [DMXIS](https://github.com/NewValleyChurch/Infrastructure/wiki/About-DMXIS) 
 <img src="https://github.com/NewValleyChurch/Infrastructure-docs/blob/master/images/dmxis.jpg">
 </p>
 
-(_Note: Tactical control of the lights with faders and bank selections can still be achieved with external USB MIDI controllers of which there are many available on the market._)
+(_Note: Tactile control of the lights with faders and bank selections can still be achieved with external USB MIDI controllers of which there are many available on the market._)
 
 # Software
 

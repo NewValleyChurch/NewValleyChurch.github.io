@@ -2,9 +2,9 @@
 {% assign categoryname = page.name | remove:"faq_" | remove:".md" %} <!-- determine which department by the file name -->
 {% assign faqs = site.data.faq | where:"category", categoryname %}
 
-<p>If you want to use an FAQ format, use the syntax shown on the faq.html page. Rather than including code samples here (which are bulky with a lot of nested <code>div</code> tags), just look at the source in the mydoc_faq.html theme file.</p>
-
-
+{% if faqs.size == 0 %}
+<h2>There are currently no questions logged for the {{categoryname | capitalize }} Team.  If you would like to ask a question, please use the commenting section below to start the discussion.</h2>
+{% else %}<h2>To ask a question, use the commenting section at the bottom of this page.</h2>{% endif %}
 
 <div class="panel-group" id="accordion">{% for item in faqs %}
                     <div class="panel panel-default">

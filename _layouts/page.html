@@ -43,7 +43,7 @@ layout: default
 
     {% if site.github_editme_path %}
 
-    <a target="_blank" href="https://github.com/{{site.github_editme_path}}{% unless page.url contains "index.html" %}pages/{% endunless %}{{page.folder}}{{page.url | remove: ".html" | append: ".md"}}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-pencil fa-lg"></i> Edit me</a>
+    <a target="_blank" href="https://github.com/{{site.github_editme_path}}{% unless page.url contains "index.html" %}{{site.repository}}/tree/master/pages/{% endunless %}{{page.folder}}{{page.url | remove: ".html" | append: ".md"}}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-pencil fa-lg"></i> Edit me</a>
 
     <a target="_blank" href="https://github.com/NewValleyChurch/NewValleyChurch.github.io/issues/new" class="btn btn-default githubIssuesButton" role="button"><i class="fa fa-exclamation-triangle  fa-lg"></i> Report a problem with this page.</a>
 
