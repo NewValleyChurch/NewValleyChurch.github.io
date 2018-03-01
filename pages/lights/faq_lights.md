@@ -9,7 +9,6 @@ summary: "Common questions about the lighting setup."
 toc: false
 folder: lights
 ---
-<!-- update -- >
 
 {% include faq_logic.html %}
 
