@@ -20,3 +20,7 @@ categories: audiovisual
 * Changed the Model column to be hyperlinked to the additional information about the item.
 
 [Click Here for an example...](/equipment_list_sound.html)
+
+## 12:14 PM
+
+* Added the [RAVE522UA Digital Signal Processor details page](/RAVE522UA.html), image, and user manual.
