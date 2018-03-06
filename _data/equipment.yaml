@@ -19,6 +19,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Brother
@@ -40,6 +44,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Apple
@@ -61,6 +69,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: 'Y'
   brand: Allen & Heath
@@ -82,6 +94,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Allen & Heath
@@ -103,6 +119,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Allen & Heath
@@ -124,6 +144,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Allen & Heath
@@ -145,6 +169,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: 'Y'
   brand: Allen & Heath
@@ -166,6 +194,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Allen & Heath
@@ -187,6 +219,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Allen & Heath
@@ -208,6 +244,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Allen & Heath
@@ -229,6 +269,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Allen & Heath
@@ -250,6 +294,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Allen & Heath
@@ -271,6 +319,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: 'Y'
   brand: Renkus-Heinz
@@ -292,6 +344,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Renkus-Heinz
@@ -313,6 +369,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Renkus-Heinz
@@ -334,6 +394,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Renkus-Heinz
@@ -355,6 +419,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Renkus-Heinz
@@ -376,6 +444,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: 'Y'
   brand: Renkus-Heinz
@@ -397,6 +469,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Renkus-Heinz
@@ -418,6 +494,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Renkus-Heinz
@@ -439,6 +519,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Renkus-Heinz
@@ -460,6 +544,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Renkus-Heinz
@@ -481,6 +569,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: 'Y'
   brand: QSC
@@ -502,6 +594,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: QSC
@@ -523,6 +619,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: 'Y'
   brand: QSC
@@ -544,6 +644,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: QSC
@@ -565,6 +669,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Focusrite
@@ -586,6 +694,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: EIKI
@@ -607,6 +719,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: 'Y'
   brand: Yamaha
@@ -628,6 +744,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: 'Y'
   brand: Enttec
@@ -649,6 +769,10 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
 - asset_tag: ''
   Image: ''
   brand: Akai
@@ -670,3 +794,257 @@
   process_id: ''
   details: ''
   document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: MegaLITE
+  model: CL5
+  description: MegaLITE Unicolor DMX Light
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Front of House
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '20'
+  DMXIS Name: SR1 White
+  DMX Channels: '2'
+  Channel Patch: '9/10:20'
+- asset_tag: ''
+  Image: 'Y'
+  brand: MegaLITE
+  model: CL5
+  description: MegaLITE Unicolor DMX Light
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Front of House
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '60'
+  DMXIS Name: SL1 White
+  DMX Channels: '2'
+  Channel Patch: '11/12:60'
+- asset_tag: ''
+  Image: 'Y'
+  brand: MegaLITE
+  model: CL5
+  description: MegaLITE Unicolor DMX Light
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Stage
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '80'
+  DMXIS Name: E SR1 White
+  DMX Channels: '2'
+  Channel Patch: '13/14:80'
+- asset_tag: ''
+  Image: 'Y'
+  brand: MegaLITE
+  model: CL5
+  description: MegaLITE Unicolor DMX Light
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Stage
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '90'
+  DMXIS Name: E SL1 White
+  DMX Channels: '2'
+  Channel Patch: '15/16:90'
+- asset_tag: ''
+  Image: 'Y'
+  brand: Elation
+  model: OPTIRGBA
+  description: Elation OptiRGBA LED DMX Light
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Front of House
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '10'
+  DMXIS Name: SR2 RGBA
+  DMX Channels: '8'
+  Channel Patch: '17/24:10'
+- asset_tag: ''
+  Image: 'Y'
+  brand: Elation
+  model: OPTIRGBA
+  description: Elation OptiRGBA LED DMX Light
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Front of House
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '30'
+  DMXIS Name: SR1 RGBA
+  DMX Channels: '8'
+  Channel Patch: '25/32:30'
+- asset_tag: ''
+  Image: 'Y'
+  brand: Elation
+  model: OPTIRGBA
+  description: Elation OptiRGBA LED DMX Light
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Front of House
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '40'
+  DMXIS Name: Center RGBA
+  DMX Channels: '8'
+  Channel Patch: '33/40:40'
+- asset_tag: ''
+  Image: 'Y'
+  brand: Elation
+  model: OPTIRGBA
+  description: Elation OptiRGBA LED DMX Light
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Front of House
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '50'
+  DMXIS Name: SL1 RGBA
+  DMX Channels: '8'
+  Channel Patch: '41/48:50'
+- asset_tag: ''
+  Image: 'Y'
+  brand: Elation
+  model: OPTIRGBA
+  description: Elation OptiRGBA LED DMX Light
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: Front of House
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '70'
+  DMXIS Name: SL2 RGBA
+  DMX Channels: '8'
+  Channel Patch: '49/56:70'
+- asset_tag: ''
+  Image: 'Y'
+  brand: Leviton
+  model: DS8
+  description: Leviton DS8 Digital Dimmer Pack
+  type: Light
+  serial_number: ''
+  department: lights
+  deployed: 'YES'
+  zone: NE Office
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: '1'
+  DMXIS Name: House Lights
+  DMX Channels: '8'
+  Channel Patch: '1/8:1'
