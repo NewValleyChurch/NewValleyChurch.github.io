@@ -1,8 +1,8 @@
 ---
-title: "Sound"
-categoryName: sound
-search: exclude
-permalink: category_sound.html
+title: "Technical Posts"
+categoryName: technical
+search: include
+permalink: category_technical.html
 sidebar: main_sidebar
 folder: categories
 toc: false

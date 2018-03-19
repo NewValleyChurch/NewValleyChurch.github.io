@@ -1,10 +1,11 @@
 ---
-title: "Lights"
-categoryName: lights
+title: "Worship Band"
+categoryName: worship
 search: exclude
-permalink: category_lights.html
+permalink: category_worship.html
 sidebar: main_sidebar
 folder: categories
+toc: false
 ---
 {% include categorylogic.html %}
 

@@ -7,5 +7,5 @@ folder: lights
 toc: false
 ---
 
-{% include equipment_list.html %}
+{% include equipment_list_lights.html %}
 {% include links.html %}

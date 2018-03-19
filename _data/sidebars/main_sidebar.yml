@@ -162,3 +162,55 @@ entries:
     - title: Network IT
       url: /news_networks.html
       output: web
+
+  - title: Site by Category
+    output: web
+    folderitems:
+
+    - title: Audio
+      url: /category_audio.html
+      output: web
+
+    - title: A/V
+      url: /category_audiovisual.html
+      output: web
+
+    - title: Worship Band
+      url: /category_band.html
+      output: web
+
+    - title: Building
+      url: /category_building.html
+      output: web
+
+    - title: General
+      url: /category_general.html
+      output: web
+
+    - title: Lights
+      url: /category_lights.html
+      output: web
+
+    - title: Media
+      url: /category_media.html
+      output: web
+
+    - title: Network
+      url: /category_network.html
+      output: web
+
+    - title: Software
+      url: /category_software.html
+      output: web
+
+    - title: Sound
+      url: /category_sound.html
+      output: web
+
+    - title: Technical
+      url: /category_technical.html
+      output: web
+
+    - title: Website
+      url: /category_website.html
+      output: web

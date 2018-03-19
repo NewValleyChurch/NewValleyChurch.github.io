@@ -69,10 +69,14 @@ kramdown:
 
 # filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
 
-collections:
-  tooltips:
-    output: false
+#collections:
+#  diagrams:
+#    output: true
+  #tooltips:
+  #  output: false
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
+
+collections_dir: my_collections
 
 defaults:
   -
@@ -105,6 +109,20 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      permalink: ""
+      comments: true
+      search: true
+      sidebar: main_sidebar
+      topnav: topnav
+      image_folder: images
+      document_folder: documents
+
+  -
+    scope:
+      path: ""
+      type: "diagrams"
+    values:
+      layout: "page"
       permalink: ""
       comments: true
       search: true
