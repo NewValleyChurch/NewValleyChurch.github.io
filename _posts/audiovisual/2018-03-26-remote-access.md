@@ -47,3 +47,7 @@ The tool we use to connect to OSX on a Mac is called Screen Sharing.  In order f
 Connections to the computer are received on the computer's IP address on a specific port number.  So, for example, if the computer's address is 192.168.0.20, then Screen Sharing is listening to 192.168.0.20:5900.
 
 The network router (wifi router) handles the task of forwarding outside access through the router to the correct computer (as multiple computers can be setup to be controlled remotely.)  This is done through port forwarding.
+
+### Tunneling over SSH
+
+Working on a plan to allow access through an SSH encrtypted tunnel instead of exposing port 5900 to the world.
