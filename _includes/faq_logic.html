@@ -1,0 +1,67 @@
+<!-- Pulls from _data network -->
+{% assign categoryname = page.name | remove:"faq_" | remove:".md" %} <!-- determine which department by the file name -->
+{% assign faqs = site.data.faq | where:"category", categoryname %}
+
+{% if faqs.size == 0 %}
+<h2>There are currently no questions logged for the {{categoryname | capitalize }} Team.  If you would like to ask a question, please use the commenting section below to start the discussion.</h2>
+{% else %}<h2>To ask a question, use the commenting section at the bottom of this page.</h2>{% endif %}
+
+<div class="panel-group" id="accordion">{% for item in faqs %}
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#{{forloop.index}}">{{item.question}}</a>
+                            </h4>
+                        </div>
+                        <div id="{{forloop.index}}" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+                                {{item.answer}}
+                            </div>
+                        </div>
+                    </div>{% endfor %}
+</div>
+<!-- /.panel-group -->
+
+{% for location in locations %}
+<table width="100%">
+
+
+<tr style="background-color: #777; text-align: center;font-size: 20px; padding: 4px;">
+    <th colspan="8" style="text-align: center;">{{location.name}}</th>
+</tr>
+
+{% assign brands = location.items | group_by:"brand" %}
+{% for brand in brands %}
+
+<tr>
+  <th colspan="8" style="background-color: #999;">{{brand.name}}</th>
+</tr>
+
+{% for item in brand.items %}
+
+{% if forloop.first == true %}
+
+<tr>
+{% for field in item %}
+
+ {% if forloop.index == 1 or forloop.index == 4 or forloop.index == 6 or forloop.index == 8 %}
+ {% else %}
+  <th style="font-size: 10px;">{{field[0]| replace: '_', ' ' | capitalize }}</th>
+ {% endif %}
+ {% endfor %}
+</tr>
+{% endif %}
+<tr>
+ {% for field in item %}
+ {% if forloop.index == 1 or forloop.index == 4 or forloop.index == 6 or forloop.index == 8 %}
+ {% else %}
+  <td>{% if field[1] contains 'http' %}<a href="{{site.url}}/{{item.model}}.html">Details</a>{% else %}{{field[1]}}{% endif %}</td>
+ {% endif %}
+ {% endfor %}
+</tr>
+
+{% endfor %}
+{% endfor %}
+
+</table>
+{% endfor %}

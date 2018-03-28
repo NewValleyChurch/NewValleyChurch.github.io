@@ -1,0 +1,141 @@
+---
+title: All New Valley Articles
+sidebar: main_sidebar
+keywords: news, blog, updates, release notes, announcements
+permalink: all_news.html
+toc: false
+folder: news
+---
+<h2>Team Specific News Updates</h2>
+{% include important.html content="All three A/V Departments (Sound, Media, and Lighting) have been combined into one news feed to simplify content management." %}
+<div class="row">
+	<div class="col-lg-12">
+		<!--<h2 class="page-header">Service List</h2>-->
+	</div>
+	<div class="col-md-4">
+		<div class="media">
+      <div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-microphone fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading"><a href="news_audiovisual.html">A/V Teams News Feed</a></h3>
+				<p>All articles about Sound, Media and Lighting.</p>
+			</div>
+		</div>
+		<div class="media">
+      <!--<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-music fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading">Worship Team</h3>
+				<p markdown="1">[Overview](/band), [Keyboard Setup](/keyboard_setup.html)</p>
+			</div>-->
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-support fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Three</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="media">
+			<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-tv fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading"><a href="news_building.html">Building & Facilities</a></h3>
+				<p>All articles about the building and facilities.</p>
+			</div>
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-bomb fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Five</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-bank fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Six</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+	</div>
+	<div class="col-md-4">
+		<div class="media">
+			<div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-ticket fa-stack-1x fa-inverse"></i></span>
+      </div>
+			<div class="media-body">
+				<h3 class="media-heading"><a href="news_general.html">General Updates</a></h3>
+				<p>Includes articles that aren't necessarily department specific as well as updates and changes to this website.</p>
+			</div>
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-space-shuttle fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Eight</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+		<div class="media">
+			<!--<div class="pull-left">
+				<span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-recycle fa-stack-1x fa-inverse"></i></span>
+			</div>
+			<div class="media-body">
+				<h4 class="media-heading">Service Nine</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+			</div>-->
+		</div>
+	</div>
+</div>
+
+<h2>Collection of all Articles</h2>
+
+<div class="home">
+  <div class="post-list">
+
+  {% for post in site.posts limit:10 %}
+    <h2>
+      <a class="post-link" href="{{ post.url | remove: "/" }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <span class="post-meta">
+      {{ post.date | date: "%b %-d, %Y" }} | Categorie(s):
+      {% for category in post.categories %}
+        <a href="{{ "category_" | append: category | append: ".html"}}">{{category}}</a>
+      {% unless forloop.last %}|
+      {% endunless%}
+      {% endfor %}
+    </span>
+    <p>
+    {% if page.summary %}
+      {{ page.summary | strip_html | strip_newlines | truncate: 160 }}
+    {% else %}
+      {{ post.content | truncatewords: 50 | strip_html }}
+      {% include custom/read_more_text.html %}
+    {% endif %}</p>
+
+{% endfor %}
+<p>
+  <a href="feed.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">
+    RSS Subscribe{{tag}}
+  </a>
+</p>
+
+<hr />
+<p>See more posts from the <a href="news_archive.html">News Archive</a>. </p>
+  </div>
+</div>

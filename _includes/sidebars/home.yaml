@@ -1,0 +1,17 @@
+  - title: Home
+    output: web
+    url: /index.html
+    folderitems:
+
+    - title: Welcome
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Introduction
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Get Involved
+      url: /get_involved.html
+      output: web, pdf

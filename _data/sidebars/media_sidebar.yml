@@ -1,0 +1,91 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+
+- title: Sidebar
+  product: Media Main Menu
+  version:
+  folders:
+
+  - title: Getting Started
+    output: web
+    folderitems:
+
+    - title: Media Overview
+      url: /media.html
+      output: web
+
+      subfolders:
+      - title: Pre-Service Checklist
+        output: web
+        subfolderitems:
+
+        - title: 1. House Lights Up
+          url: /house_lights_on.html
+          output: web
+
+        - title: 2. Audio Setup
+          url: /sound_configuration_checklist.html
+          output: web
+
+        - title: 3. To be written
+          url: /next_step.html
+          output: web
+
+    - title: Understanding Ableton Live
+      url: /understanding-ableton-live.html
+      output: web, pdf
+
+    - title: Ableton Live Notes
+      url: /ableton-live-notes.html
+      output: web, pdf
+
+    - title: DualHead2Go
+      url: /dualhead2go.html
+      output: web, pdf
+
+    - title: Projectors
+      url: /projectors.html
+      output: web, pdf
+
+    - title: Screen Dimensions
+      url: /screen-dimensions.html
+      output: web, pdf
+
+  - title: Another heading
+    output: web, pdf
+    folderitems:
+
+    - title: Sample 4
+      url: /p1_sample4.html
+      output: web, pdf
+
+    - title: Sample 5
+      url: /p1_sample5.html
+      output: web, pdf
+
+    - title: Sample 6
+      url: /p1_sample6.html
+      output: web, pdf
+
+    - title: Sample 7
+      url: /p1_sample7.html
+      output: web, pdf
+
+  - title: Tag archives
+    output: web
+    folderitems:
+
+    - title: Tag archives overview
+      url: /mydoc_tag_archives_overview.html
+      output: web
+
+      subfolders:
+      - title: Tag archive pages
+        output: web
+        subfolderitems:
+
+        - title: Formatting pages
+          url: /tag_formatting.html
+          output: web

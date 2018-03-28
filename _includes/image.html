@@ -1,0 +1,21 @@
+{% if {{include.float}} == "right" %}
+<div class="docimage-right">
+{% elsif {{include.float}} == "left" %}
+<div class="docimage-left">
+{% endif %}
+<figure>
+
+    <a class="no_icon" target="_blank" {% if {{page.image_folder}} %}href="/{{page.image_folder}}/{{page.name | remove:".md" }}.jpg"{% else %}href="/{{page.name | remove:".md" }}.jpg"{% endif %}>
+
+  <img {% if {{page.image_folder}} %}src="/{{page.image_folder}}/{{page.name | remove:".md" }}.jpg"{% else %}src="/{{page.name | remove:".md" }}.jpg"{% endif %} alt="{{include.alt}}" {% if {{include.max-width}} %}style="max-width: {{include.max-width}}px"{% endif %} />
+
+
+  </a>
+
+  {% if {{include.caption}} %}
+  <figcaption>{{include.caption}}</figcaption>
+  {% endif %}
+</figure>
+{% if {{include.float}} %}
+</div>
+{% endif %}

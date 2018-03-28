@@ -1,0 +1,50 @@
+---
+title: Sound News
+sidebar: main_sidebar
+keywords: news, blog, updates, release notes, announcements
+permalink: news_sound.html
+toc: false
+folder: news
+---
+<div class="home">
+  <div class="post-list">
+
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}">
+    </div>
+  <a name="{{ "Sound" | slugize }}">
+  </a>
+  {% include note.html content="This page shows only articles under the category \"Sound.\"" %}
+  {% for post in site.categories.sound limit:10 %}
+    <h2>
+      <a class="post-link" href="{{ post.url | remove: "/" }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <span class="post-meta">
+      {{ post.date | date: "%b %-d, %Y" }} | Categorie(s):
+      {% for category in post.categories %}
+        <a href="{{ "category_" | append: category | append: ".html"}}">{{category}}</a>
+      {% unless forloop.last %}|
+      {% endunless%}
+      {% endfor %}
+    </span>
+    <p>
+    {% if page.summary %}
+      {{ page.summary | strip_html | strip_newlines | truncate: 160 }}
+    {% else %}
+      {{ post.content | truncatewords: 50 | strip_html }}
+      {% include custom/read_more_text.html %}
+    {% endif %}</p>
+
+{% endfor %}
+<p>
+  <a href="feed.sound.xml" class="btn btn-primary navbar-btn cursorNorm" role="button">
+    RSS Subscribe{{tag}}
+  </a>
+</p>
+
+<hr />
+<p>See more posts from the <a href="news_archive.html">News Archive</a>. </p>
+  </div>
+</div>

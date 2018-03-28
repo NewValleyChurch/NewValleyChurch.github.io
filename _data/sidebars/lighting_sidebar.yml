@@ -1,0 +1,60 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Lighting Main Menu
+  version:
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Getting Started
+    output: web, pdf
+    folderitems:
+    - title: About DMXIS
+      url: /About-DMXIS.html
+      output: web
+
+    - title: Supplies & Resources
+      url: /Lighting-Supplies-and-Resources.html
+      output: web, pdf
+
+    - title: Lighting
+      url: /Lights.html
+      output: web, pdf
+
+    - title: Steps to Controlling Lights
+      url: /Steps-toControlling-the-Lights.html
+      output: web, pdf
+
+  - title: Another heading
+    output: web, pdf
+
+    folderitems:
+    - title: Sample 4
+      url: /p1_sample4.html
+      output: web, pdf
+
+    - title: Sample 5
+      url: /p1_sample5.html
+      output: web, pdf
+
+    - title: Sample 6
+      url: /p1_sample6.html
+      output: web, pdf
+
+    - title: Sample 7
+      url: /p1_sample7.html
+      output: web, pdf

@@ -1,0 +1,152 @@
+- brand: Allen & Heath
+  model: QU-32
+  equipmentdesc: 32 Channel Audio Interface / Mixer
+  devicetype: Audio Interface
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Allen & Heath
+  model: AB-168
+  equipmentdesc: 16 IN / 8 OUT dSnake Digital Audio Input
+  devicetype: Audio Interface
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: Stage
+- brand: Allen & Heath
+  model: AB-168
+  equipmentdesc: 16 IN / 8 OUT dSnake Digital Audio Input
+  devicetype: Audio Interface
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: Stage
+- brand: Allen & Heath
+  model: ME-U
+  equipmentdesc: Personal Mixer HUB
+  devicetype: Audio Interface
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: Stage
+- brand: Allen & Heath
+  model: ME-1
+  equipmentdesc: Digital In-ear Personal Monitoring Mixer
+  devicetype: Audio Interface
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: Stage
+- brand: Renkus-Heinz
+  model: PF1-500
+  equipmentdesc: Amplifier Module
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Renkus-Heinz
+  model: PF1-501
+  equipmentdesc: Amplifier Module
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Renkus-Heinz
+  model: PF1-502
+  equipmentdesc: Amplifier Module
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Renkus-Heinz
+  model: PF1-503
+  equipmentdesc: Amplifier Module
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Renkus-Heinz
+  model: PF1-504
+  equipmentdesc: Amplifier Module
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Renkus-Heinz
+  model: CF/CFX101LA
+  equipmentdesc: Point Source Array Speaker Cabinets
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Renkus-Heinz
+  model: CF/CFX101LA
+  equipmentdesc: Point Source Array Speaker Cabinets
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Renkus-Heinz
+  model: CF/CFX101LA
+  equipmentdesc: Point Source Array Speaker Cabinets
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Renkus-Heinz
+  model: CF/CFX101LA
+  equipmentdesc: Point Source Array Speaker Cabinets
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: Renkus-Heinz
+  model: CF/CFX101LA
+  equipmentdesc: Point Source Array Speaker Cabinets
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: QSC
+  model: KW181-BK
+  equipmentdesc: Sub-Woofer Stage Left
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: QSC
+  model: KW181-BK
+  equipmentdesc: Sub-Woofer Stage Right
+  devicetype: Active Speaker
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: QSC
+  model: Rave522UA
+  equipmentdesc: Digital Sound Processor
+  devicetype: Audio Interface
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
+- brand: QSC
+  model: CX204V
+  equipmentdesc: 70V 4-Channel Amplifiers
+  devicetype: Amplifier
+  serialno: ''
+  department: sound
+  inservice: 'YES'
+  servicelocation: FOH
