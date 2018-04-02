@@ -6,7 +6,7 @@ sidebar: main_sidebar
 permalink: audio-safety-concerns.html
 folder: sound
 toc: false
-categories: sound safety
+categories: sound
 ---
 
 {% include callout.html content="Be very careful when choosing which channel strips on the QU-32 to un-mute when the musicians are preparing for rehearsal and live sets." type="danger" %}

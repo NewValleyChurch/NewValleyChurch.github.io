@@ -211,6 +211,6 @@ entries:
       url: /category_technical.html
       output: web
 
-    - title: Website
-      url: /category_website.html
+    - title: Diagrams
+      url: /category_diagrams.html
       output: web
