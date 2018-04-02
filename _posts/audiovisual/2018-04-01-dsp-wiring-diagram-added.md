@@ -16,8 +16,9 @@ categories: audiovisual
 - Added the current [RAVE 522UA DSP Wiring diagram](RAVE522UA.html) to the website in PNG and PDF format.
 - Removed "website" menu from the "Site by Category" links in the sidebar.  
 
-The diagram is found in the Equipment List under "Sound" in the side-bar menu.
+![Figure 1](images/QSC_Rave_522ua_Digital_Signal_Processor___New_Valley_Church_Docs.jpg){: .align-left}The diagram is found in the Equipment List under "Sound" in the side-bar menu.
 
-![Figure 1](images/QSC_Rave_522ua_Digital_Signal_Processor___New_Valley_Church_Docs.jpg)
+
 
 - Added the category "diagrams" to the Site By Category menu and structure.  Any page or post to the site that has the category 'diagrams' will show up on this page which can be found on the sidebar menu under "Site By Category."
+- Added images for the RGBA and CM5 lights on the Lighting Equipment list and the PDF manual for the CM5 Unicolor lamps.

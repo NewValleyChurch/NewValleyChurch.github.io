@@ -134,7 +134,9 @@ caption {
     text-align: left;
 }
 
-
+.align-left {
+  text-align: left;
+}
 
 th {
     text-align: left;
