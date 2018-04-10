@@ -163,6 +163,14 @@ entries:
       url: /news_network.html
       output: web
 
+  - title: Building and Facilities
+    output: web
+    folderitems:
+
+    - title: Blueprints
+      url: /blueprints.html
+      output: web
+
   - title: Site by Category
     output: web
     folderitems:
