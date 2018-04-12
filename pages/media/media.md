@@ -23,13 +23,13 @@ toc: false
 			</div>
 		</div>
 		<div class="media">
-      <!--<div class="pull-left">
-        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-music fa-stack-1x fa-inverse"></i></span>
+      <div class="pull-left">
+        <span class="fa-stack fa-2x"><i class="fa fa-circle fa-stack-2x text-primary"></i> <i class="fa fa-camera fa-stack-1x fa-inverse"></i></span>
       </div>
 			<div class="media-body">
-				<h3 class="media-heading">Worship Team</h3>
-				<p markdown="1">[Overview](/band), [Keyboard Setup](/keyboard_setup.html)</p>
-			</div>-->
+				<h3 class="media-heading" markdown="1">[Projectors](/projectors.html)</h3>
+				<p>How to manage the projectors for services and events.</p>
+			</div>
 		</div>
 		<div class="media">
 			<!--<div class="pull-left">
