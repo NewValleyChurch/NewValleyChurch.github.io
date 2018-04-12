@@ -12,4 +12,6 @@ The A/V Teams oversee the Sound, Media, and Lighting functions for New Valley Ch
 
 {% include custom/teamicons_audiovisual.html %}
 
+## Pre-Service Checklist
+
 {% include links.html %}
