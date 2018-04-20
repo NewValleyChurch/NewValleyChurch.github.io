@@ -1079,17 +1079,17 @@
   model: A1419
   description: 27" iMac Workstation
   type: Computer
-  serial_number: ''
+  serial_number: C02T50NHGG7N
   department: media
   deployed: 'YES'
   zone: Front of House
   link: 'Y'
-  purchase_date: ''
-  warranty_expires: ''
-  ip: ''
-  mac: ''
-  static: ''
-  hostname: ''
+  purchase_date: 4/13/2018
+  warranty_expires: 4/12/2019
+  ip: 192.168.0.174
+  mac: 'a8:60:b6:29:9c:fb'
+  static: 'Yes'
+  hostname: MediaOne
   faq_id: ''
   process_id: ''
   details: ''
