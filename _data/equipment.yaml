@@ -1098,3 +1098,28 @@
   DMXIS Name: ''
   DMX Channels: ''
   Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: j5create
+  model: JUA250
+  description: USB 2.0 to HDMI Video Adapter
+  type: Video Interface
+  serial_number: AC5A1706000471
+  department: media
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
