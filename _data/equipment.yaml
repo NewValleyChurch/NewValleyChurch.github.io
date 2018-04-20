@@ -801,7 +801,7 @@
 - asset_tag: ''
   Image: 'Y'
   brand: MegaLITE
-  model: CM5
+  model: CL5
   description: MegaLITE Unicolor DMX Light
   type: Light
   serial_number: ''
@@ -826,7 +826,7 @@
 - asset_tag: ''
   Image: 'Y'
   brand: MegaLITE
-  model: CM5
+  model: CL5
   description: MegaLITE Unicolor DMX Light
   type: Light
   serial_number: ''
@@ -851,7 +851,7 @@
 - asset_tag: ''
   Image: 'Y'
   brand: MegaLITE
-  model: CM5
+  model: CL5
   description: MegaLITE Unicolor DMX Light
   type: Light
   serial_number: ''
@@ -876,7 +876,7 @@
 - asset_tag: ''
   Image: 'Y'
   brand: MegaLITE
-  model: CM5
+  model: CL5
   description: MegaLITE Unicolor DMX Light
   type: Light
   serial_number: ''
@@ -1048,3 +1048,28 @@
   DMXIS Name: House Lights
   DMX Channels: '8'
   Channel Patch: '1/8:1'
+- asset_tag: ''
+  Image: 'Y'
+  brand: Matrox
+  model: DualH2GDME
+  description: Matrox DualHead2Go Screen Output Splitter
+  type: Video Interface
+  serial_number: ''
+  department: media
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
