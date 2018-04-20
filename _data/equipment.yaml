@@ -1074,9 +1074,9 @@
   DMX Channels: ''
   Channel Patch: ''
 - asset_tag: ''
-  Image: ''
+  Image: 'Y'
   brand: Apple
-  model: iMac
+  model: A1419
   description: 27" iMac Workstation
   type: Computer
   serial_number: ''
