@@ -1073,3 +1073,28 @@
   DMXIS Name: ''
   DMX Channels: ''
   Channel Patch: ''
+- asset_tag: ''
+  Image: ''
+  brand: Apple
+  model: iMac
+  description: 27" iMac Workstation
+  type: Computer
+  serial_number: ''
+  department: media
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
