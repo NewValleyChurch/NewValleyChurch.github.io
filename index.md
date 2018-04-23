@@ -1,5 +1,5 @@
 ---
-title: New Valley Resources
+title: "New Valley Resources"
 layout: page
 comments: true
 search: true
@@ -8,6 +8,7 @@ topnav: topnav
 image_folder: images
 document_folder: documents
 permalink: index.html
+categories: overview
 toc: false
 category: Overview
 ---
