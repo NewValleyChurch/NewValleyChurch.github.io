@@ -93,6 +93,8 @@ defaults:
       topnav: topnav
       image_folder: images
       document_folder: documents
+      permalink: ""
+      categories: ""
   -
     scope:
       path: ""
