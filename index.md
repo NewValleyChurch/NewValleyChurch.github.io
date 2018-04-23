@@ -7,8 +7,6 @@ sidebar: main_sidebar
 topnav: topnav
 image_folder: images
 document_folder: documents
-keywords: homepage
-tags: []
 permalink: index.html
 toc: false
 category: Overview
