@@ -148,7 +148,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 url:
 baseurl: ""
-documenturl:
 
 plugins:
   - jekyll-admin
