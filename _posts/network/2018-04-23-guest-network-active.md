@@ -8,7 +8,7 @@ sidebar: main_sidebar
 topnav: topnav
 image_folder: images
 document_folder: documents
-categories: network
+categories: networik
 ---
 
 The New Valley Guest WIFI Network has been activated and can be found at:
