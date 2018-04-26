@@ -1,17 +1,6 @@
----
-title: Rave 522UA DSP Wiring Diagram
-keywords: diagram, wiring, dsp
-summary: "Diagram for the DSP"
-sidebar: main_sidebar
-permalink: dsp_wiring_diagram.html
-folder: sound
-toc: false
-categories: diagrams
----
+## QSC [Rave 522ua](https://github.com/NewValleyChurch/Infrastructure-docs/blob/master/Worship-Ministries/Sound/Audio%20Hardware/DSP-Wiring-Diagram.md) Digital Signal Processor Wiring Diagram
 
-## QSC [Rave 522ua](RAVE522UA.HTML) Digital Signal Processor Wiring Diagram
-
-The [Rave 522ua](RAVE522UA.HTML) is a rack mounted digital audio router and signal processor.  Every bit of audio that we produce at New Valley passes through this box and is sent to one of many locations.
+The [Rave 522ua](https://github.com/NewValleyChurch/Infrastructure-docs/blob/master/Worship-Ministries/Sound/Audio%20Hardware/DSP-Wiring-Diagram.md) is a rack mounted digital audio router and signal processor.  Every bit of audio that we produce at New Valley passes through this box and is sent to one of many locations.
 
 There are currently 3 inputs and 6 outputs being utilized.
 
@@ -36,8 +25,8 @@ There are currently 3 inputs and 6 outputs being utilized.
 
 - QSControl:  Standard RJ45 Ethernet port connected to the network switch.  Can be accessed using QSControl.net software on a Windows based computer only.
 
-(Note:  The RAVE is a signal processor as well as a router.  It's the first place the audio signal is pre-processed with custom EQ after it leaves the QU-32.  It is also where the signal is crossed over to send the appropriate frequency ranges to the active speakers.)  In other words, it isolates the low frequencies from the high frequencies and sends the appropriate signals to the sub-woofer and the high/mids.
+(Note:  The RAVE is a signal processor as well as a router.  It's the first place the audio signal is pre-processed with custom EQ before it reaches the QU-32.  It is also where the signal is crossed over to send the appropriate frequency ranges to the active speakers.)
 
 ### Wiring Diagram
 
-<img src="images/RAVE522UAWiringDiagram.png" width="100%">
+<img src="https://github.com/NewValleyChurch/Infrastructure-docs/blob/master/images/Audio-Wiring-Diagram.jpg">

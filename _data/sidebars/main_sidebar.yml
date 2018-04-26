@@ -160,15 +160,7 @@ entries:
       output: web
 
     - title: Network IT
-      url: /news_network.html
-      output: web
-
-  - title: Building and Facilities
-    output: web
-    folderitems:
-
-    - title: Blueprints
-      url: /blueprints.html
+      url: /news_networks.html
       output: web
 
   - title: Site by Category
@@ -219,6 +211,6 @@ entries:
       url: /category_technical.html
       output: web
 
-    - title: Diagrams
-      url: /category_diagrams.html
+    - title: Website
+      url: /category_website.html
       output: web
