@@ -20,7 +20,7 @@ author:
 
 # this appears in the footer
 
-github_editme_path:
+github_editme_path: NewValleyChurch/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -35,7 +35,7 @@ google_analytics: UA-112761625-1
 host: 127.0.0.1
 # the preview server used. Leave as is.
 
-port: 4001
+port: 4000
 # the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
 
 exclude:
@@ -76,7 +76,9 @@ kramdown:
   #  output: false
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
 
-collections_dir: my_collections
+collections:
+  tooltips:
+    output: false
 
 defaults:
   -
@@ -91,6 +93,8 @@ defaults:
       topnav: topnav
       image_folder: images
       document_folder: documents
+      permalink: ""
+      categories: ""
   -
     scope:
       path: ""
@@ -135,6 +139,7 @@ defaults:
 
 sidebars:
 - main_sidebar
+- main_sidebar
 - lighting_sidebar
 - media_sidebar
 - ableton_sidebar
@@ -146,9 +151,9 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 # needed for sitemap.xml file only
 
-url:
+url: https://newvalleychurch.github.io
 baseurl: ""
-documenturl:
+documenturl: https://newvalleychurch.github.io/documents/
 
 plugins:
   - jekyll-admin
