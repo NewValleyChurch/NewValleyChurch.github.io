@@ -135,7 +135,6 @@ defaults:
 
 sidebars:
 - main_sidebar
-- main_sidebar
 - lighting_sidebar
 - media_sidebar
 - ableton_sidebar
@@ -149,7 +148,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 url:
 baseurl: ""
-documenturl: 
-
+documenturl:
 plugins:
   - jekyll-admin
