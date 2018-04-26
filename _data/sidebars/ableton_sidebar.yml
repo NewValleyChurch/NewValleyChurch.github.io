@@ -1,0 +1,36 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar_2
+  product: Ableton Live Main Menu
+  version:
+  folders:
+
+  - title: Ableton Live
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: /ableton-live.html
+      output: web, pdf
+
+    - title: Ableton Live File Structure
+      url: /understanding-ableton-live-file-structure.html
+      output: web, pdf
+
+    - title: Ableton Live Notes
+      url: /ableton-live-notes.html
+      output: web, pdf
+
+      subfolders:
+        - title: Live Keys Setup
+          output: web
+
+          subfolderitems:
+          - title: Overview
+            url: /ableton-live-keys-overview.html
+            output: web, pdf
+
+          - title: Set Layout
+            url: /ableton-live-keys-set-layout.html
+            output: web, pdf

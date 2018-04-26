@@ -1,0 +1,54 @@
+#!/bin/sh
+
+# Using a 'cat' here document, create a file for jekyll
+# website containing what's required for category pages.
+
+# Pass in tag name(s)
+#   ./createcategory linux bsd
+
+CMDLINEPARAM=1     #  Takes at least one param.
+CATEGORYDIR="pages/categories"
+
+if [ $# -ge $CMDLINEPARAM ]
+then
+  categories=$@
+else
+  echo "Atleast ${CMDLINEPARAM} category name is required."
+  exit 1
+fi
+
+if [ -d "${CATEGORYDIR}" ]; then
+
+  echo "Creating category(s) for ${categories}"
+
+  for category in ${categories}; do
+    echo "Title for $category:"
+    read title
+  # Cannot indent here string.
+cat <<EOF >"${CATEGORYDIR}/category_${category}.md"
+---
+title: "${title}"
+categoryName: ${category}
+search: exclude
+permalink: category_${category}.html
+sidebar: main_sidebar
+hide_sidebar: true
+folder: categories
+---
+
+{% include categorylogic.html %}
+
+{% include links.html %}
+EOF
+
+echo "  - ${category}" >> _data/categories.yml
+
+  done
+
+else
+  echo "Directory ${CATEGORYDIR} doesn't exist or you are not in the top-level directory."
+  echo "Please run again from the root directory of your project."
+  exit 1
+fi
+
+exit

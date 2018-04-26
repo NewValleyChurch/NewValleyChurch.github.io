@@ -1,0 +1,32 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+
+    - title: News & Updates
+      folderitems:
+        - title: All News
+          url: /all_news.html
+        - title: General
+          url: /news_general
+        - title: A/V Team Blog
+          url: /news_audiovisual
+        - title: Network / IT
+          url: /news_network
+        - title: Worship Band
+          url: /news_band
+
+    - title: Network Resources
+      folderitems:
+        - title: Overview
+          url: /network.html
+        - title: Device IP Map
+          url: /network-ip-map.html
+
+topnav:
+  - title: Topnav
+    items:
+      - title: Home
+        url: /index.html

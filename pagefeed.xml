@@ -1,0 +1,29 @@
+---
+search: exclude
+layout: none
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>{{ site.title  | xml_escape }} - blog</title>
+  <description>All Pages</description>
+     <atom:link href="{{ site.url }}/postfeed.xml" rel="self" type="application/rss+xml" />
+  <link>{{ site.url }}/</link>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author>
+   <name>{{ author.name }}</name>
+   <email>{{ author.email }}</email>
+  </author>
+
+  {% for page in site.pages %}
+   <item>
+    <title>{{ page.title | xml_escape }}</title>
+    <description>{{ page.content | xml_escape }}</description>
+    <link>{{ site.url }}{{ page.url }} </link>
+    <pubDate>{{ page.date | date_to_xmlschema }}</pubDate>
+    <guid isPermaLink="true">{{ site.url }}{{ page.url }}</guid>
+   </item>
+  {% endfor %}
+ </channel>
+</rss>

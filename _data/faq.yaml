@@ -1,0 +1,80 @@
+- question: How do we control the lights from the QU-32?
+  answer: >-
+    Currently there is no mapped connection between the QU-32 and the iMac. 
+    Lights are controlled remotely by a MIDI network connection from the stage,
+    or manually by choosing a pre-set in the DMXIS software.
+  category: sound
+  model: QU-32
+  rank: ''
+- question: >-
+    How do I listen to what's been recorded in Ableton Live without sending it
+    through FOH?
+  answer: >-
+    Set the AFL Output setting to OFF in the PAFL settings screen and you'll
+    hear everything pre-fader.  This allows you to listen to whatever is being
+    sent to the board without sending it to the DSP.  See page 22 of the QU-32
+    Manual.
+  category: sound
+  model: ''
+  rank: ''
+- question: What is DMX?
+  answer: >-
+    DMX is a lighting signal protocol used to control various channels of
+    lights.  Our system contains one DMX universe which will operate up to 512
+    channels.  Each light, depending on its manufacturer, will use at least one,
+    but usually multiple channels.
+  category: lights
+  model: DMXIS
+  rank: ''
+- question: How do I turn on the House Lights?
+  answer: >-
+    Using the iMac, open the DMXIS app.  Click the preferences button at the
+    top.  In the pre-set list, select ALL ON.
+  category: lights
+  model: DMXIS
+  rank: ''
+- question: What is FOH?
+  answer: >-
+    FOH stands for Front of House.  Draw a vertical boundary from the apron of
+    the stage to the ceiling.  Anything from that point to the back of the
+    sanctuary is considered Front of House.
+  category: sound
+  model: ''
+  rank: ''
+- question: What is the Apron?
+  answer: >-
+    The apron is the part of the stage that curves.  Draw a line parallel to the
+    back of the stage from where the curve stops across the stage.  Anything in
+    front of that line is the apron.
+  category: sound
+  model: ''
+  rank: ''
+- question: What is the Stage?
+  answer: >-
+    The Stage begins where the Apron ends and extends up-stage to the projection
+    screen.
+  category: lights
+  model: ''
+  rank: ''
+- question: What is a DSP?
+  answer: >-
+    The DSP is the Digital Signal Processor.  We currently use a Rave522ua
+    digital signal processor to route ALL of the building's audio feeds to
+    either the Mains or the Foyer / Lobby.
+  category: sound
+  model: RAVE522UA
+  rank: ''
+- question: How do I turn OFF the house lights?
+  answer: >-
+    Using the iMac, switch to the DMXIS software.  Click the ALL OFF pre-set in
+    the list of pre-sets.  The house lights will fade out to zero based upon the
+    Fade Timer settings of the previously selected pre-set.  ALL ON is set to 30
+    seconds.
+  category: lights
+  model: DMXIS
+  rank: ''
+- question: 'Spotify is playing, but I can''t hear it.'
+  answer: '[audio setup checklist here]'
+  category: sound
+  model: ''
+  rank: ''
