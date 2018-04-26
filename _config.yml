@@ -76,7 +76,7 @@ kramdown:
   #  output: false
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
 
-collections_dir: my_collections
+#collections_dir: my_collections
 
 defaults:
   -
