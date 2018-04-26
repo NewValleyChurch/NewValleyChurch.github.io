@@ -9,7 +9,7 @@ tags: [stage, sound, lights, qu-32, slack, dSnake]
 ---
 ## Scenes
 
-### "Re-Routed"
+### Re-Routed
 The scene labeled Re-Routed follows the routing on the I/O Patch -> dSNAKE In page in the QU-32 as noted below.
 
 - QU Strip = The channel strip on the QU-32  

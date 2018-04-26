@@ -1,6 +1,7 @@
 ---
 title: iPad and Check-In and General Network Maintenance
 layout: post
+published: true
 permalink: 2018-03-28-ipad-and-check-in-and-general-network-maintenance.html
 comments: true
 search: true
