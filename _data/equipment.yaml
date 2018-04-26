@@ -1048,3 +1048,78 @@
   DMXIS Name: House Lights
   DMX Channels: '8'
   Channel Patch: '1/8:1'
+- asset_tag: ''
+  Image: 'Y'
+  brand: Matrox
+  model: DualH2GDME
+  description: Matrox DualHead2Go Screen Output Splitter
+  type: Video Interface
+  serial_number: ''
+  department: media
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Apple
+  model: A1419
+  description: 27" iMac Workstation
+  type: Computer
+  serial_number: C02T50NHGG7N
+  department: media
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: 4/13/2018
+  warranty_expires: 4/12/2019
+  ip: 192.168.0.174
+  mac: 'a8:60:b6:29:9c:fb'
+  static: 'Yes'
+  hostname: MediaOne
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: j5create
+  model: JUA250
+  description: USB 2.0 to HDMI Video Adapter
+  type: Video Interface
+  serial_number: AC5A1706000471
+  department: media
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''

@@ -5,6 +5,7 @@ summary: "Basics of Ableton Live"
 sidebar: main_sidebar
 permalink: ableton-live-notes.html
 folder: media
+categories: media
 ---
 
 #### Ableton Live
