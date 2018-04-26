@@ -1,7 +1,7 @@
 ---
 title: Future Content to Be Created
 keywords: broken links
-summary: "Woopsie!"
+summary: Woopsie!
 sidebar: main_sidebar
 permalink: brokenlink.html
 toc: false

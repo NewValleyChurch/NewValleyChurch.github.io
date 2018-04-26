@@ -21,7 +21,6 @@ toc: false
             <div id="myTabContent" class="tab-content">
                 <div class="tab-pane fade active in" id="service-one">
                     <p>Our bass is provided by two active sub-woofers, one stage left, and one stage right, both located on the floor in front of the apron of the stage.</p>
-
                     <p>{% include image.html %}</p>
                 </div>
                 <div class="tab-pane fade" id="service-two">
@@ -34,7 +33,6 @@ toc: false
                     <p>Items from the Sound FAQ that are specific to this device will be listed here.  Until then, use the FAQ link under the sound menu in the sidebar.</p>
                 </div>
             </div>
-
         </div>
 </div>
 

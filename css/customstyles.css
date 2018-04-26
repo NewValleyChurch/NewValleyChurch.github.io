@@ -72,7 +72,7 @@ body {
 .media-right {
     display: table-cell;
     vertical-align: top;
-    /*height: 120px;*/
+    height: 120px;
 }
 
 
@@ -134,9 +134,7 @@ caption {
     text-align: left;
 }
 
-.align-left {
-  text-align: left;
-}
+
 
 th {
     text-align: left;

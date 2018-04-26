@@ -8,8 +8,7 @@ folder: worship_band
 toc: true
 categories: ableton
 ---
-<p>
-</p>
+
 _**This is the in-depth process explaining how a song is prepared for worship.**_
 
 {% include callout.html content="There's a set in Ableton Live entitled '[NV Master Worship Template](brokenlink.html)' that you will be using to begin preparing a song.  It is part of the '[New Valley Worship Project](brokenlink.html)' which is the main Ableton Live project file that all of our sets are stored in." style="info" %}
@@ -33,6 +32,6 @@ Ableton Live is now recording the song into a clip in the arrangement view.
 
 11. Once the song is complete, stop the recording process and turn off your source player.
 
-Congratulations, you have now 
+Congratulations, you have now
 
 {% include links.html %}
