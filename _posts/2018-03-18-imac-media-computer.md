@@ -7,6 +7,7 @@ topnav: topnav
 image_folder: images
 document_folder: documents
 title: iMac Media Computer
+permalink: 2018-03-18-imac-media-computer.html
 ---
 
 Updates that were made today are critical updates.  The settings herein are critical to ensuring the system is up and accessible at all times.  The following will help accomplish these goals:

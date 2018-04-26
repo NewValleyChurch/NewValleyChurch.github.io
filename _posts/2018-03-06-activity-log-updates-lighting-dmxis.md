@@ -7,6 +7,7 @@ sidebar: main_sidebar
 topnav: topnav
 image_folder: images
 document_folder: documents
+permalink: 2018-03-06-activity-log-updates-lighting-dmxis.html
 ---
 
 #### 3:36 PM
