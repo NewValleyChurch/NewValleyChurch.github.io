@@ -1123,3 +1123,28 @@
   DMXIS Name: ''
   DMX Channels: ''
   Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: SIIG
+  model: BS41803X
+  description: HDMI Extender over Single Cat5e/6
+  type: Video Interface
+  serial_number: ''
+  department: media
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: 4/25/2018
+  warranty_expires: 4/24
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
