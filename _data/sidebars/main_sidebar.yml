@@ -138,6 +138,16 @@ entries:
     - title: Network IP Map
       url: /network-ip-map.html
       output: web
+      subfolders:
+      
+      - title: Diagrams
+        url: /
+        output: web
+        subfolderitems:
+        
+        - title: RJ45 Connector Wiring Diagram
+          url: /rj45-t568b-wiring-diagram.html
+          output: web
 
   - title: News & Updates
     output: web
