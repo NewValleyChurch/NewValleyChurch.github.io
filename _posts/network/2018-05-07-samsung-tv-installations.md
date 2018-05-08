@@ -12,11 +12,17 @@ categories: network
 ---
 
 ## Installation Details:
-Two new Samsung 50" 6 Series MU6070 TVs have been installed in the Kids wing, rooms 4 (north wall) and 5 (south wall.)  Both televisions were mounted on a tilt mount with Hilti Zip Toggles (4 each) directly into the steel studs.  The tilt mounts have locking mechanisms on them to prevent the TV's from being pulled away from the mount from the bottom.  Power sources were installed behind each TV, powered by the outlet below them on the walls.  Both TV's are connected to breaker #4 on the breaker box in room #1.  The TV's aren't the only devices connected to this breaker.
+![](/images/SamsungRoom4.jpg) ![](/images/SamsungRoom5.jpg)  
+
+Two new **Samsung 50" 6 Series MU6070 TVs** have been installed in the Kids wing, rooms 4 (north wall) and 5 (south wall.)  Both televisions were mounted on a tilt mount with Hilti Zip Toggles (4 each) *directly into the steel studs*.  
+
+The tilt mounts have locking mechanisms on them to prevent the TV's from being pulled away from the mount from the bottom.  
+
+Power sources were installed behind each TV, powered by the outlet below them on the walls.  Both TV's are connected to breaker #4 on the breaker box in room #1.  (NOTE: The TV's aren't the only devices connected to this breaker.)
 
 The top bolts in the mount were placed 66" from the ground.  The television extends to 77" which closely matches the height of the white boards.
 
-There is no signal to the televisions.  They are WIFI enabled and connected.
+There is no signal to the televisions.  They are WIFI enabled and connected to the network with Static IP Addresses.
 
 #### On Both Televisions
 
