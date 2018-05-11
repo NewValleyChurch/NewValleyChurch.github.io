@@ -1,5 +1,5 @@
 - action: Turn on iMac media computer
   order: '1'
-  checklist: imac-audio
+  process: imac-audio
   category: audio
   link: ''
