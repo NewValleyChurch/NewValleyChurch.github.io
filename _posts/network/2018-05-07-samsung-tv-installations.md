@@ -12,7 +12,7 @@ categories: network
 ---
 
 ## Installation Details:
-![](/images/SamsungRoom4.jpg) ![](/images/SamsungRoom5.jpg)  
+![](/images/samsungroom4.jpg) ![](/images/samsungroom5.jpg)  
 
 Two new **Samsung 50" 6 Series MU6070 TVs** have been installed in the Kids wing, rooms 4 (north wall) and 5 (south wall.)  Both televisions were mounted on a tilt mount with Hilti Zip Toggles (4 each) *directly into the steel studs*.  
 
@@ -40,13 +40,13 @@ There is no signal to the televisions.  They are WIFI enabled and connected to t
 - Movie Rating (MPAA): NR, X, NC-17, and R are all locked.  PG-13, PG, and G are open.
 
 
-#### Unique to Room 4 
+#### Unique to Room 4
 - Device Name: [TV]Samsung TV Room 4
 
 - Network Settings:
     - IP Address: 192.168.0.165
     - Static IP.
- 
+
 #### Unique to Room 5
 - Device Name: [TV]Samsung TV Room 4
 
