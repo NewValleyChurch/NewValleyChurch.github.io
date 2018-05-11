@@ -139,12 +139,12 @@ entries:
       url: /network-ip-map.html
       output: web
       subfolders:
-      
+
       - title: Diagrams
         url: /
         output: web
         subfolderitems:
-        
+
         - title: RJ45 Connector Wiring Diagram
           url: /rj45-t568b-wiring-diagram.html
           output: web
@@ -179,6 +179,14 @@ entries:
 
     - title: Blueprints
       url: /blueprints.html
+      output: web
+
+  - title: Checklists
+    output: web
+    folderitems:
+
+    - title: iMac Audio Setup
+      url: /checklist-imac-audio.html
       output: web
 
   - title: Site by Category
