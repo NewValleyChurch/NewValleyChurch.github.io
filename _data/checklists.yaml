@@ -1,10 +1,10 @@
-- action: Turn on iMac media computer
-  sequence: '2'
+- sequence: '1'
+  action: Turn on iMac media computer
   process: imac-audio
   category: audio
   link: none
-- action: Testing another thing
-  sequence: '1'
+- sequence: '2'
+  action: Testing another thing
   process: imac-audio
   category: audio
   link: none
