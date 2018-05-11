@@ -7,7 +7,7 @@
 {% assign listitems = site.data.checklists | where:"process", checklist | sort: 'order' %}
 
 
-{% assign displayCol = "2,1,5" | split: "," %}
+{% assign displayCol = "1,2,3,6" | split: "," %}
 <table width="100%">
 
 {% for item in listitems %}
@@ -23,8 +23,28 @@
  {% endfor %}
 </tr>
 {% endif %}
+<tr>
 
-{{ item.action }}
+ {% for field in item %}
+
+ {% assign indexToStr = forloop.index | append: "" %}
+ {% if displayCol contains indexToStr %}
+  <td>
+    {% if indexToStr == '1' %}
+      <input type="checkbox" />
+    {% elsif indexToStr == '6' and field[1] == '' %}
+      <a href="brokenlink.html"></a>
+    {% elsif indexToStr == '6' and field[1] == "Y" %}
+      <a href="/{{item.action | replace: ' ','-' | append: ".html" | prepend: "how-to-"| downcase }}" target="_blank">Details</a>
+    {% else %}
+      {{field[1]}}
+    {% endif %}
+  </td>
+ {% endif %}
+
+ {% endfor %}
+
+</tr>
 
 {% endfor %}
 

@@ -3,7 +3,7 @@
   action: Turn on the iMac Media Computer
   process: imac-audio
   category: audio
-  help: ''
+  help: 'Y'
 - check: ''
   sequence: '2'
   action: Testing another thing

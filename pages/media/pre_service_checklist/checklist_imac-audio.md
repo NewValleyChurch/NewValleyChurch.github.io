@@ -3,7 +3,7 @@ title: "iMac Audio Checklist"
 keywords: imac, audio
 sidebar: main_sidebar
 permalink: checklist-imac-audio.html
-folder: sound
+folder: media
 toc: false
 ---
 
