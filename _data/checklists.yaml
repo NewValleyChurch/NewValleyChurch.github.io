@@ -1,6 +1,6 @@
 - check: ''
   sequence: '1'
-  action: Turn on iMac media computer
+  action: Turn on the iMac Media Computer
   process: imac-audio
   category: audio
   help: ''
