@@ -10,3 +10,15 @@
   process: imac-audio
   category: audio
   help: ''
+- check: ''
+  sequence: '1'
+  action: Open Ableton Live
+  process: ableton-live
+  category: media
+  help: ''
+- check: ''
+  sequence: '2'
+  action: Eat a donut.
+  process: ableton-live
+  category: media
+  help: ''
