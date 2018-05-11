@@ -12,7 +12,7 @@ categories: network
 ---
 
 ## Installation Details:
-![]({{ "/images/samsungroom4.jpg" }}) ![](/images/samsungroom5.JPG)  
+![]({{ "/images/samsungroom4.jpg" }}) ![]({{ "/images/samsungroom5.jpg" }})
 
 Two new **Samsung 50" 6 Series MU6070 TVs** have been installed in the Kids wing, rooms 4 (north wall) and 5 (south wall.)  Both televisions were mounted on a tilt mount with Hilti Zip Toggles (4 each) *directly into the steel studs*.  
 
