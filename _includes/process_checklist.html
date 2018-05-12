@@ -4,47 +4,69 @@
 
 <!-- assign the information in site.data.equipment to the variable 'zones' but only where the department name in the data matches the name of the page referencing the include. -->
 
-{% assign listitems = site.data.checklists | where:"process", checklist | sort: 'order' %}
+{% assign listitems = site.data.checklists | where:"process", checklist | sort: 'sequence' %}
 
 
-{% assign displayCol = "1,2,3,6" | split: "," %}
+{% assign displayCol = "1,3" | split: "," %}
 <table width="100%">
 
 {% for item in listitems %}
+{% assign indexRecordToStr = forloop.index | append: "" %}
+<!--Create first row then loop through the headings of each column. -->
+  {% if forloop.first == true %}
 
-{% if forloop.first == true %}
+    <tr>
 
-<tr>
-{% for field in item %}
-{% assign indexToStr = forloop.index | append: "" %}
-{% if displayCol contains indexToStr %}
-  <th style="font-size: 10px;">{{field[0] | replace: '_', ' ' | capitalize }}</th>
- {% endif %}
- {% endfor %}
-</tr>
-{% endif %}
-<tr>
+      {% for field in item %}
+        {% assign indexToStr = forloop.index | append: "" %}
+          {% if displayCol contains indexToStr %}
+            <th style="font-size: 10px;">{{field[0] | replace: '_', ' ' | capitalize }}</th>
+          {% endif %}
+      {% endfor %}
 
- {% for field in item %}
+    </tr>
 
- {% assign indexToStr = forloop.index | append: "" %}
- {% if displayCol contains indexToStr %}
-  <td>
-    {% if indexToStr == '1' %}
-      <input type="checkbox" />
-    {% elsif indexToStr == '6' and field[1] == '' %}
-      <a href="brokenlink.html"></a>
-    {% elsif indexToStr == '6' and field[1] == "Y" %}
-      <a href="/{{item.action | replace: ' ','-' | append: ".html" | prepend: "how-to-"| downcase }}" target="_blank">Details</a>
-    {% else %}
-      {{field[1]}}
-    {% endif %}
-  </td>
- {% endif %}
-
- {% endfor %}
-
-</tr>
+  {% endif %}
+<!--Create subsequenty rows of data, looping through the columns selected on line 10 -->
+    <tr>
+      {% for field in item %}
+      {% assign indexToStr = forloop.index | append: "" %}
+      {% assign panelBodyPage = item.action | replace: ' ','-' | append: ".html" | prepend: "how-to-" | downcase %}
+        {% if displayCol contains indexToStr %}
+          <td>
+            {% if indexToStr == '1' %}
+              <input type="checkbox" />
+            {% elsif indexToStr == '6' and field[1] == '' %}
+              <a href="brokenlink.html">N/A</a>
+            {% elsif indexToStr == '6' and field[1] == "Y" %}
+              <a href="/{{item.action | replace: ' ','-' | append: ".html" | prepend: "how-to-" | downcase }}" target="_blank">Details</a>
+            {% elsif indexToStr == '3' %}
+            <div class="panel-group" id="accordion">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ indexRecordToStr }}">{{item.sequence}}. {{field[1]}}</a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse{{ indexRecordToStr }}" class="panel-collapse collapse noCrossRef">
+                                        <div class="panel-body">
+                                          {% capture howtoExists %}{% file_exists _includes/howto/{{panelBodyPage}} %}{% endcapture %}
+                                          {% if howtoExists == "true" %}
+                                            {% include /howto/{{panelBodyPage}} %}
+                                          {% else %}
+                                            <h3>Content for this section is pending.</h3>
+                                          {% endif %}
+                                        </div>
+                                    </div>
+                                </div>
+              </div>
+              {% else %}
+              {{field[1]}}
+            {% endif %}
+          </td>
+        {% endif %}
+      {% endfor %}
+    </tr>
 
 {% endfor %}
 

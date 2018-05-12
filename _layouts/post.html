@@ -4,7 +4,7 @@ layout: default
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-    <header class="post-header">
+    <header class="post-header"><div style="float:right;"><a onclick="window.history.back()">Return to Previous Page</a></div>
         <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
         {% include byline.html %}
 
@@ -18,14 +18,13 @@ layout: default
         {% if page.summary %}
         <div class="summary">{{page.summary}}</div>
         {% endif %}
-
         {{ content }}
     </div>
 
 
 
 </article>
-
+<div style="float:right;"><a onclick="window.history.back()">Return to Previous Page</a></div>
 {% include disqus.html %}
 
 {{site.data.alerts.hr_shaded}}

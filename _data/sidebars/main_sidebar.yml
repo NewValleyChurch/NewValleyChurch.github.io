@@ -181,12 +181,16 @@ entries:
       url: /blueprints.html
       output: web
 
-  - title: Checklists
+  - title: Preparation and Troubleshooting Checklists
     output: web
     folderitems:
 
     - title: iMac Audio Setup
       url: /checklist-imac-audio.html
+      output: web
+
+    - title: Ableton Live Setup (Media)
+      url: /checklist-ableton-live.html
       output: web
 
   - title: Site by Category

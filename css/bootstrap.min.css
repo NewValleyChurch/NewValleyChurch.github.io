@@ -6528,7 +6528,7 @@ a.list-group-item-danger.active:hover {
 }
 
 .panel-group {
-    margin-bottom: 20px
+    margin-bottom: 0px;
 }
 
 .panel-group .panel {
