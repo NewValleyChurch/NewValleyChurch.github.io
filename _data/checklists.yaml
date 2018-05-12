@@ -3,10 +3,10 @@
   action: Turn on the iMac Media Computer
   process: imac-audio
   category: audio
-  help: 'Y'
+  help: ''
 - check: ''
   sequence: '2'
-  action: Testing another thing
+  action: Login as user MediaOne
   process: imac-audio
   category: audio
   help: ''
@@ -18,7 +18,31 @@
   help: ''
 - check: ''
   sequence: '2'
-  action: Eat a donut.
+  action: Eat a donut
   process: ableton-live
   category: media
+  help: ''
+- check: ''
+  sequence: '3'
+  action: Power Up the QU-32 Mixing Console
+  process: imac-audio
+  category: media
+  help: ''
+- check: ''
+  sequence: '4'
+  action: Choose the System Audio Input and Output Device
+  process: imac-audio
+  category: media
+  help: ''
+- check: ''
+  sequence: '5'
+  action: Confirm Output Speakers Settings
+  process: imac-audio
+  category: media
+  help: ''
+- check: ''
+  sequence: '6'
+  action: ''
+  process: ''
+  category: ''
   help: ''
