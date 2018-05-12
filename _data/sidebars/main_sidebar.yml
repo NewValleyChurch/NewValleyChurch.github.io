@@ -181,7 +181,7 @@ entries:
       url: /blueprints.html
       output: web
 
-  - title: Preparation and Troubleshooting Checklists
+  - title: Preparation / Troubleshooting Checklists
     output: web
     folderitems:
 
