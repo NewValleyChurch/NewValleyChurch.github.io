@@ -46,3 +46,53 @@
   process: ableton-live
   category: media
   help: ''
+- check: ''
+  sequence: '1'
+  action: Login to Churchplant Media
+  process: podcast
+  category: media
+  help: ''
+- check: ''
+  sequence: '2'
+  action: Click the Publish Tab
+  process: podcast
+  category: media
+  help: ''
+- check: ''
+  sequence: '3'
+  action: Click the sermon for which you'll be uploading audio
+  process: podcast
+  category: media
+  help: ''
+- check: ''
+  sequence: '4'
+  action: 'On the right, click Add Sermon Audio'
+  process: podcast
+  category: media
+  help: ''
+- check: ''
+  sequence: '5'
+  action: Click the Upload Tab on the popup window.
+  process: podcast
+  category: media
+  help: ''
+- check: ''
+  sequence: '6'
+  action: >-
+    Drag the audio file to the upload area or use the Select Files button to
+    browse to the file.
+  process: podcast
+  category: media
+  help: ''
+- check: ''
+  sequence: '7'
+  action: Click 'Start Uploading'
+  process: podcast
+  category: media
+  help: ''
+- check: ''
+  sequence: '8'
+  action: Click Publish Now
+  process: podcast
+  category: media
+  help: ''
