@@ -193,6 +193,10 @@ entries:
       url: /checklist-ableton-live.html
       output: web
 
+    - title: Uploading Podcast Audio
+      url: /checklist-podcast.html
+      output: web
+
   - title: Site by Category
     output: web
     folderitems:
