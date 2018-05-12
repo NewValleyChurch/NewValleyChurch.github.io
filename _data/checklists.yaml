@@ -11,13 +11,13 @@
   category: audio
   help: ''
 - check: ''
-  sequence: '1'
+  sequence: '2'
   action: Open Ableton Live
   process: ableton-live
   category: media
   help: ''
 - check: ''
-  sequence: '2'
+  sequence: '3'
   action: Eat a donut
   process: ableton-live
   category: media
@@ -41,8 +41,8 @@
   category: media
   help: ''
 - check: ''
-  sequence: '6'
-  action: ''
-  process: ''
-  category: ''
+  sequence: '1'
+  action: Power Up the QU-32 Mixing Console
+  process: ableton-live
+  category: media
   help: ''
