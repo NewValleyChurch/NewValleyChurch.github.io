@@ -1127,7 +1127,7 @@
   Image: 'Y'
   brand: SIIG
   model: BS41803X
-  description: HDMI Extender over Single Cat5e/6
+  description: HDMI Extender over Single Cat5e/6 Balun
   type: Video Interface
   serial_number: ''
   department: media
@@ -1136,6 +1136,356 @@
   link: 'Y'
   purchase_date: 4/25/2018
   warranty_expires: 4/24
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: InFocus
+  model: IN116
+  description: InFocus IN116 Projector
+  type: Projector
+  serial_number: BJDB23800504
+  department: media
+  deployed: 'YES'
+  zone: Kids
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Samsung
+  model: BD-J5100
+  description: Samsung BlueRay Player
+  type: Media Player
+  serial_number: 0A561RAGA42925H
+  department: media
+  deployed: 'YES'
+  zone: Kids
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Gator Frameworks
+  model: GFW-SPK-WM100
+  description: Gator Frame Works Speaker Mounts
+  type: Mount
+  serial_number: ''
+  department: sound
+  deployed: 'NO'
+  zone: Kids
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Crown
+  model: CTS-3000
+  description: Crown CTS-3000 70V 2-Channel Amplifier
+  type: Amplifier
+  serial_number: '4058750104'
+  department: sound
+  deployed: 'YES'
+  zone: Kids
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: PreSonus
+  model: 24-4-2
+  description: StudioLive 24.4.2
+  type: Mixer
+  serial_number: PG2C080248
+  department: sound
+  deployed: 'YES'
+  zone: Kids
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Novation
+  model: LaunchpadPro
+  description: Novation LaunchPad Pro Midi Controller
+  type: MIDI Controller
+  serial_number: A375148004661
+  department: band
+  deployed: 'NO'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Sennheiser
+  model: EW100
+  description: Sennheiser EW100 G2 Wireless Microphone Receiver
+  type: Wireless Microphone Receiver
+  serial_number: '106593'
+  department: sound
+  deployed: 'NO'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Linksys
+  model: EA4500
+  description: Linksys EA4500 n900 Dual Band Wi-Fi Router
+  type: WiFI Router
+  serial_number: 12A10604275162
+  department: network
+  deployed: 'NO'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Netgear
+  model: R6900
+  description: Netgear Nighthawk AC1900 R6900
+  type: WiFI Router
+  serial_number: 4E81677UA1E45
+  department: network
+  deployed: 'NO'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Linksys
+  model: WRT54G
+  description: Wireless-G 2.4 GHz Router
+  type: WiFI Router
+  serial_number: CDFB0F307810
+  department: network
+  deployed: 'NO'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'N'
+  brand: DirectConnect
+  model: '16245'
+  description: Direct Connect DCC5H HDMI Cat5e/6 Extender
+  type: video Interface
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Anker
+  model: 68ANHUB-S7A
+  description: Anker 7 Port Aluminum USB Hub
+  type: USB Hub
+  serial_number: X000KFPSHL
+  department: media
+  deployed: 'YES'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'N'
+  brand: FlyKan
+  model: FlyKan
+  description: USB 3.0 to HDMI Display Adapter
+  type: video Interface
+  serial_number: X000Y12DMJ
+  department: media
+  deployed: 'NO'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Apple
+  model: A1469-2633
+  description: Apple TV Gen 3
+  type: Computer
+  serial_number: F6KLNOJRFF54
+  department: network
+  deployed: 'NO'
+  zone: Front of House
+  link: 'Y'
+  purchase_date: ''
+  warranty_expires: ''
   ip: ''
   mac: ''
   static: ''
