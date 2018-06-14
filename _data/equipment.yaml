@@ -1158,7 +1158,7 @@
   department: media
   deployed: 'YES'
   zone: Kids
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1183,7 +1183,7 @@
   department: media
   deployed: 'YES'
   zone: Kids
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1208,7 +1208,7 @@
   department: sound
   deployed: 'NO'
   zone: Kids
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1233,7 +1233,7 @@
   department: sound
   deployed: 'YES'
   zone: Kids
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1258,7 +1258,7 @@
   department: sound
   deployed: 'YES'
   zone: Kids
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1283,7 +1283,7 @@
   department: band
   deployed: 'NO'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1308,7 +1308,7 @@
   department: sound
   deployed: 'NO'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1333,7 +1333,7 @@
   department: network
   deployed: 'NO'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1358,7 +1358,7 @@
   department: network
   deployed: 'NO'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1383,7 +1383,7 @@
   department: network
   deployed: 'NO'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1408,7 +1408,7 @@
   department: media
   deployed: 'NO'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1433,7 +1433,7 @@
   department: media
   deployed: 'YES'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1458,7 +1458,7 @@
   department: media
   deployed: 'NO'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
@@ -1483,7 +1483,7 @@
   department: network
   deployed: 'NO'
   zone: Front of House
-  link: 'Y'
+  link: ''
   purchase_date: ''
   warranty_expires: ''
   ip: ''
