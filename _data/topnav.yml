@@ -10,13 +10,15 @@ topnav_dropdowns:
         - title: All News
           url: /all_news.html
         - title: General
-          url: /news_general
+          url: /news_general.html
         - title: A/V Team Blog
-          url: /news_audiovisual
+          url: /news_audiovisual.html
         - title: Network / IT
-          url: /news_network
+          url: /news_network.html
         - title: Worship Band
-          url: /news_band
+          url: /news_band.html
+        - title: Building / Facilities
+          url: /building.html
 
     - title: Network Resources
       folderitems:

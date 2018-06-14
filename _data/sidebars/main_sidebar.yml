@@ -37,22 +37,68 @@ entries:
       url: /get_involved.html
       output: web
 
-  - title: Worship Band
+    - title: Supporting Tools
+      url: /collaboration.html
+      output: web
+
+  - title: Planning Center Details
     output: web
-    url: /band.html
+    url: /planning-center.html
     folderitems:
 
     - title: Overview
-      url: /band.html
+      url: /planning-center.html
       output: web
 
-    - title: Keyboard Setup
-      url: /keyboard_setup.html
+    - title: People
+      url: /pco-people.html
       output: web
 
-    - title: Stage Layout
-      url: /stage_layout.html
+    - title: Check-Ins
+      url: /pco-checkins.html
       output: web
+
+    - title: Registrations
+      url: /pco-registrations.html
+      output: web
+
+    - title: Services
+      url: /pco-services.html
+      output: web
+
+    - title: Articles and Pages
+      url: /category_planning-center.html
+      output: web
+
+  - title: Mailchimp
+    output: web
+    url: /
+    folderitems:
+
+    - title: Overview
+      url: /mailchimp.html
+      output: web
+
+    - title: Articles and Pages
+      url: category_mailchimp.html
+      output: web
+
+#  - title: Worship Band
+#    output: web
+#    url: /band.html
+#    folderitems:
+#
+#    - title: Overview
+#      url: /band.html
+#      output: web
+#
+#    - title: Keyboard Setup
+#      url: /keyboard_setup.html
+#      output: web
+#
+#    - title: Stage Layout
+#      url: /stage_layout.html
+#      output: web
 
   - title: Audio Visual Teams
     output: web
@@ -176,6 +222,10 @@ entries:
   - title: Building and Facilities
     output: web
     folderitems:
+
+    - title: Overview
+      url: /facilities.html
+      output: web
 
     - title: Blueprints
       url: /blueprints.html
