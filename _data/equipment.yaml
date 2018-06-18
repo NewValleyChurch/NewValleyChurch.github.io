@@ -1498,3 +1498,78 @@
   DMXIS Name: ''
   DMX Channels: ''
   Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Luxul
+  model: XAP-1410
+  description: Luxul AC1200 Dual-Band Wireless Access Point
+  type: WIFI Access Point
+  serial_number: XAP141004172530
+  department: network
+  deployed: 'YES'
+  zone: Kitchen Lobby
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Bogen
+  model: CSD2X2VR
+  description: Bogen 70V 24" Ceiling Tile Speakers
+  type: Passive Speaker
+  serial_number: '94000446'
+  department: sound
+  deployed: 'YES'
+  zone: Room 1
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Bogen
+  model: CSD2X2VR
+  description: Bogen 70V 24" Ceiling Tile Speakers
+  type: Passive Speaker
+  serial_number: '94000445'
+  department: sound
+  deployed: 'YES'
+  zone: Room 1
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  faq_id: ''
+  process_id: ''
+  details: ''
+  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
