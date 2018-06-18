@@ -1,3 +1,14 @@
+- ip: 192.168.4.1
+  mac: 'a8:60:b6:29:9c:fb'
+  hostname: MEDIAONE
+  brand: Apple
+  dns_name: ''
+  mdns_name: ''
+  smb_name: ''
+  smb_domain: ''
+  comments: ''
+  devicetype: Desktop Computers
+  department: ''
 - ip: 192.168.0.1
   mac: 'a4:13:4e:5e:2c:c0'
   hostname: XWR-3100V1 Wireless Router
@@ -86,9 +97,9 @@
   comments: ''
   devicetype: Receivers
   department: ''
-- ip: 192.168.0.128
+- ip: 192.168.0.10
   mac: 'a4:13:4e:59:eb:b0'
-  hostname: XAP-1410v1 Wireless Access Point
+  hostname: Access Point 2 Kids Area
   brand: Luxul
   dns_name: Luxul_XAP-1410.lan
   mdns_name: ''
@@ -97,9 +108,9 @@
   comments: ''
   devicetype: Access Points
   department: ''
-- ip: 192.168.0.136
+- ip: 192.168.6.1
   mac: '00:04:c4:02:64:a7'
-  hostname: lwiplpc.lan
+  hostname: QU-32 Desk
   brand: Allen And Heath Limited
   dns_name: lwiplpc.lan
   mdns_name: ''
@@ -196,9 +207,9 @@
   comments: ''
   devicetype: Tablets
   department: ''
-- ip: 192.168.0.176
+- ip: 192.168.0.124
   mac: 'a4:13:4e:5b:b1:10'
-  hostname: XAP-1410v1 Wireless Access Point
+  hostname: Access Point 1 Kitchen
   brand: Luxul
   dns_name: Luxul_XAP-1410.lan
   mdns_name: ''
@@ -250,4 +261,37 @@
   smb_domain: ''
   comments: ''
   devicetype: ''
+  department: ''
+- ip: 192.168.3.1
+  mac: 'B0:34:95:10:04:18'
+  hostname: MobileOne
+  brand: Apple Inc.
+  dns_name: MobileOne
+  mdns_name: ''
+  smb_name: ''
+  smb_domain: ''
+  comments: ''
+  devicetype: Mobile Devices
+  department: ''
+- ip: 192.168.3.2
+  mac: 'D0:E1:40:AF:89:49'
+  hostname: MobileTwo
+  brand: Apple Inc.
+  dns_name: MobileTwo
+  mdns_name: ''
+  smb_name: ''
+  smb_domain: ''
+  comments: ''
+  devicetype: Mobile Devices
+  department: ''
+- ip: 192.168.1.1
+  mac: 'b8:27:eb:59:88:89'
+  hostname: HASSIO
+  brand: Raspberry Pi3
+  dns_name: HASSIO
+  mdns_name: HASSIO
+  smb_name: ''
+  smb_domain: ''
+  comments: ''
+  devicetype: Server
   department: ''
