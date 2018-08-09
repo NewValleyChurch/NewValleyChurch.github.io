@@ -7,18 +7,16 @@
   serial_number: U63226-K2Z827120
   department: network
   deployed: 'YES'
-  zone: Kids
+  campus: Chandler
+  building: '69'
+  room: Kids
   link: ''
   purchase_date: ''
   warranty_expires: ''
-  ip: ''
-  mac: ''
+  ip: 192.168.9.2
+  mac: '00:80:92:90:ab:fd'
   static: ''
-  hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
+  hostname: QL-710W
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -32,18 +30,16 @@
   serial_number: U63226-B3Z597209
   department: network
   deployed: 'YES'
-  zone: Kids
+  campus: Chandler
+  building: '69'
+  room: Kids
   link: ''
   purchase_date: ''
   warranty_expires: ''
-  ip: ''
-  mac: ''
+  ip: 192.168.9.3
+  mac: '00:80:92:9b:87:e2'
   static: ''
-  hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
+  hostname: QL-710W
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -57,7 +53,9 @@
   serial_number: DKWKX01HDFHW
   department: network
   deployed: 'YES'
-  zone: Kids
+  campus: Chandler
+  building: '69'
+  room: Kids
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -65,10 +63,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -82,7 +76,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -90,10 +86,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -107,7 +99,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -115,10 +109,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -132,7 +122,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -140,10 +132,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -157,7 +145,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -165,10 +155,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -182,7 +168,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -190,10 +178,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -207,7 +191,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -215,10 +201,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -232,7 +214,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -240,10 +224,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -257,7 +237,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -265,10 +247,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -282,7 +260,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -290,10 +270,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -307,7 +283,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -315,10 +293,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -332,7 +306,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
@@ -340,10 +316,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -357,7 +329,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -365,10 +339,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -382,7 +352,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -390,10 +362,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -407,7 +375,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -415,10 +385,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -432,7 +398,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -440,10 +408,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -457,7 +421,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
@@ -465,10 +431,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -482,7 +444,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -490,10 +454,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -507,7 +467,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -515,10 +477,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -532,7 +490,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -540,10 +500,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -557,7 +513,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -565,10 +523,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -582,7 +536,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
@@ -590,10 +546,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -607,7 +559,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -615,10 +569,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -632,7 +582,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -640,10 +592,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -657,7 +605,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -665,10 +615,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -682,7 +628,9 @@
   serial_number: ''
   department: sound
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -690,10 +638,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -707,7 +651,9 @@
   serial_number: ''
   department: ''
   deployed: ''
-  zone: ''
+  campus: Chandler
+  building: '101'
+  room: ''
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -715,10 +661,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -732,7 +674,9 @@
   serial_number: ''
   department: band
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
@@ -740,10 +684,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -757,7 +697,9 @@
   serial_number: ''
   department: lights
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
@@ -765,10 +707,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -782,7 +720,9 @@
   serial_number: ''
   department: band
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
@@ -790,10 +730,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -807,7 +743,9 @@
   serial_number: '71001200025'
   department: lights
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -815,10 +753,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '20'
   DMXIS Name: SR1 White
   DMX Channels: '2'
@@ -832,7 +766,9 @@
   serial_number: '71001200026'
   department: lights
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -840,10 +776,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '60'
   DMXIS Name: SL1 White
   DMX Channels: '2'
@@ -857,7 +789,9 @@
   serial_number: '71001200024'
   department: lights
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -865,10 +799,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '80'
   DMXIS Name: E SR1 White
   DMX Channels: '2'
@@ -882,7 +812,9 @@
   serial_number: ''
   department: lights
   deployed: 'YES'
-  zone: Stage
+  campus: Chandler
+  building: '101'
+  room: Stage
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -890,10 +822,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '90'
   DMXIS Name: E SL1 White
   DMX Channels: '2'
@@ -907,7 +835,9 @@
   serial_number: ''
   department: lights
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -915,10 +845,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '10'
   DMXIS Name: SR2 RGBA
   DMX Channels: '8'
@@ -932,7 +858,9 @@
   serial_number: ''
   department: lights
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -940,10 +868,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '30'
   DMXIS Name: SR1 RGBA
   DMX Channels: '8'
@@ -957,7 +881,9 @@
   serial_number: ''
   department: lights
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -965,10 +891,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '40'
   DMXIS Name: Center RGBA
   DMX Channels: '8'
@@ -982,7 +904,9 @@
   serial_number: ''
   department: lights
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -990,10 +914,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '50'
   DMXIS Name: SL1 RGBA
   DMX Channels: '8'
@@ -1007,7 +927,9 @@
   serial_number: ''
   department: lights
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1015,10 +937,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '70'
   DMXIS Name: SL2 RGBA
   DMX Channels: '8'
@@ -1032,7 +950,9 @@
   serial_number: ''
   department: lights
   deployed: 'YES'
-  zone: NE Office
+  campus: Chandler
+  building: '101'
+  room: NE Office
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1040,10 +960,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: '1'
   DMXIS Name: House Lights
   DMX Channels: '8'
@@ -1057,7 +973,9 @@
   serial_number: ''
   department: media
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
@@ -1065,10 +983,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1082,18 +996,16 @@
   serial_number: C02T50NHGG7N
   department: media
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: 'Y'
   purchase_date: 4/13/2018
   warranty_expires: 4/12/2019
-  ip: 192.168.0.174
-  mac: 'a8:60:b6:29:9c:fb'
-  static: 'Yes'
-  hostname: MediaOne
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1107,7 +1019,9 @@
   serial_number: AC5A1706000471
   department: media
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
@@ -1115,10 +1029,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1132,7 +1042,9 @@
   serial_number: ''
   department: media
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: '101'
+  room: FOH
   link: 'Y'
   purchase_date: 4/25/2018
   warranty_expires: 4/24
@@ -1140,10 +1052,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1157,7 +1065,9 @@
   serial_number: BJDB23800504
   department: media
   deployed: 'YES'
-  zone: Kids
+  campus: Chandler
+  building: '69'
+  room: Kids
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1165,10 +1075,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1182,7 +1088,9 @@
   serial_number: 0A561RAGA42925H
   department: media
   deployed: 'YES'
-  zone: Kids
+  campus: Chandler
+  building: '69'
+  room: Kids
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1190,10 +1098,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1207,7 +1111,9 @@
   serial_number: ''
   department: sound
   deployed: 'NO'
-  zone: Kids
+  campus: Chandler
+  building: '69'
+  room: Kids
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1215,10 +1121,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1232,7 +1134,9 @@
   serial_number: '4058750104'
   department: sound
   deployed: 'YES'
-  zone: Kids
+  campus: Chandler
+  building: '69'
+  room: Kids
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1240,10 +1144,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1257,7 +1157,9 @@
   serial_number: PG2C080248
   department: sound
   deployed: 'YES'
-  zone: Kids
+  campus: Chandler
+  building: '69'
+  room: Kids
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1265,10 +1167,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1282,7 +1180,9 @@
   serial_number: A375148004661
   department: band
   deployed: 'NO'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1290,10 +1190,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1307,7 +1203,9 @@
   serial_number: '106593'
   department: sound
   deployed: 'NO'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1315,10 +1213,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1332,7 +1226,9 @@
   serial_number: 12A10604275162
   department: network
   deployed: 'NO'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1340,10 +1236,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1357,7 +1249,9 @@
   serial_number: 4E81677UA1E45
   department: network
   deployed: 'NO'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1365,10 +1259,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1382,7 +1272,9 @@
   serial_number: CDFB0F307810
   department: network
   deployed: 'NO'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1390,10 +1282,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1407,7 +1295,9 @@
   serial_number: ''
   department: media
   deployed: 'NO'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1415,10 +1305,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1432,7 +1318,9 @@
   serial_number: X000KFPSHL
   department: media
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1440,10 +1328,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1457,7 +1341,9 @@
   serial_number: X000Y12DMJ
   department: media
   deployed: 'NO'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1465,10 +1351,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1482,7 +1364,9 @@
   serial_number: F6KLNOJRFF54
   department: network
   deployed: 'NO'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1490,10 +1374,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1507,7 +1387,9 @@
   serial_number: XAP141004172530
   department: network
   deployed: 'YES'
-  zone: Kitchen Lobby
+  campus: Chandler
+  building: ''
+  room: Kitchen Lobby
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1515,10 +1397,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1532,7 +1410,9 @@
   serial_number: '94000446'
   department: sound
   deployed: 'YES'
-  zone: Room 1
+  campus: Chandler
+  building: ''
+  room: Room 1
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1540,10 +1420,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1557,7 +1433,9 @@
   serial_number: '94000445'
   department: sound
   deployed: 'YES'
-  zone: Room 1
+  campus: Chandler
+  building: ''
+  room: Room 1
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1565,10 +1443,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1582,7 +1456,9 @@
   serial_number: ''
   department: media
   deployed: 'YES'
-  zone: Sanctuary
+  campus: Chandler
+  building: ''
+  room: Sanctuary
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1590,10 +1466,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1607,7 +1479,9 @@
   serial_number: ''
   department: media
   deployed: 'YES'
-  zone: Sanctuary
+  campus: Chandler
+  building: ''
+  room: Sanctuary
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1615,10 +1489,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1632,7 +1502,9 @@
   serial_number: 0050c207e132
   department: lights
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1640,10 +1512,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1657,7 +1525,9 @@
   serial_number: B4FBE420B7E5
   department: network
   deployed: 'YES'
-  zone: FOH
+  campus: Chandler
+  building: ''
+  room: FOH
   link: ''
   purchase_date: 8/7/2018
   warranty_expires: ''
@@ -1665,10 +1535,6 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
@@ -1682,7 +1548,9 @@
   serial_number: ''
   department: ''
   deployed: ''
-  zone: ''
+  campus: ''
+  building: ''
+  room: ''
   link: ''
   purchase_date: ''
   warranty_expires: ''
@@ -1690,10 +1558,29 @@
   mac: ''
   static: ''
   hostname: ''
-  faq_id: ''
-  process_id: ''
-  details: ''
-  document: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: Luxul
+  model: XWR-3100V1
+  description: XWR-3100V1 Wireless Router
+  type: Router
+  serial_number: XWR310006170151
+  department: network
+  deployed: 'YES'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: ''
+  warranty_expires: ''
+  ip: 192.168.0.1
+  mac: 'a4:13:4e:5e:2c:c0'
+  static: ''
+  hostname: XWR-3100V1 Wireless Router
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
