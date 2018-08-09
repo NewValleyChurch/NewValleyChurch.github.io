@@ -2,6 +2,7 @@
   Image: 'Y'
   brand: Brother
   model: QL-710W
+  mfg_sku: ''
   description: Label Printer
   type: Printer
   serial_number: U63226-K2Z827120
@@ -13,6 +14,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: 192.168.9.2
   mac: '00:80:92:90:ab:fd'
   static: ''
@@ -25,6 +27,7 @@
   Image: 'Y'
   brand: Brother
   model: QL-710W
+  mfg_sku: ''
   description: Label Printer
   type: Printer
   serial_number: U63226-B3Z597209
@@ -36,6 +39,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: 192.168.9.3
   mac: '00:80:92:9b:87:e2'
   static: ''
@@ -48,6 +52,7 @@
   Image: ''
   brand: Apple
   model: A1395
+  mfg_sku: ''
   description: iPad 2
   type: Mobile Device
   serial_number: DKWKX01HDFHW
@@ -59,6 +64,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -71,6 +77,7 @@
   Image: 'Y'
   brand: Allen & Heath
   model: QU-32
+  mfg_sku: ''
   description: 32 Channel Audio Interface / Mixer
   type: Audio Interface
   serial_number: ''
@@ -82,6 +89,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -94,6 +102,7 @@
   Image: ''
   brand: Allen & Heath
   model: AB-168
+  mfg_sku: ''
   description: 16 IN / 8 OUT dSnake Digital Audio Input
   type: Audio Interface
   serial_number: ''
@@ -105,6 +114,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -117,6 +127,7 @@
   Image: ''
   brand: Allen & Heath
   model: AB-168
+  mfg_sku: ''
   description: 16 IN / 8 OUT dSnake Digital Audio Input
   type: Audio Interface
   serial_number: ''
@@ -128,6 +139,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -140,6 +152,7 @@
   Image: ''
   brand: Allen & Heath
   model: ME-U
+  mfg_sku: ''
   description: Personal Mixer HUB
   type: Audio Interface
   serial_number: ''
@@ -151,6 +164,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -163,6 +177,7 @@
   Image: 'Y'
   brand: Allen & Heath
   model: ME-1
+  mfg_sku: ''
   description: Digital In-ear Personal Monitoring Mixer
   type: Audio Interface
   serial_number: ''
@@ -174,6 +189,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -186,6 +202,7 @@
   Image: ''
   brand: Allen & Heath
   model: ME-1
+  mfg_sku: ''
   description: Digital In-ear Personal Monitoring Mixer
   type: Audio Interface
   serial_number: ''
@@ -197,6 +214,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -209,6 +227,7 @@
   Image: ''
   brand: Allen & Heath
   model: ME-1
+  mfg_sku: ''
   description: Digital In-ear Personal Monitoring Mixer
   type: Audio Interface
   serial_number: ''
@@ -220,6 +239,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -232,6 +252,7 @@
   Image: ''
   brand: Allen & Heath
   model: ME-1
+  mfg_sku: ''
   description: Digital In-ear Personal Monitoring Mixer
   type: Audio Interface
   serial_number: ''
@@ -243,6 +264,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -255,6 +277,7 @@
   Image: ''
   brand: Allen & Heath
   model: ME-1
+  mfg_sku: ''
   description: Digital In-ear Personal Monitoring Mixer
   type: Audio Interface
   serial_number: ''
@@ -266,6 +289,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -278,6 +302,7 @@
   Image: ''
   brand: Allen & Heath
   model: ME-1
+  mfg_sku: ''
   description: Digital In-ear Personal Monitoring Mixer
   type: Audio Interface
   serial_number: ''
@@ -289,6 +314,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -301,6 +327,7 @@
   Image: 'Y'
   brand: Renkus-Heinz
   model: PF1-500
+  mfg_sku: ''
   description: Amplifier Module
   type: Active Speaker
   serial_number: ''
@@ -312,6 +339,7 @@
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -324,6 +352,7 @@
   Image: ''
   brand: Renkus-Heinz
   model: PF1-500
+  mfg_sku: ''
   description: Amplifier Module
   type: Active Speaker
   serial_number: ''
@@ -335,6 +364,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -347,6 +377,7 @@
   Image: ''
   brand: Renkus-Heinz
   model: PF1-500
+  mfg_sku: ''
   description: Amplifier Module
   type: Active Speaker
   serial_number: ''
@@ -358,6 +389,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -370,6 +402,7 @@
   Image: ''
   brand: Renkus-Heinz
   model: PF1-500
+  mfg_sku: ''
   description: Amplifier Module
   type: Active Speaker
   serial_number: ''
@@ -381,6 +414,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -393,6 +427,7 @@
   Image: ''
   brand: Renkus-Heinz
   model: PF1-500
+  mfg_sku: ''
   description: Amplifier Module
   type: Active Speaker
   serial_number: ''
@@ -404,6 +439,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -416,6 +452,7 @@
   Image: 'Y'
   brand: Renkus-Heinz
   model: CFX101LA
+  mfg_sku: ''
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
@@ -427,6 +464,7 @@
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -439,6 +477,7 @@
   Image: ''
   brand: Renkus-Heinz
   model: CFX101LA
+  mfg_sku: ''
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
@@ -450,6 +489,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -462,6 +502,7 @@
   Image: ''
   brand: Renkus-Heinz
   model: CFX101LA
+  mfg_sku: ''
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
@@ -473,6 +514,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -485,6 +527,7 @@
   Image: ''
   brand: Renkus-Heinz
   model: CFX101LA
+  mfg_sku: ''
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
@@ -496,6 +539,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -508,6 +552,7 @@
   Image: ''
   brand: Renkus-Heinz
   model: CFX101LA
+  mfg_sku: ''
   description: Point Source Array Speaker Cabinets
   type: Active Speaker
   serial_number: ''
@@ -519,6 +564,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -531,6 +577,7 @@
   Image: 'Y'
   brand: QSC
   model: KW181-BK
+  mfg_sku: ''
   description: Sub-Woofer Stage Left
   type: Active Speaker
   serial_number: ''
@@ -542,6 +589,7 @@
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -554,6 +602,7 @@
   Image: ''
   brand: QSC
   model: KW181-BK
+  mfg_sku: ''
   description: Sub-Woofer Stage Right
   type: Active Speaker
   serial_number: ''
@@ -565,6 +614,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -577,6 +627,7 @@
   Image: 'Y'
   brand: QSC
   model: RAVE522UA
+  mfg_sku: ''
   description: Digital Sound Processor
   type: Audio Interface
   serial_number: ''
@@ -588,6 +639,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -600,6 +652,7 @@
   Image: ''
   brand: QSC
   model: CX204V
+  mfg_sku: ''
   description: 70V 4-Channel Amplifiers
   type: Amplifier
   serial_number: ''
@@ -611,6 +664,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -623,6 +677,7 @@
   Image: ''
   brand: Focusrite
   model: 18I8
+  mfg_sku: ''
   description: Scarlett 18i8 18 In / 8 Out Sound Module / Mixer
   type: Audio Interface
   serial_number: ''
@@ -634,6 +689,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -646,6 +702,7 @@
   Image: ''
   brand: EIKI
   model: ''
+  mfg_sku: ''
   description: ''
   type: ''
   serial_number: ''
@@ -657,6 +714,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -669,6 +727,7 @@
   Image: 'Y'
   brand: Yamaha
   model: CP33
+  mfg_sku: ''
   description: Yamaha CP33 Digital Piano
   type: Musical Instrument
   serial_number: ''
@@ -680,6 +739,7 @@
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -692,6 +752,7 @@
   Image: 'Y'
   brand: Enttec
   model: DMXIS
+  mfg_sku: ''
   description: ENTTEC DMXIS USB to DMX Lighting Controller
   type: Light Control
   serial_number: ''
@@ -703,6 +764,7 @@
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -715,6 +777,7 @@
   Image: ''
   brand: Akai
   model: ADV61
+  mfg_sku: ''
   description: AKAI Advance 61 USB Midi Keyboard Controller
   type: Musical Instrument
   serial_number: ''
@@ -726,6 +789,7 @@
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -738,6 +802,7 @@
   Image: 'Y'
   brand: MegaLITE
   model: 7100-3W-CW-45-3-BLK
+  mfg_sku: ''
   description: MegaLITE Unicolor CM5 LED Cool White
   type: Light
   serial_number: '71001200025'
@@ -749,6 +814,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -761,6 +827,7 @@
   Image: 'Y'
   brand: MegaLITE
   model: 7100-3W-CW-45-3-BLK
+  mfg_sku: ''
   description: MegaLITE Unicolor CM5 LED Cool White
   type: Light
   serial_number: '71001200026'
@@ -772,6 +839,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -784,6 +852,7 @@
   Image: 'Y'
   brand: MegaLITE
   model: 7100-3W-WW-45-3-BLK
+  mfg_sku: ''
   description: MegaLITE Unicolor CM5 LED Warm White
   type: Light
   serial_number: '71001200024'
@@ -795,6 +864,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -807,6 +877,7 @@
   Image: 'Y'
   brand: MegaLITE
   model: 7100-3W-WW-45-3-BLK
+  mfg_sku: ''
   description: MegaLITE Unicolor CM5 LED Warm White
   type: Light
   serial_number: ''
@@ -818,6 +889,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -830,6 +902,7 @@
   Image: 'Y'
   brand: Elation
   model: OPTIRGBA
+  mfg_sku: ''
   description: Elation OptiRGBA LED DMX Light
   type: Light
   serial_number: ''
@@ -841,6 +914,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -853,6 +927,7 @@
   Image: 'Y'
   brand: Elation
   model: OPTIRGBA
+  mfg_sku: ''
   description: Elation OptiRGBA LED DMX Light
   type: Light
   serial_number: ''
@@ -864,6 +939,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -876,6 +952,7 @@
   Image: 'Y'
   brand: Elation
   model: OPTIRGBA
+  mfg_sku: ''
   description: Elation OptiRGBA LED DMX Light
   type: Light
   serial_number: ''
@@ -887,6 +964,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -899,6 +977,7 @@
   Image: 'Y'
   brand: Elation
   model: OPTIRGBA
+  mfg_sku: ''
   description: Elation OptiRGBA LED DMX Light
   type: Light
   serial_number: ''
@@ -910,6 +989,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -922,6 +1002,7 @@
   Image: 'Y'
   brand: Elation
   model: OPTIRGBA
+  mfg_sku: ''
   description: Elation OptiRGBA LED DMX Light
   type: Light
   serial_number: ''
@@ -933,6 +1014,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -945,6 +1027,7 @@
   Image: 'Y'
   brand: Leviton
   model: DS8
+  mfg_sku: ''
   description: Leviton DS8 Digital Dimmer Pack
   type: Light
   serial_number: ''
@@ -956,6 +1039,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -968,6 +1052,7 @@
   Image: 'Y'
   brand: Matrox
   model: DualH2GDME
+  mfg_sku: ''
   description: Matrox DualHead2Go Screen Output Splitter
   type: Video Interface
   serial_number: ''
@@ -979,6 +1064,7 @@
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -991,6 +1077,7 @@
   Image: 'Y'
   brand: Apple
   model: A1419
+  mfg_sku: ''
   description: 27" iMac Workstation
   type: Computer
   serial_number: C02T50NHGG7N
@@ -1002,6 +1089,7 @@
   link: 'Y'
   purchase_date: 4/13/2018
   warranty_expires: 4/12/2019
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1014,6 +1102,7 @@
   Image: 'Y'
   brand: j5create
   model: JUA250
+  mfg_sku: ''
   description: USB 2.0 to HDMI Video Adapter
   type: Video Interface
   serial_number: AC5A1706000471
@@ -1025,6 +1114,7 @@
   link: 'Y'
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1037,6 +1127,7 @@
   Image: 'Y'
   brand: SIIG
   model: BS41803X
+  mfg_sku: ''
   description: HDMI Extender over Single Cat5e/6 Balun
   type: Video Interface
   serial_number: ''
@@ -1048,6 +1139,7 @@
   link: 'Y'
   purchase_date: 4/25/2018
   warranty_expires: 4/24
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1060,6 +1152,7 @@
   Image: 'Y'
   brand: InFocus
   model: IN116
+  mfg_sku: ''
   description: InFocus IN116 Projector
   type: Projector
   serial_number: BJDB23800504
@@ -1071,6 +1164,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1083,6 +1177,7 @@
   Image: 'Y'
   brand: Samsung
   model: BD-J5100
+  mfg_sku: ''
   description: Samsung BlueRay Player
   type: Media Player
   serial_number: 0A561RAGA42925H
@@ -1094,6 +1189,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1106,6 +1202,7 @@
   Image: 'Y'
   brand: Gator Frameworks
   model: GFW-SPK-WM100
+  mfg_sku: ''
   description: Gator Frame Works Speaker Mounts
   type: Mount
   serial_number: ''
@@ -1117,6 +1214,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1129,6 +1227,7 @@
   Image: 'Y'
   brand: Crown
   model: CTS-3000
+  mfg_sku: ''
   description: Crown CTS-3000 70V 2-Channel Amplifier
   type: Amplifier
   serial_number: '4058750104'
@@ -1140,6 +1239,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1152,6 +1252,7 @@
   Image: 'Y'
   brand: PreSonus
   model: 24-4-2
+  mfg_sku: ''
   description: StudioLive 24.4.2
   type: Mixer
   serial_number: PG2C080248
@@ -1163,6 +1264,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1175,6 +1277,7 @@
   Image: 'Y'
   brand: Novation
   model: LaunchpadPro
+  mfg_sku: ''
   description: Novation LaunchPad Pro Midi Controller
   type: MIDI Controller
   serial_number: A375148004661
@@ -1186,6 +1289,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1198,6 +1302,7 @@
   Image: 'Y'
   brand: Sennheiser
   model: EW100
+  mfg_sku: ''
   description: Sennheiser EW100 G2 Wireless Microphone Receiver
   type: Wireless Microphone Receiver
   serial_number: '106593'
@@ -1209,6 +1314,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1221,6 +1327,7 @@
   Image: 'Y'
   brand: Linksys
   model: EA4500
+  mfg_sku: ''
   description: Linksys EA4500 n900 Dual Band Wi-Fi Router
   type: WiFI Router
   serial_number: 12A10604275162
@@ -1232,6 +1339,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1244,6 +1352,7 @@
   Image: 'Y'
   brand: Netgear
   model: R6900
+  mfg_sku: ''
   description: Netgear Nighthawk AC1900 R6900
   type: WiFI Router
   serial_number: 4E81677UA1E45
@@ -1255,6 +1364,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1267,6 +1377,7 @@
   Image: 'Y'
   brand: Linksys
   model: WRT54G
+  mfg_sku: ''
   description: Wireless-G 2.4 GHz Router
   type: WiFI Router
   serial_number: CDFB0F307810
@@ -1278,6 +1389,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1290,6 +1402,7 @@
   Image: 'N'
   brand: DirectConnect
   model: '16245'
+  mfg_sku: ''
   description: Direct Connect DCC5H HDMI Cat5e/6 Extender
   type: video Interface
   serial_number: ''
@@ -1301,6 +1414,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1313,6 +1427,7 @@
   Image: 'Y'
   brand: Anker
   model: 68ANHUB-S7A
+  mfg_sku: ''
   description: Anker 7 Port Aluminum USB Hub
   type: USB Hub
   serial_number: X000KFPSHL
@@ -1324,6 +1439,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1336,6 +1452,7 @@
   Image: 'N'
   brand: FlyKan
   model: FlyKan
+  mfg_sku: ''
   description: USB 3.0 to HDMI Display Adapter
   type: video Interface
   serial_number: X000Y12DMJ
@@ -1347,6 +1464,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1359,6 +1477,7 @@
   Image: 'Y'
   brand: Apple
   model: A1469-2633
+  mfg_sku: ''
   description: Apple TV Gen 3
   type: Computer
   serial_number: F6KLNOJRFF54
@@ -1370,6 +1489,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1382,6 +1502,7 @@
   Image: 'Y'
   brand: Luxul
   model: XAP-1410
+  mfg_sku: ''
   description: Luxul AC1200 Dual-Band Wireless Access Point
   type: WIFI Access Point
   serial_number: XAP141004172530
@@ -1393,6 +1514,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1405,6 +1527,7 @@
   Image: 'Y'
   brand: Bogen
   model: CSD2X2VR
+  mfg_sku: ''
   description: Bogen 70V 24" Ceiling Tile Speakers
   type: Passive Speaker
   serial_number: '94000446'
@@ -1416,6 +1539,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1428,6 +1552,7 @@
   Image: 'Y'
   brand: Bogen
   model: CSD2X2VR
+  mfg_sku: ''
   description: Bogen 70V 24" Ceiling Tile Speakers
   type: Passive Speaker
   serial_number: '94000445'
@@ -1439,6 +1564,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1451,6 +1577,7 @@
   Image: 'Y'
   brand: Eiki
   model: EK-811W
+  mfg_sku: ''
   description: '8,000 Lumens / WXGA / 1-chip DLP® Projector'
   type: Projector
   serial_number: ''
@@ -1462,6 +1589,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1474,6 +1602,7 @@
   Image: 'Y'
   brand: Eiki
   model: EK-811W
+  mfg_sku: ''
   description: '8,000 Lumens / WXGA / 1-chip DLP® Projector'
   type: Projector
   serial_number: ''
@@ -1485,6 +1614,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1497,6 +1627,7 @@
   Image: 'Y'
   brand: Enttec
   model: ODEMK2
+  mfg_sku: ''
   description: DMX Ethernet Gateway
   type: DMX Interface
   serial_number: 0050c207e132
@@ -1508,6 +1639,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1520,6 +1652,7 @@
   Image: 'Y'
   brand: Ubiquity Networks
   model: US-24-04
+  mfg_sku: ''
   description: Unifi 24-Port Switch with SFP
   type: Network Switch
   serial_number: B4FBE420B7E5
@@ -1531,6 +1664,7 @@
   link: ''
   purchase_date: 8/7/2018
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1543,6 +1677,7 @@
   Image: 'Y'
   brand: TrippLite
   model: N252-P24
+  mfg_sku: ''
   description: ''
   type: ''
   serial_number: ''
@@ -1554,6 +1689,7 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: ''
   mac: ''
   static: ''
@@ -1566,6 +1702,7 @@
   Image: 'Y'
   brand: Luxul
   model: XWR-3100V1
+  mfg_sku: ''
   description: XWR-3100V1 Wireless Router
   type: Router
   serial_number: XWR310006170151
@@ -1577,10 +1714,486 @@
   link: ''
   purchase_date: ''
   warranty_expires: ''
+  mfg_date: ''
   ip: 192.168.0.1
   mac: 'a4:13:4e:5e:2c:c0'
   static: ''
   hostname: XWR-3100V1 Wireless Router
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR200
+  mfg_sku: SIX054
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383637'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR201
+  mfg_sku: SIX055
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383638'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR202
+  mfg_sku: SIX056
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383561'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR203
+  mfg_sku: SIX057
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383562'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR204
+  mfg_sku: SIX058
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383639'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR205
+  mfg_sku: SIX059
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383640'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR206
+  mfg_sku: SIX060
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383621'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR207
+  mfg_sku: SIX061
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383622'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR208
+  mfg_sku: SIX062
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383634'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR209
+  mfg_sku: SIX063
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383713'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR210
+  mfg_sku: SIX064
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383714'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR211
+  mfg_sku: SIX065
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383667'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR212
+  mfg_sku: SIX066
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383668'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR213
+  mfg_sku: SIX067
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383709'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR214
+  mfg_sku: SIX068
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383710'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR215
+  mfg_sku: SIX069
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383579'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR216
+  mfg_sku: SIX070
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383580'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR217
+  mfg_sku: SIX071
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383635'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: SIXPAR218
+  mfg_sku: SIX072
+  description: Elation SIXPAR 200 LED DMX Light Fixture
+  type: Light
+  serial_number: '8383636'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
   DMX_Address: ''
   DMXIS Name: ''
   DMX Channels: ''
