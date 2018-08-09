@@ -2039,7 +2039,7 @@
   link: ''
   purchase_date: 8/8/2018
   warranty_expires: 8/8/2020
-  mfg_date: ''
+  mfg_date: 06/2018
   ip: ''
   mac: ''
   static: ''
@@ -2181,6 +2181,431 @@
   description: Elation SIXPAR 200 LED DMX Light Fixture
   type: Light
   serial_number: '8383636'
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
+  department: media
+  deployed: 'NO'
+  campus: Chandler
+  building: '101'
+  room: FOH
+  link: ''
+  purchase_date: 8/8/2018
+  warranty_expires: 8/8/2020
+  mfg_date: ''
+  ip: ''
+  mac: ''
+  static: ''
+  hostname: ''
+  DMX_Address: ''
+  DMXIS Name: ''
+  DMX Channels: ''
+  Channel Patch: ''
+- asset_tag: ''
+  Image: 'Y'
+  brand: ElationPro
+  model: BD200
+  mfg_sku: ''
+  description: Elation BD200 Barn Doors
+  type: Light
+  serial_number: ''
   department: media
   deployed: 'NO'
   campus: Chandler
